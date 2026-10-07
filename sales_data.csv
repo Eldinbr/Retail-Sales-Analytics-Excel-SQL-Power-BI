@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Product_ID,Product_Name,Subcategory,Category,Region,Sales_Channel,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method
+ORD-00001,2024-04-24,CUST-0013,P011,Notebook Pack,Stationery,Office,East,Online,4,16.86,0.1,60.7,45.86,14.84,Card
+ORD-00002,2024-04-14,CUST-0280,P003,4K Monitor,Monitors,Electronics,North,Retail,2,415.45,0.05,789.35,565.01,224.34,Card
+ORD-00003,2024-04-05,CUST-0112,P001,Laptop Pro 14,Computers,Electronics,South,Online,4,1341.54,0.0,5366.16,3648.99,1717.17,Bank Transfer
+ORD-00004,2025-10-27,CUST-0280,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,2,113.32,0.0,226.64,154.12,72.52,PayPal
+ORD-00005,2024-10-11,CUST-0004,P010,Webcam HD,Accessories,Electronics,South,Retail,2,79.99,0.2,127.98,108.79,19.19,PayPal
+ORD-00006,2024-06-08,CUST-0111,P005,Office Chair,Furniture,Office,East,Online,3,307.56,0.0,922.68,627.42,295.26,Card
+ORD-00007,2024-04-09,CUST-0184,P007,Desk Lamp,Furniture,Office,East,Retail,1,65.32,0.0,65.32,44.42,20.9,Card
+ORD-00008,2025-04-15,CUST-0275,P012,Monitor Arm,Accessories,Office,North,Retail,2,95.47,0.0,190.94,129.84,61.1,Card
+ORD-00009,2024-10-27,CUST-0186,P009,USB-C Dock,Accessories,Electronics,South,Online,4,172.52,0.0,690.08,469.25,220.83,Card
+ORD-00010,2024-08-21,CUST-0149,P011,Notebook Pack,Stationery,Office,North,Online,4,19.03,0.05,72.31,51.76,20.55,Card
+ORD-00011,2024-10-11,CUST-0233,P007,Desk Lamp,Furniture,Office,East,Online,1,71.28,0.0,71.28,48.47,22.81,PayPal
+ORD-00012,2024-08-02,CUST-0137,P006,Standing Desk,Furniture,Office,North,Online,1,520.97,0.0,520.97,354.26,166.71,Bank Transfer
+ORD-00013,2024-09-07,CUST-0084,P012,Monitor Arm,Accessories,Office,West,Retail,2,85.75,0.05,162.92,116.62,46.3,PayPal
+ORD-00014,2025-12-05,CUST-0286,P011,Notebook Pack,Stationery,Office,South,Retail,1,19.11,0.2,15.29,12.99,2.3,Card
+ORD-00015,2024-02-02,CUST-0162,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,104.08,0.0,104.08,70.77,33.31,Card
+ORD-00016,2025-08-03,CUST-0162,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,2,101.68,0.0,203.36,138.28,65.08,PayPal
+ORD-00017,2025-04-14,CUST-0074,P011,Notebook Pack,Stationery,Office,East,Online,2,16.82,0.1,30.28,22.88,7.4,Card
+ORD-00018,2025-07-28,CUST-0276,P012,Monitor Arm,Accessories,Office,East,Retail,1,98.09,0.0,98.09,66.7,31.39,Bank Transfer
+ORD-00019,2025-01-05,CUST-0113,P007,Desk Lamp,Furniture,Office,South,Retail,1,61.2,0.0,61.2,41.62,19.58,Card
+ORD-00020,2024-04-22,CUST-0079,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1367.4,0.0,2734.8,1859.66,875.14,Bank Transfer
+ORD-00021,2025-01-29,CUST-0196,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,141.96,0.0,141.96,96.53,45.43,Bank Transfer
+ORD-00022,2025-11-27,CUST-0059,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1355.47,0.05,2575.39,1843.44,731.95,Card
+ORD-00023,2025-03-21,CUST-0081,P005,Office Chair,Furniture,Office,West,Online,3,254.53,0.0,763.59,519.24,244.35,Bank Transfer
+ORD-00024,2024-09-26,CUST-0257,P012,Monitor Arm,Accessories,Office,South,Online,2,90.66,0.0,181.32,123.3,58.02,Bank Transfer
+ORD-00025,2025-10-16,CUST-0260,P005,Office Chair,Furniture,Office,South,Online,2,306.05,0.05,581.5,416.23,165.27,PayPal
+ORD-00026,2025-07-06,CUST-0272,P003,4K Monitor,Monitors,Electronics,North,Retail,2,389.84,0.05,740.7,530.18,210.52,PayPal
+ORD-00027,2024-04-24,CUST-0186,P001,Laptop Pro 14,Computers,Electronics,East,Online,4,1128.91,0.0,4515.64,3070.64,1445.0,Card
+ORD-00028,2025-08-03,CUST-0041,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,103.37,0.1,93.03,70.29,22.74,Card
+ORD-00029,2024-05-08,CUST-0066,P009,USB-C Dock,Accessories,Electronics,West,Online,4,187.45,0.1,674.82,509.86,164.96,PayPal
+ORD-00030,2025-09-13,CUST-0217,P009,USB-C Dock,Accessories,Electronics,South,Online,1,183.81,0.1,165.43,124.99,40.44,Bank Transfer
+ORD-00031,2025-02-12,CUST-0192,P005,Office Chair,Furniture,Office,West,Retail,1,258.49,0.0,258.49,175.77,82.72,Card
+ORD-00032,2024-08-18,CUST-0033,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,4,108.89,0.15,370.23,296.18,74.05,Bank Transfer
+ORD-00033,2024-08-23,CUST-0113,P009,USB-C Dock,Accessories,Electronics,North,Online,1,173.2,0.0,173.2,117.78,55.42,Bank Transfer
+ORD-00034,2024-03-01,CUST-0118,P011,Notebook Pack,Stationery,Office,North,Online,2,18.5,0.1,33.3,25.16,8.14,PayPal
+ORD-00035,2025-06-10,CUST-0122,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,141.6,0.05,134.52,96.29,38.23,Card
+ORD-00036,2024-05-15,CUST-0293,P009,USB-C Dock,Accessories,Electronics,West,Online,4,189.39,0.1,681.8,515.14,166.66,PayPal
+ORD-00037,2024-07-13,CUST-0049,P007,Desk Lamp,Furniture,Office,North,Retail,1,61.83,0.0,61.83,42.04,19.79,PayPal
+ORD-00038,2025-02-24,CUST-0240,P007,Desk Lamp,Furniture,Office,North,Online,1,64.06,0.05,60.86,43.56,17.3,Card
+ORD-00039,2024-12-13,CUST-0056,P007,Desk Lamp,Furniture,Office,South,Online,1,61.12,0.0,61.12,41.56,19.56,Card
+ORD-00040,2025-04-04,CUST-0072,P009,USB-C Dock,Accessories,Electronics,West,Online,4,182.28,0.05,692.66,495.8,196.86,PayPal
+ORD-00041,2024-09-12,CUST-0039,P008,External SSD 1TB,Storage,Electronics,West,Online,2,118.73,0.15,201.84,161.47,40.37,Card
+ORD-00042,2025-07-07,CUST-0008,P011,Notebook Pack,Stationery,Office,North,Online,2,16.93,0.05,32.17,23.02,9.15,Card
+ORD-00043,2025-05-12,CUST-0247,P007,Desk Lamp,Furniture,Office,South,Retail,2,62.27,0.0,124.54,84.69,39.85,Card
+ORD-00044,2025-01-23,CUST-0002,P003,4K Monitor,Monitors,Electronics,West,Retail,3,430.45,0.15,1097.65,878.12,219.53,PayPal
+ORD-00045,2025-03-09,CUST-0285,P005,Office Chair,Furniture,Office,West,Online,3,300.8,0.05,857.28,613.63,243.65,Card
+ORD-00046,2024-08-10,CUST-0030,P005,Office Chair,Furniture,Office,North,Retail,2,275.32,0.0,550.64,374.44,176.2,Card
+ORD-00047,2025-08-21,CUST-0245,P001,Laptop Pro 14,Computers,Electronics,South,Online,3,1326.86,0.05,3781.55,2706.79,1074.76,Bank Transfer
+ORD-00048,2024-07-09,CUST-0036,P002,Wireless Headphones,Accessories,Electronics,North,Online,2,156.8,0.0,313.6,213.25,100.35,PayPal
+ORD-00049,2025-08-06,CUST-0127,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,142.89,0.0,142.89,97.17,45.72,PayPal
+ORD-00050,2025-08-20,CUST-0290,P011,Notebook Pack,Stationery,Office,East,Retail,2,17.3,0.0,34.6,23.53,11.07,Card
+ORD-00051,2024-11-17,CUST-0123,P011,Notebook Pack,Stationery,Office,East,Retail,3,17.7,0.05,50.44,36.11,14.33,Card
+ORD-00052,2025-10-22,CUST-0154,P011,Notebook Pack,Stationery,Office,West,Retail,2,17.17,0.1,30.91,23.35,7.56,Card
+ORD-00053,2025-04-14,CUST-0289,P001,Laptop Pro 14,Computers,Electronics,North,Online,4,1179.69,0.0,4718.76,3208.76,1510.0,Bank Transfer
+ORD-00054,2025-06-02,CUST-0136,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,1,100.43,0.0,100.43,68.29,32.14,Card
+ORD-00055,2025-01-13,CUST-0146,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,1,104.54,0.2,83.63,71.09,12.54,Bank Transfer
+ORD-00056,2024-11-05,CUST-0271,P012,Monitor Arm,Accessories,Office,North,Retail,1,88.31,0.1,79.48,60.05,19.43,Bank Transfer
+ORD-00057,2024-05-17,CUST-0136,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,158.82,0.0,158.82,108.0,50.82,Bank Transfer
+ORD-00058,2024-06-08,CUST-0140,P009,USB-C Dock,Accessories,Electronics,East,Online,2,172.03,0.0,344.06,233.96,110.1,Bank Transfer
+ORD-00059,2024-07-27,CUST-0136,P006,Standing Desk,Furniture,Office,West,Retail,1,528.43,0.05,502.01,359.33,142.68,Card
+ORD-00060,2025-10-11,CUST-0217,P002,Wireless Headphones,Accessories,Electronics,East,Online,2,159.08,0.05,302.25,216.35,85.9,Card
+ORD-00061,2024-05-13,CUST-0135,P006,Standing Desk,Furniture,Office,South,Retail,4,536.69,0.1,1932.08,1459.8,472.28,Bank Transfer
+ORD-00062,2025-03-13,CUST-0288,P012,Monitor Arm,Accessories,Office,North,Online,1,100.76,0.0,100.76,68.52,32.24,Card
+ORD-00063,2024-06-01,CUST-0280,P012,Monitor Arm,Accessories,Office,North,Retail,2,97.54,0.05,185.33,132.65,52.68,Bank Transfer
+ORD-00064,2024-05-31,CUST-0221,P009,USB-C Dock,Accessories,Electronics,South,Online,1,190.74,0.1,171.67,129.7,41.97,PayPal
+ORD-00065,2024-02-10,CUST-0184,P006,Standing Desk,Furniture,Office,South,Online,1,478.02,0.0,478.02,325.05,152.97,Bank Transfer
+ORD-00066,2024-12-28,CUST-0287,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,139.95,0.15,237.91,190.33,47.58,Card
+ORD-00067,2024-06-30,CUST-0212,P003,4K Monitor,Monitors,Electronics,North,Online,2,421.02,0.0,842.04,572.59,269.45,Bank Transfer
+ORD-00068,2025-02-25,CUST-0128,P006,Standing Desk,Furniture,Office,East,Online,1,468.81,0.0,468.81,318.79,150.02,Bank Transfer
+ORD-00069,2025-01-26,CUST-0020,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,141.72,0.1,127.55,96.37,31.18,Card
+ORD-00070,2024-12-24,CUST-0157,P008,External SSD 1TB,Storage,Electronics,South,Online,1,129.39,0.1,116.45,87.99,28.46,Card
+ORD-00071,2024-07-16,CUST-0205,P011,Notebook Pack,Stationery,Office,East,Retail,1,19.53,0.0,19.53,13.28,6.25,Card
+ORD-00072,2024-12-25,CUST-0261,P005,Office Chair,Furniture,Office,West,Retail,3,264.8,0.1,714.96,540.19,174.77,Card
+ORD-00073,2024-09-24,CUST-0092,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,145.48,0.2,116.38,98.93,17.45,Card
+ORD-00074,2025-03-20,CUST-0177,P010,Webcam HD,Accessories,Electronics,East,Retail,1,68.9,0.0,68.9,46.85,22.05,Bank Transfer
+ORD-00075,2024-04-28,CUST-0198,P009,USB-C Dock,Accessories,Electronics,South,Retail,2,193.77,0.05,368.16,263.53,104.63,Card
+ORD-00076,2025-03-22,CUST-0001,P012,Monitor Arm,Accessories,Office,South,Retail,4,92.13,0.0,368.52,250.59,117.93,PayPal
+ORD-00077,2025-11-11,CUST-0170,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,142.23,0.15,120.9,96.72,24.18,Bank Transfer
+ORD-00078,2025-06-03,CUST-0159,P005,Office Chair,Furniture,Office,West,Retail,1,256.71,0.05,243.87,174.56,69.31,PayPal
+ORD-00079,2024-10-29,CUST-0284,P012,Monitor Arm,Accessories,Office,South,Online,2,97.02,0.15,164.93,131.95,32.98,PayPal
+ORD-00080,2025-01-23,CUST-0090,P011,Notebook Pack,Stationery,Office,East,Retail,1,19.58,0.0,19.58,13.31,6.27,Bank Transfer
+ORD-00081,2024-11-07,CUST-0147,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1165.2,0.0,1165.2,792.34,372.86,Bank Transfer
+ORD-00082,2025-11-01,CUST-0165,P010,Webcam HD,Accessories,Electronics,West,Retail,1,74.23,0.05,70.52,50.48,20.04,PayPal
+ORD-00083,2024-08-06,CUST-0262,P011,Notebook Pack,Stationery,Office,West,Online,2,18.76,0.0,37.52,25.51,12.01,Bank Transfer
+ORD-00084,2024-10-17,CUST-0264,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,135.69,0.05,128.91,92.27,36.64,Card
+ORD-00085,2024-11-13,CUST-0116,P011,Notebook Pack,Stationery,Office,South,Online,4,17.31,0.1,62.32,47.08,15.24,Card
+ORD-00086,2024-09-07,CUST-0244,P001,Laptop Pro 14,Computers,Electronics,North,Retail,2,1284.08,0.05,2439.75,1746.35,693.4,PayPal
+ORD-00087,2025-08-12,CUST-0100,P011,Notebook Pack,Stationery,Office,West,Retail,3,19.7,0.0,59.1,40.19,18.91,PayPal
+ORD-00088,2024-05-31,CUST-0003,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,2,118.93,0.05,225.97,161.74,64.23,Card
+ORD-00089,2025-12-13,CUST-0266,P003,4K Monitor,Monitors,Electronics,West,Online,1,420.22,0.1,378.2,285.75,92.45,Bank Transfer
+ORD-00090,2024-05-04,CUST-0234,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,2,118.01,0.1,212.42,160.49,51.93,Bank Transfer
+ORD-00091,2025-07-26,CUST-0163,P009,USB-C Dock,Accessories,Electronics,West,Retail,2,172.11,0.1,309.8,234.07,75.73,Bank Transfer
+ORD-00092,2024-06-11,CUST-0244,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,113.59,0.1,102.23,77.24,24.99,Card
+ORD-00093,2024-10-10,CUST-0267,P011,Notebook Pack,Stationery,Office,West,Online,2,19.63,0.15,33.37,26.7,6.67,PayPal
+ORD-00094,2024-03-20,CUST-0147,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,131.19,0.15,223.02,178.42,44.6,PayPal
+ORD-00095,2025-07-07,CUST-0042,P006,Standing Desk,Furniture,Office,South,Online,2,502.67,0.15,854.54,683.63,170.91,Card
+ORD-00096,2025-12-11,CUST-0079,P007,Desk Lamp,Furniture,Office,South,Online,2,71.24,0.05,135.36,96.89,38.47,PayPal
+ORD-00097,2024-12-04,CUST-0278,P007,Desk Lamp,Furniture,Office,West,Retail,2,63.51,0.0,127.02,86.37,40.65,Card
+ORD-00098,2025-03-06,CUST-0200,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,4,109.68,0.0,438.72,298.33,140.39,PayPal
+ORD-00099,2024-12-26,CUST-0153,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1359.04,0.05,1291.09,924.15,366.94,Bank Transfer
+ORD-00100,2025-07-13,CUST-0113,P012,Monitor Arm,Accessories,Office,West,Online,1,86.84,0.15,73.81,59.05,14.76,PayPal
+ORD-00101,2025-05-12,CUST-0015,P007,Desk Lamp,Furniture,Office,West,Retail,1,71.37,0.05,67.8,48.53,19.27,Bank Transfer
+ORD-00102,2025-02-18,CUST-0085,P011,Notebook Pack,Stationery,Office,West,Online,1,17.26,0.0,17.26,11.74,5.52,Bank Transfer
+ORD-00103,2024-01-28,CUST-0202,P009,USB-C Dock,Accessories,Electronics,North,Online,1,187.09,0.1,168.38,127.22,41.16,Bank Transfer
+ORD-00104,2024-05-18,CUST-0237,P007,Desk Lamp,Furniture,Office,South,Online,1,65.69,0.1,59.12,44.67,14.45,PayPal
+ORD-00105,2024-12-01,CUST-0109,P007,Desk Lamp,Furniture,Office,West,Retail,1,69.03,0.1,62.13,46.94,15.19,PayPal
+ORD-00106,2024-10-11,CUST-0216,P007,Desk Lamp,Furniture,Office,East,Online,1,59.56,0.05,56.58,40.5,16.08,PayPal
+ORD-00107,2025-07-06,CUST-0027,P001,Laptop Pro 14,Computers,Electronics,East,Online,4,1324.57,0.05,5033.37,3602.83,1430.54,Bank Transfer
+ORD-00108,2025-10-29,CUST-0021,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,142.01,0.0,142.01,96.57,45.44,Card
+ORD-00109,2025-09-28,CUST-0079,P001,Laptop Pro 14,Computers,Electronics,South,Online,3,1209.5,0.15,3084.22,2467.38,616.84,PayPal
+ORD-00110,2024-04-27,CUST-0289,P011,Notebook Pack,Stationery,Office,South,Retail,2,17.78,0.05,33.78,24.18,9.6,Bank Transfer
+ORD-00111,2025-01-12,CUST-0086,P005,Office Chair,Furniture,Office,North,Online,4,278.07,0.0,1112.28,756.35,355.93,PayPal
+ORD-00112,2025-08-15,CUST-0014,P002,Wireless Headphones,Accessories,Electronics,East,Retail,4,154.83,0.2,495.46,421.14,74.32,PayPal
+ORD-00113,2024-07-22,CUST-0039,P012,Monitor Arm,Accessories,Office,South,Online,1,86.21,0.0,86.21,58.62,27.59,Bank Transfer
+ORD-00114,2025-12-01,CUST-0062,P005,Office Chair,Furniture,Office,North,Retail,3,282.08,0.0,846.24,575.44,270.8,Bank Transfer
+ORD-00115,2025-11-08,CUST-0190,P007,Desk Lamp,Furniture,Office,North,Retail,2,68.51,0.05,130.17,93.17,37.0,Card
+ORD-00116,2025-05-16,CUST-0055,P007,Desk Lamp,Furniture,Office,West,Retail,2,64.44,0.2,103.1,87.64,15.46,Bank Transfer
+ORD-00117,2025-12-25,CUST-0079,P008,External SSD 1TB,Storage,Electronics,West,Online,3,125.78,0.0,377.34,256.59,120.75,Bank Transfer
+ORD-00118,2025-10-28,CUST-0139,P009,USB-C Dock,Accessories,Electronics,West,Retail,4,166.98,0.1,601.13,454.19,146.94,PayPal
+ORD-00119,2025-08-29,CUST-0138,P012,Monitor Arm,Accessories,Office,East,Online,2,99.08,0.2,158.53,134.75,23.78,Card
+ORD-00120,2025-04-06,CUST-0125,P005,Office Chair,Furniture,Office,West,Retail,1,267.17,0.1,240.45,181.68,58.77,PayPal
+ORD-00121,2025-05-21,CUST-0167,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1187.72,0.1,2137.9,1615.3,522.6,Card
+ORD-00122,2024-09-21,CUST-0175,P006,Standing Desk,Furniture,Office,East,Retail,1,544.27,0.2,435.42,370.1,65.32,Bank Transfer
+ORD-00123,2025-06-13,CUST-0098,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1139.55,0.1,1025.6,774.89,250.71,Bank Transfer
+ORD-00124,2025-05-15,CUST-0285,P007,Desk Lamp,Furniture,Office,South,Retail,1,61.75,0.0,61.75,41.99,19.76,Bank Transfer
+ORD-00125,2025-05-17,CUST-0230,P012,Monitor Arm,Accessories,Office,North,Online,3,88.97,0.0,266.91,181.5,85.41,PayPal
+ORD-00126,2025-02-18,CUST-0125,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,2,120.01,0.0,240.02,163.21,76.81,PayPal
+ORD-00127,2025-06-27,CUST-0177,P009,USB-C Dock,Accessories,Electronics,West,Retail,4,177.68,0.1,639.65,483.29,156.36,PayPal
+ORD-00128,2025-04-09,CUST-0139,P012,Monitor Arm,Accessories,Office,East,Retail,2,90.21,0.0,180.42,122.69,57.73,Card
+ORD-00129,2024-07-16,CUST-0162,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,130.92,0.1,117.83,89.03,28.8,Card
+ORD-00130,2025-05-10,CUST-0142,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,3,101.07,0.0,303.21,206.18,97.03,Card
+ORD-00131,2024-08-20,CUST-0185,P005,Office Chair,Furniture,Office,South,Retail,3,291.4,0.15,743.07,594.46,148.61,Card
+ORD-00132,2025-06-30,CUST-0065,P012,Monitor Arm,Accessories,Office,East,Online,2,100.0,0.0,200.0,136.0,64.0,Card
+ORD-00133,2024-10-26,CUST-0065,P009,USB-C Dock,Accessories,Electronics,West,Online,2,168.24,0.05,319.66,228.81,90.85,Card
+ORD-00134,2024-10-18,CUST-0241,P010,Webcam HD,Accessories,Electronics,West,Retail,3,68.22,0.05,194.43,139.17,55.26,PayPal
+ORD-00135,2024-02-22,CUST-0130,P003,4K Monitor,Monitors,Electronics,West,Online,3,381.81,0.05,1088.16,778.89,309.27,Card
+ORD-00136,2025-05-18,CUST-0038,P007,Desk Lamp,Furniture,Office,North,Online,4,70.63,0.0,282.52,192.11,90.41,Card
+ORD-00137,2024-11-07,CUST-0044,P010,Webcam HD,Accessories,Electronics,South,Online,1,77.76,0.05,73.87,52.88,20.99,Bank Transfer
+ORD-00138,2025-09-12,CUST-0116,P007,Desk Lamp,Furniture,Office,West,Retail,4,69.77,0.15,237.22,189.77,47.45,PayPal
+ORD-00139,2025-08-25,CUST-0220,P005,Office Chair,Furniture,Office,East,Online,1,289.92,0.1,260.93,197.15,63.78,Bank Transfer
+ORD-00140,2024-04-11,CUST-0107,P012,Monitor Arm,Accessories,Office,South,Retail,1,94.21,0.05,89.5,64.06,25.44,Bank Transfer
+ORD-00141,2024-06-09,CUST-0123,P002,Wireless Headphones,Accessories,Electronics,South,Online,1,148.65,0.1,133.78,101.08,32.7,Card
+ORD-00142,2025-02-22,CUST-0231,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1351.34,0.2,1081.07,918.91,162.16,Card
+ORD-00143,2024-10-22,CUST-0145,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,2,103.72,0.0,207.44,141.06,66.38,Bank Transfer
+ORD-00144,2024-09-27,CUST-0102,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,3,101.08,0.0,303.24,206.2,97.04,Bank Transfer
+ORD-00145,2025-10-25,CUST-0077,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,113.43,0.0,113.43,77.13,36.3,Card
+ORD-00146,2024-06-18,CUST-0158,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1130.82,0.1,2035.48,1537.92,497.56,Card
+ORD-00147,2025-12-06,CUST-0156,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,124.9,0.0,124.9,84.93,39.97,Bank Transfer
+ORD-00148,2025-05-20,CUST-0225,P009,USB-C Dock,Accessories,Electronics,North,Online,1,184.64,0.1,166.18,125.56,40.62,PayPal
+ORD-00149,2024-11-26,CUST-0129,P012,Monitor Arm,Accessories,Office,North,Online,2,93.44,0.0,186.88,127.08,59.8,Card
+ORD-00150,2025-08-12,CUST-0011,P011,Notebook Pack,Stationery,Office,East,Online,2,16.84,0.0,33.68,22.9,10.78,Card
+ORD-00151,2025-06-15,CUST-0227,P008,External SSD 1TB,Storage,Electronics,East,Online,1,126.9,0.05,120.56,86.29,34.27,Bank Transfer
+ORD-00152,2025-10-12,CUST-0252,P007,Desk Lamp,Furniture,Office,North,Retail,1,63.34,0.0,63.34,43.07,20.27,PayPal
+ORD-00153,2024-12-07,CUST-0165,P007,Desk Lamp,Furniture,Office,North,Online,4,69.77,0.05,265.13,189.77,75.36,PayPal
+ORD-00154,2025-12-11,CUST-0254,P007,Desk Lamp,Furniture,Office,East,Retail,2,67.34,0.0,134.68,91.58,43.1,Bank Transfer
+ORD-00155,2025-04-10,CUST-0046,P001,Laptop Pro 14,Computers,Electronics,East,Retail,4,1150.78,0.1,4142.81,3130.12,1012.69,PayPal
+ORD-00156,2025-02-17,CUST-0264,P002,Wireless Headphones,Accessories,Electronics,North,Retail,1,144.9,0.05,137.66,98.53,39.13,PayPal
+ORD-00157,2024-07-11,CUST-0266,P001,Laptop Pro 14,Computers,Electronics,East,Retail,1,1348.88,0.0,1348.88,917.24,431.64,Bank Transfer
+ORD-00158,2024-02-22,CUST-0105,P008,External SSD 1TB,Storage,Electronics,East,Online,1,136.46,0.0,136.46,92.79,43.67,PayPal
+ORD-00159,2025-12-16,CUST-0249,P008,External SSD 1TB,Storage,Electronics,North,Online,1,120.48,0.0,120.48,81.93,38.55,Bank Transfer
+ORD-00160,2024-09-02,CUST-0082,P010,Webcam HD,Accessories,Electronics,East,Online,3,74.74,0.1,201.8,152.47,49.33,Bank Transfer
+ORD-00161,2024-04-05,CUST-0116,P007,Desk Lamp,Furniture,Office,North,Retail,1,64.33,0.05,61.11,43.74,17.37,Card
+ORD-00162,2024-06-06,CUST-0256,P011,Notebook Pack,Stationery,Office,East,Retail,1,18.19,0.05,17.28,12.37,4.91,PayPal
+ORD-00163,2025-04-28,CUST-0125,P008,External SSD 1TB,Storage,Electronics,West,Online,2,132.29,0.1,238.12,179.91,58.21,PayPal
+ORD-00164,2025-09-05,CUST-0261,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,1,119.48,0.0,119.48,81.25,38.23,PayPal
+ORD-00165,2024-12-14,CUST-0260,P007,Desk Lamp,Furniture,Office,East,Online,1,65.64,0.0,65.64,44.64,21.0,PayPal
+ORD-00166,2024-11-01,CUST-0297,P012,Monitor Arm,Accessories,Office,West,Online,2,95.87,0.1,172.57,130.38,42.19,PayPal
+ORD-00167,2025-05-10,CUST-0177,P009,USB-C Dock,Accessories,Electronics,East,Retail,1,167.15,0.0,167.15,113.66,53.49,PayPal
+ORD-00168,2024-07-12,CUST-0123,P006,Standing Desk,Furniture,Office,West,Online,1,547.42,0.1,492.68,372.25,120.43,PayPal
+ORD-00169,2024-11-21,CUST-0243,P001,Laptop Pro 14,Computers,Electronics,West,Retail,3,1300.24,0.0,3900.72,2652.49,1248.23,Bank Transfer
+ORD-00170,2024-06-04,CUST-0254,P011,Notebook Pack,Stationery,Office,North,Online,1,19.41,0.0,19.41,13.2,6.21,Bank Transfer
+ORD-00171,2024-12-05,CUST-0052,P010,Webcam HD,Accessories,Electronics,West,Online,1,68.77,0.0,68.77,46.76,22.01,Bank Transfer
+ORD-00172,2024-01-16,CUST-0074,P008,External SSD 1TB,Storage,Electronics,West,Online,1,134.08,0.05,127.38,91.17,36.21,Card
+ORD-00173,2024-09-28,CUST-0174,P008,External SSD 1TB,Storage,Electronics,West,Online,3,136.18,0.1,367.69,277.81,89.88,PayPal
+ORD-00174,2025-06-30,CUST-0195,P011,Notebook Pack,Stationery,Office,East,Retail,1,17.46,0.05,16.59,11.87,4.72,Bank Transfer
+ORD-00175,2025-09-24,CUST-0036,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1319.29,0.0,2638.58,1794.23,844.35,Card
+ORD-00176,2024-04-02,CUST-0223,P012,Monitor Arm,Accessories,Office,North,Online,3,90.23,0.1,243.62,184.07,59.55,PayPal
+ORD-00177,2025-12-11,CUST-0154,P003,4K Monitor,Monitors,Electronics,North,Online,1,419.38,0.0,419.38,285.18,134.2,PayPal
+ORD-00178,2024-10-27,CUST-0184,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1267.87,0.0,2535.74,1724.3,811.44,Card
+ORD-00179,2025-06-27,CUST-0211,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,2,101.59,0.0,203.18,138.16,65.02,Card
+ORD-00180,2025-09-16,CUST-0196,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,150.25,0.1,135.22,102.17,33.05,Bank Transfer
+ORD-00181,2024-08-25,CUST-0237,P003,4K Monitor,Monitors,Electronics,East,Retail,2,409.49,0.2,655.18,556.91,98.27,PayPal
+ORD-00182,2024-01-10,CUST-0239,P011,Notebook Pack,Stationery,Office,East,Online,1,18.1,0.0,18.1,12.31,5.79,Card
+ORD-00183,2024-12-19,CUST-0154,P008,External SSD 1TB,Storage,Electronics,West,Retail,2,112.8,0.2,180.48,153.41,27.07,PayPal
+ORD-00184,2024-07-22,CUST-0197,P005,Office Chair,Furniture,Office,West,Online,2,301.9,0.0,603.8,410.58,193.22,Card
+ORD-00185,2025-08-08,CUST-0184,P007,Desk Lamp,Furniture,Office,East,Retail,3,70.45,0.15,179.65,143.72,35.93,Card
+ORD-00186,2025-02-09,CUST-0141,P011,Notebook Pack,Stationery,Office,North,Online,2,19.69,0.05,37.41,26.78,10.63,Bank Transfer
+ORD-00187,2025-05-23,CUST-0147,P012,Monitor Arm,Accessories,Office,South,Retail,1,89.62,0.0,89.62,60.94,28.68,Card
+ORD-00188,2024-07-13,CUST-0129,P011,Notebook Pack,Stationery,Office,South,Online,4,18.46,0.05,70.15,50.21,19.94,Bank Transfer
+ORD-00189,2024-02-10,CUST-0159,P011,Notebook Pack,Stationery,Office,West,Online,3,18.85,0.0,56.55,38.45,18.1,Bank Transfer
+ORD-00190,2024-05-14,CUST-0047,P006,Standing Desk,Furniture,Office,East,Retail,1,555.94,0.0,555.94,378.04,177.9,Bank Transfer
+ORD-00191,2024-06-28,CUST-0103,P007,Desk Lamp,Furniture,Office,South,Retail,3,66.56,0.05,189.7,135.78,53.92,Bank Transfer
+ORD-00192,2024-10-06,CUST-0085,P009,USB-C Dock,Accessories,Electronics,East,Retail,1,178.69,0.0,178.69,121.51,57.18,PayPal
+ORD-00193,2024-12-12,CUST-0059,P012,Monitor Arm,Accessories,Office,West,Online,1,90.55,0.0,90.55,61.57,28.98,Card
+ORD-00194,2025-11-23,CUST-0204,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,120.7,0.2,193.12,164.15,28.97,PayPal
+ORD-00195,2024-09-27,CUST-0275,P001,Laptop Pro 14,Computers,Electronics,North,Retail,3,1194.94,0.0,3584.82,2437.68,1147.14,PayPal
+ORD-00196,2025-11-19,CUST-0135,P011,Notebook Pack,Stationery,Office,West,Retail,2,18.67,0.1,33.61,25.39,8.22,Card
+ORD-00197,2024-08-27,CUST-0242,P011,Notebook Pack,Stationery,Office,North,Retail,2,16.47,0.0,32.94,22.4,10.54,Bank Transfer
+ORD-00198,2025-10-25,CUST-0033,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,3,114.97,0.15,293.17,234.54,58.63,Bank Transfer
+ORD-00199,2024-04-29,CUST-0072,P007,Desk Lamp,Furniture,Office,North,Online,4,59.58,0.15,202.57,162.06,40.51,PayPal
+ORD-00200,2024-04-28,CUST-0050,P008,External SSD 1TB,Storage,Electronics,South,Online,3,113.63,0.15,289.76,231.81,57.95,PayPal
+ORD-00201,2025-01-14,CUST-0277,P008,External SSD 1TB,Storage,Electronics,West,Online,4,131.94,0.0,527.76,358.88,168.88,PayPal
+ORD-00202,2024-04-11,CUST-0251,P011,Notebook Pack,Stationery,Office,West,Retail,1,16.74,0.2,13.39,11.38,2.01,Card
+ORD-00203,2025-01-14,CUST-0112,P012,Monitor Arm,Accessories,Office,West,Retail,2,92.97,0.1,167.35,126.44,40.91,Card
+ORD-00204,2024-04-11,CUST-0189,P006,Standing Desk,Furniture,Office,East,Online,1,544.51,0.1,490.06,370.27,119.79,PayPal
+ORD-00205,2024-07-13,CUST-0063,P005,Office Chair,Furniture,Office,West,Online,1,259.5,0.0,259.5,176.46,83.04,Bank Transfer
+ORD-00206,2025-10-19,CUST-0011,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,2,118.02,0.0,236.04,160.51,75.53,Card
+ORD-00207,2025-08-01,CUST-0106,P003,4K Monitor,Monitors,Electronics,North,Online,1,440.99,0.05,418.94,299.87,119.07,Bank Transfer
+ORD-00208,2024-08-26,CUST-0169,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,1,115.92,0.05,110.12,78.83,31.29,PayPal
+ORD-00209,2024-05-13,CUST-0277,P003,4K Monitor,Monitors,Electronics,East,Online,2,409.74,0.1,737.53,557.25,180.28,Card
+ORD-00210,2024-01-27,CUST-0068,P011,Notebook Pack,Stationery,Office,North,Retail,2,16.66,0.05,31.65,22.66,8.99,Card
+ORD-00211,2024-11-27,CUST-0009,P010,Webcam HD,Accessories,Electronics,South,Retail,1,70.61,0.0,70.61,48.01,22.6,Card
+ORD-00212,2025-03-07,CUST-0270,P003,4K Monitor,Monitors,Electronics,North,Online,1,429.92,0.1,386.93,292.35,94.58,PayPal
+ORD-00213,2025-01-05,CUST-0263,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,113.05,0.0,226.1,153.75,72.35,Bank Transfer
+ORD-00214,2025-09-21,CUST-0023,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,115.99,0.05,110.19,78.87,31.32,Bank Transfer
+ORD-00215,2024-03-03,CUST-0246,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1329.1,0.0,1329.1,903.79,425.31,Bank Transfer
+ORD-00216,2025-05-17,CUST-0228,P002,Wireless Headphones,Accessories,Electronics,North,Online,2,155.92,0.05,296.25,212.05,84.2,PayPal
+ORD-00217,2024-05-31,CUST-0034,P010,Webcam HD,Accessories,Electronics,South,Retail,1,74.7,0.05,70.97,50.8,20.17,Bank Transfer
+ORD-00218,2025-08-22,CUST-0281,P011,Notebook Pack,Stationery,Office,East,Retail,4,18.43,0.1,66.35,50.13,16.22,Bank Transfer
+ORD-00219,2024-10-28,CUST-0233,P009,USB-C Dock,Accessories,Electronics,West,Online,1,194.51,0.1,175.06,132.27,42.79,Bank Transfer
+ORD-00220,2025-11-01,CUST-0283,P002,Wireless Headphones,Accessories,Electronics,South,Retail,2,148.13,0.2,237.01,201.46,35.55,PayPal
+ORD-00221,2025-02-27,CUST-0174,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,108.62,0.0,108.62,73.86,34.76,PayPal
+ORD-00222,2024-04-07,CUST-0161,P012,Monitor Arm,Accessories,Office,West,Retail,4,95.9,0.1,345.24,260.85,84.39,Bank Transfer
+ORD-00223,2025-01-18,CUST-0079,P005,Office Chair,Furniture,Office,West,Online,1,274.21,0.1,246.79,186.46,60.33,Card
+ORD-00224,2024-04-05,CUST-0222,P002,Wireless Headphones,Accessories,Electronics,North,Retail,4,150.73,0.05,572.77,409.99,162.78,Card
+ORD-00225,2024-03-02,CUST-0288,P009,USB-C Dock,Accessories,Electronics,East,Online,2,195.36,0.0,390.72,265.69,125.03,PayPal
+ORD-00226,2025-11-12,CUST-0217,P006,Standing Desk,Furniture,Office,North,Retail,1,465.76,0.1,419.18,316.72,102.46,Bank Transfer
+ORD-00227,2024-12-26,CUST-0054,P005,Office Chair,Furniture,Office,South,Online,2,279.59,0.2,447.34,380.24,67.1,Bank Transfer
+ORD-00228,2024-08-17,CUST-0056,P008,External SSD 1TB,Storage,Electronics,East,Retail,2,126.99,0.0,253.98,172.71,81.27,Card
+ORD-00229,2025-08-10,CUST-0116,P005,Office Chair,Furniture,Office,West,Online,1,259.22,0.0,259.22,176.27,82.95,Bank Transfer
+ORD-00230,2025-12-11,CUST-0137,P011,Notebook Pack,Stationery,Office,North,Online,4,17.64,0.05,67.03,47.98,19.05,PayPal
+ORD-00231,2024-11-12,CUST-0174,P012,Monitor Arm,Accessories,Office,East,Online,2,92.07,0.0,184.14,125.22,58.92,Card
+ORD-00232,2025-08-02,CUST-0206,P003,4K Monitor,Monitors,Electronics,North,Online,1,421.28,0.15,358.09,286.47,71.62,Bank Transfer
+ORD-00233,2024-02-01,CUST-0047,P011,Notebook Pack,Stationery,Office,South,Retail,1,17.01,0.05,16.16,11.57,4.59,PayPal
+ORD-00234,2024-12-15,CUST-0081,P008,External SSD 1TB,Storage,Electronics,East,Retail,2,119.46,0.0,238.92,162.47,76.45,Bank Transfer
+ORD-00235,2025-08-04,CUST-0044,P006,Standing Desk,Furniture,Office,North,Online,2,514.97,0.0,1029.94,700.36,329.58,Card
+ORD-00236,2024-02-20,CUST-0042,P010,Webcam HD,Accessories,Electronics,East,Retail,2,70.6,0.05,134.14,96.02,38.12,Bank Transfer
+ORD-00237,2025-05-12,CUST-0227,P007,Desk Lamp,Furniture,Office,West,Retail,1,62.79,0.0,62.79,42.7,20.09,Card
+ORD-00238,2024-04-26,CUST-0177,P009,USB-C Dock,Accessories,Electronics,West,Online,1,190.78,0.0,190.78,129.73,61.05,PayPal
+ORD-00239,2025-11-25,CUST-0250,P011,Notebook Pack,Stationery,Office,East,Online,1,18.04,0.1,16.24,12.27,3.97,Card
+ORD-00240,2025-09-05,CUST-0029,P007,Desk Lamp,Furniture,Office,North,Online,1,59.29,0.15,50.4,40.32,10.08,PayPal
+ORD-00241,2024-05-20,CUST-0131,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,100.86,0.15,85.73,68.58,17.15,Card
+ORD-00242,2025-05-24,CUST-0221,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1177.34,0.0,1177.34,800.59,376.75,PayPal
+ORD-00243,2025-12-21,CUST-0118,P009,USB-C Dock,Accessories,Electronics,East,Online,4,170.5,0.15,579.7,463.76,115.94,PayPal
+ORD-00244,2024-02-13,CUST-0224,P012,Monitor Arm,Accessories,Office,North,Retail,2,94.29,0.0,188.58,128.23,60.35,Card
+ORD-00245,2025-08-12,CUST-0220,P006,Standing Desk,Furniture,Office,West,Retail,2,474.07,0.0,948.14,644.74,303.4,PayPal
+ORD-00246,2025-02-18,CUST-0011,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,156.46,0.1,140.81,106.39,34.42,Bank Transfer
+ORD-00247,2025-12-07,CUST-0186,P008,External SSD 1TB,Storage,Electronics,North,Retail,3,113.26,0.1,305.8,231.05,74.75,Card
+ORD-00248,2025-03-22,CUST-0206,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,110.72,0.0,110.72,75.29,35.43,PayPal
+ORD-00249,2024-12-13,CUST-0114,P012,Monitor Arm,Accessories,Office,East,Online,4,99.51,0.0,398.04,270.67,127.37,Card
+ORD-00250,2025-10-10,CUST-0059,P009,USB-C Dock,Accessories,Electronics,South,Retail,2,173.59,0.0,347.18,236.08,111.1,PayPal
+ORD-00251,2025-10-22,CUST-0076,P012,Monitor Arm,Accessories,Office,South,Online,4,95.67,0.0,382.68,260.22,122.46,Card
+ORD-00252,2024-07-21,CUST-0089,P005,Office Chair,Furniture,Office,South,Online,1,285.24,0.15,242.45,193.96,48.49,Card
+ORD-00253,2025-05-20,CUST-0238,P011,Notebook Pack,Stationery,Office,West,Retail,2,18.54,0.0,37.08,25.21,11.87,Bank Transfer
+ORD-00254,2024-06-03,CUST-0226,P006,Standing Desk,Furniture,Office,North,Retail,1,513.78,0.0,513.78,349.37,164.41,PayPal
+ORD-00255,2024-11-06,CUST-0141,P011,Notebook Pack,Stationery,Office,North,Retail,1,18.31,0.05,17.39,12.45,4.94,Bank Transfer
+ORD-00256,2024-11-13,CUST-0237,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,138.73,0.0,277.46,188.67,88.79,Card
+ORD-00257,2024-10-20,CUST-0040,P006,Standing Desk,Furniture,Office,North,Retail,3,520.97,0.15,1328.47,1062.78,265.69,PayPal
+ORD-00258,2025-07-21,CUST-0022,P010,Webcam HD,Accessories,Electronics,West,Online,1,82.3,0.0,82.3,55.96,26.34,PayPal
+ORD-00259,2025-05-02,CUST-0257,P010,Webcam HD,Accessories,Electronics,South,Online,2,67.61,0.15,114.94,91.95,22.99,PayPal
+ORD-00260,2024-12-17,CUST-0044,P002,Wireless Headphones,Accessories,Electronics,South,Online,2,137.63,0.0,275.26,187.18,88.08,Card
+ORD-00261,2025-03-24,CUST-0225,P012,Monitor Arm,Accessories,Office,South,Retail,2,87.17,0.15,148.19,118.55,29.64,PayPal
+ORD-00262,2025-01-31,CUST-0210,P005,Office Chair,Furniture,Office,East,Online,3,302.22,0.0,906.66,616.53,290.13,Bank Transfer
+ORD-00263,2024-12-08,CUST-0034,P011,Notebook Pack,Stationery,Office,East,Online,4,16.27,0.0,65.08,44.25,20.83,Bank Transfer
+ORD-00264,2025-01-30,CUST-0146,P011,Notebook Pack,Stationery,Office,East,Online,2,16.6,0.2,26.56,22.58,3.98,PayPal
+ORD-00265,2025-08-19,CUST-0073,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,157.1,0.05,149.24,106.83,42.41,Bank Transfer
+ORD-00266,2025-11-09,CUST-0201,P012,Monitor Arm,Accessories,Office,South,Online,4,90.4,0.1,325.44,245.89,79.55,PayPal
+ORD-00267,2025-01-20,CUST-0169,P009,USB-C Dock,Accessories,Electronics,South,Online,3,195.46,0.1,527.74,398.74,129.0,Bank Transfer
+ORD-00268,2025-03-09,CUST-0261,P011,Notebook Pack,Stationery,Office,East,Online,4,17.92,0.05,68.1,48.74,19.36,PayPal
+ORD-00269,2024-07-03,CUST-0110,P005,Office Chair,Furniture,Office,East,Retail,2,262.47,0.1,472.45,356.96,115.49,Card
+ORD-00270,2024-05-20,CUST-0080,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,3,103.39,0.1,279.15,210.92,68.23,Card
+ORD-00271,2025-07-06,CUST-0270,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,166.13,0.0,332.26,225.94,106.32,Bank Transfer
+ORD-00272,2025-09-03,CUST-0193,P003,4K Monitor,Monitors,Electronics,South,Online,1,385.33,0.1,346.8,262.02,84.78,Card
+ORD-00273,2025-10-01,CUST-0085,P012,Monitor Arm,Accessories,Office,West,Online,3,94.64,0.0,283.92,193.07,90.85,PayPal
+ORD-00274,2025-11-23,CUST-0122,P006,Standing Desk,Furniture,Office,West,Retail,1,496.66,0.05,471.83,337.73,134.1,Bank Transfer
+ORD-00275,2024-08-27,CUST-0274,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,126.22,0.05,119.91,85.83,34.08,PayPal
+ORD-00276,2025-01-11,CUST-0293,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,116.82,0.0,116.82,79.44,37.38,PayPal
+ORD-00277,2025-05-29,CUST-0271,P007,Desk Lamp,Furniture,Office,West,Online,1,58.54,0.0,58.54,39.81,18.73,Card
+ORD-00278,2024-05-21,CUST-0129,P010,Webcam HD,Accessories,Electronics,North,Retail,1,74.57,0.05,70.84,50.71,20.13,PayPal
+ORD-00279,2024-04-15,CUST-0265,P009,USB-C Dock,Accessories,Electronics,North,Retail,4,165.84,0.1,597.02,451.08,145.94,Card
+ORD-00280,2024-10-06,CUST-0231,P003,4K Monitor,Monitors,Electronics,South,Retail,2,459.06,0.1,826.31,624.32,201.99,Card
+ORD-00281,2025-04-06,CUST-0179,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,3,120.8,0.15,308.04,246.43,61.61,Card
+ORD-00282,2025-05-29,CUST-0192,P007,Desk Lamp,Furniture,Office,South,Retail,1,59.36,0.0,59.36,40.36,19.0,Card
+ORD-00283,2024-08-17,CUST-0015,P006,Standing Desk,Furniture,Office,East,Online,3,538.71,0.0,1616.13,1098.97,517.16,Bank Transfer
+ORD-00284,2024-12-09,CUST-0075,P011,Notebook Pack,Stationery,Office,South,Online,1,16.93,0.1,15.24,11.51,3.73,PayPal
+ORD-00285,2025-12-13,CUST-0072,P008,External SSD 1TB,Storage,Electronics,West,Retail,3,117.16,0.1,316.33,239.01,77.32,Bank Transfer
+ORD-00286,2024-03-22,CUST-0010,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1255.77,0.1,1130.19,853.92,276.27,Card
+ORD-00287,2025-09-15,CUST-0271,P009,USB-C Dock,Accessories,Electronics,West,Online,2,183.18,0.0,366.36,249.12,117.24,PayPal
+ORD-00288,2024-11-04,CUST-0063,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,1,108.66,0.1,97.79,73.89,23.9,PayPal
+ORD-00289,2025-09-29,CUST-0235,P011,Notebook Pack,Stationery,Office,North,Online,3,18.45,0.15,47.05,37.64,9.41,PayPal
+ORD-00290,2025-07-02,CUST-0009,P010,Webcam HD,Accessories,Electronics,South,Online,1,75.04,0.1,67.54,51.03,16.51,PayPal
+ORD-00291,2024-01-02,CUST-0181,P007,Desk Lamp,Furniture,Office,South,Retail,1,63.59,0.0,63.59,43.24,20.35,Card
+ORD-00292,2025-11-15,CUST-0044,P011,Notebook Pack,Stationery,Office,East,Online,1,19.46,0.05,18.49,13.23,5.26,Bank Transfer
+ORD-00293,2025-06-03,CUST-0260,P009,USB-C Dock,Accessories,Electronics,North,Retail,1,177.54,0.05,168.66,120.73,47.93,PayPal
+ORD-00294,2025-10-12,CUST-0199,P001,Laptop Pro 14,Computers,Electronics,East,Retail,1,1208.73,0.05,1148.29,821.94,326.35,Bank Transfer
+ORD-00295,2024-12-31,CUST-0035,P001,Laptop Pro 14,Computers,Electronics,East,Online,2,1280.02,0.1,2304.04,1740.83,563.21,Bank Transfer
+ORD-00296,2025-10-05,CUST-0054,P011,Notebook Pack,Stationery,Office,East,Online,2,18.26,0.1,32.87,24.83,8.04,Card
+ORD-00297,2025-07-13,CUST-0174,P006,Standing Desk,Furniture,Office,South,Retail,2,490.8,0.0,981.6,667.49,314.11,Bank Transfer
+ORD-00298,2025-10-08,CUST-0094,P008,External SSD 1TB,Storage,Electronics,South,Online,2,116.08,0.1,208.94,157.87,51.07,Bank Transfer
+ORD-00299,2024-02-07,CUST-0151,P008,External SSD 1TB,Storage,Electronics,South,Online,2,131.56,0.05,249.96,178.92,71.04,Card
+ORD-00300,2024-11-19,CUST-0159,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1150.73,0.1,1035.66,782.5,253.16,PayPal
+ORD-00301,2025-10-24,CUST-0098,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1336.61,0.0,2673.22,1817.79,855.43,Card
+ORD-00302,2024-12-05,CUST-0140,P011,Notebook Pack,Stationery,Office,North,Retail,2,19.07,0.0,38.14,25.94,12.2,PayPal
+ORD-00303,2025-03-26,CUST-0198,P007,Desk Lamp,Furniture,Office,East,Online,2,63.82,0.05,121.26,86.8,34.46,PayPal
+ORD-00304,2025-05-24,CUST-0189,P012,Monitor Arm,Accessories,Office,East,Online,2,97.68,0.1,175.82,132.84,42.98,Bank Transfer
+ORD-00305,2024-03-21,CUST-0221,P007,Desk Lamp,Furniture,Office,South,Retail,1,67.81,0.05,64.42,46.11,18.31,PayPal
+ORD-00306,2024-03-22,CUST-0168,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,135.77,0.0,135.77,92.32,43.45,PayPal
+ORD-00307,2025-03-12,CUST-0086,P010,Webcam HD,Accessories,Electronics,West,Retail,1,70.91,0.0,70.91,48.22,22.69,PayPal
+ORD-00308,2024-12-27,CUST-0223,P001,Laptop Pro 14,Computers,Electronics,East,Online,4,1361.82,0.05,5174.92,3704.15,1470.77,Card
+ORD-00309,2025-10-14,CUST-0208,P011,Notebook Pack,Stationery,Office,East,Online,2,16.7,0.15,28.39,22.71,5.68,Card
+ORD-00310,2025-09-14,CUST-0225,P003,4K Monitor,Monitors,Electronics,North,Online,1,379.52,0.05,360.54,258.07,102.47,Card
+ORD-00311,2025-10-22,CUST-0188,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,2,101.25,0.05,192.38,137.7,54.68,Bank Transfer
+ORD-00312,2025-09-11,CUST-0079,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1130.76,0.1,2035.37,1537.83,497.54,PayPal
+ORD-00313,2024-03-19,CUST-0294,P008,External SSD 1TB,Storage,Electronics,South,Retail,4,126.91,0.0,507.64,345.2,162.44,PayPal
+ORD-00314,2025-10-27,CUST-0143,P006,Standing Desk,Furniture,Office,South,Online,1,466.89,0.0,466.89,317.49,149.4,Card
+ORD-00315,2024-07-09,CUST-0256,P012,Monitor Arm,Accessories,Office,West,Online,3,103.09,0.15,262.88,210.3,52.58,PayPal
+ORD-00316,2025-12-21,CUST-0229,P005,Office Chair,Furniture,Office,South,Retail,4,265.21,0.0,1060.84,721.37,339.47,Bank Transfer
+ORD-00317,2024-07-23,CUST-0063,P008,External SSD 1TB,Storage,Electronics,South,Online,1,115.62,0.1,104.06,78.62,25.44,PayPal
+ORD-00318,2025-12-31,CUST-0228,P003,4K Monitor,Monitors,Electronics,North,Retail,1,404.16,0.0,404.16,274.83,129.33,Bank Transfer
+ORD-00319,2025-12-27,CUST-0034,P006,Standing Desk,Furniture,Office,East,Retail,1,499.7,0.05,474.71,339.8,134.91,Card
+ORD-00320,2025-12-27,CUST-0090,P012,Monitor Arm,Accessories,Office,East,Online,1,89.41,0.1,80.47,60.8,19.67,Card
+ORD-00321,2024-05-22,CUST-0122,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,106.34,0.0,106.34,72.31,34.03,PayPal
+ORD-00322,2025-08-09,CUST-0189,P009,USB-C Dock,Accessories,Electronics,West,Online,4,193.09,0.0,772.36,525.2,247.16,Bank Transfer
+ORD-00323,2024-03-08,CUST-0159,P002,Wireless Headphones,Accessories,Electronics,West,Retail,3,140.56,0.0,421.68,286.74,134.94,Bank Transfer
+ORD-00324,2025-02-23,CUST-0295,P007,Desk Lamp,Furniture,Office,North,Online,1,66.13,0.15,56.21,44.97,11.24,PayPal
+ORD-00325,2024-03-16,CUST-0231,P011,Notebook Pack,Stationery,Office,West,Retail,1,16.71,0.05,15.87,11.36,4.51,Card
+ORD-00326,2025-10-17,CUST-0094,P009,USB-C Dock,Accessories,Electronics,South,Retail,1,177.08,0.05,168.23,120.41,47.82,Bank Transfer
+ORD-00327,2024-05-07,CUST-0266,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1270.15,0.0,1270.15,863.7,406.45,Card
+ORD-00328,2024-11-26,CUST-0116,P003,4K Monitor,Monitors,Electronics,East,Retail,3,395.87,0.0,1187.61,807.57,380.04,Card
+ORD-00329,2024-07-20,CUST-0283,P005,Office Chair,Furniture,Office,East,Online,1,305.82,0.0,305.82,207.96,97.86,Bank Transfer
+ORD-00330,2025-09-21,CUST-0274,P005,Office Chair,Furniture,Office,North,Online,1,300.2,0.05,285.19,204.14,81.05,Bank Transfer
+ORD-00331,2024-06-06,CUST-0088,P010,Webcam HD,Accessories,Electronics,East,Online,4,75.03,0.2,240.1,204.08,36.02,Card
+ORD-00332,2024-02-16,CUST-0296,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,142.02,0.0,142.02,96.57,45.45,Bank Transfer
+ORD-00333,2025-09-24,CUST-0016,P007,Desk Lamp,Furniture,Office,West,Retail,1,70.17,0.0,70.17,47.72,22.45,Bank Transfer
+ORD-00334,2025-05-09,CUST-0126,P005,Office Chair,Furniture,Office,West,Retail,3,254.05,0.0,762.15,518.26,243.89,PayPal
+ORD-00335,2025-12-06,CUST-0031,P002,Wireless Headphones,Accessories,Electronics,South,Retail,3,147.54,0.1,398.36,300.98,97.38,PayPal
+ORD-00336,2025-04-20,CUST-0105,P008,External SSD 1TB,Storage,Electronics,East,Online,1,123.83,0.1,111.45,84.2,27.25,PayPal
+ORD-00337,2024-11-22,CUST-0177,P012,Monitor Arm,Accessories,Office,West,Online,1,94.64,0.05,89.91,64.36,25.55,PayPal
+ORD-00338,2025-07-29,CUST-0055,P009,USB-C Dock,Accessories,Electronics,East,Online,3,167.59,0.05,477.63,341.88,135.75,PayPal
+ORD-00339,2024-09-30,CUST-0231,P002,Wireless Headphones,Accessories,Electronics,South,Online,1,132.69,0.0,132.69,90.23,42.46,Card
+ORD-00340,2024-10-24,CUST-0197,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1192.69,0.0,1192.69,811.03,381.66,Card
+ORD-00341,2025-08-14,CUST-0161,P006,Standing Desk,Furniture,Office,South,Online,3,540.68,0.05,1540.94,1102.99,437.95,PayPal
+ORD-00342,2025-04-23,CUST-0256,P009,USB-C Dock,Accessories,Electronics,East,Retail,4,187.78,0.0,751.12,510.76,240.36,Card
+ORD-00343,2025-02-06,CUST-0259,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,146.5,0.0,293.0,199.24,93.76,Card
+ORD-00344,2024-12-27,CUST-0025,P010,Webcam HD,Accessories,Electronics,North,Retail,1,77.58,0.0,77.58,52.75,24.83,PayPal
+ORD-00345,2025-10-31,CUST-0241,P010,Webcam HD,Accessories,Electronics,East,Online,2,72.59,0.05,137.92,98.72,39.2,Card
+ORD-00346,2024-05-17,CUST-0136,P007,Desk Lamp,Furniture,Office,East,Retail,2,66.99,0.0,133.98,91.11,42.87,PayPal
+ORD-00347,2025-02-14,CUST-0027,P001,Laptop Pro 14,Computers,Electronics,South,Retail,4,1326.33,0.1,4774.79,3607.62,1167.17,Bank Transfer
+ORD-00348,2024-03-16,CUST-0198,P005,Office Chair,Furniture,Office,West,Retail,3,297.18,0.05,846.96,606.25,240.71,Bank Transfer
+ORD-00349,2025-09-17,CUST-0061,P011,Notebook Pack,Stationery,Office,South,Online,2,16.71,0.15,28.41,22.73,5.68,PayPal
+ORD-00350,2024-12-13,CUST-0286,P006,Standing Desk,Furniture,Office,East,Online,3,550.43,0.0,1651.29,1122.88,528.41,Card
+ORD-00351,2025-06-05,CUST-0206,P010,Webcam HD,Accessories,Electronics,North,Online,4,78.54,0.05,298.45,213.63,84.82,Card
+ORD-00352,2025-12-31,CUST-0171,P003,4K Monitor,Monitors,Electronics,West,Retail,2,393.24,0.0,786.48,534.81,251.67,Card
+ORD-00353,2025-06-11,CUST-0072,P010,Webcam HD,Accessories,Electronics,East,Retail,2,78.06,0.05,148.31,106.16,42.15,Card
+ORD-00354,2025-09-23,CUST-0154,P007,Desk Lamp,Furniture,Office,East,Retail,1,62.94,0.1,56.65,42.8,13.85,Bank Transfer
+ORD-00355,2024-11-02,CUST-0244,P010,Webcam HD,Accessories,Electronics,North,Retail,1,72.95,0.1,65.66,49.61,16.05,PayPal
+ORD-00356,2024-04-22,CUST-0214,P011,Notebook Pack,Stationery,Office,East,Online,4,18.45,0.0,73.8,50.18,23.62,Bank Transfer
+ORD-00357,2024-09-28,CUST-0297,P008,External SSD 1TB,Storage,Electronics,South,Online,3,121.57,0.1,328.24,248.0,80.24,Bank Transfer
+ORD-00358,2024-06-23,CUST-0269,P008,External SSD 1TB,Storage,Electronics,West,Online,2,136.21,0.0,272.42,185.25,87.17,Bank Transfer
+ORD-00359,2024-02-02,CUST-0294,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,3,101.51,0.1,274.08,207.08,67.0,Card
+ORD-00360,2024-11-17,CUST-0215,P008,External SSD 1TB,Storage,Electronics,South,Retail,3,134.86,0.05,384.35,275.11,109.24,Bank Transfer
+ORD-00361,2025-02-24,CUST-0257,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,110.27,0.05,104.76,74.98,29.78,Bank Transfer
+ORD-00362,2025-06-15,CUST-0107,P003,4K Monitor,Monitors,Electronics,East,Retail,1,431.21,0.05,409.65,293.22,116.43,Bank Transfer
+ORD-00363,2024-11-17,CUST-0089,P007,Desk Lamp,Furniture,Office,West,Retail,4,66.89,0.0,267.56,181.94,85.62,Bank Transfer
+ORD-00364,2025-11-23,CUST-0136,P006,Standing Desk,Furniture,Office,West,Online,3,512.62,0.2,1230.29,1045.74,184.55,Card
+ORD-00365,2025-07-25,CUST-0153,P005,Office Chair,Furniture,Office,South,Retail,2,290.26,0.1,522.47,394.75,127.72,PayPal
+ORD-00366,2024-07-31,CUST-0251,P012,Monitor Arm,Accessories,Office,East,Retail,3,87.74,0.15,223.74,178.99,44.75,PayPal
+ORD-00367,2024-10-07,CUST-0148,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,164.42,0.05,312.4,223.61,88.79,PayPal
+ORD-00368,2024-05-29,CUST-0149,P006,Standing Desk,Furniture,Office,North,Retail,2,543.63,0.1,978.53,739.34,239.19,Bank Transfer
+ORD-00369,2024-12-20,CUST-0227,P002,Wireless Headphones,Accessories,Electronics,East,Retail,4,134.56,0.0,538.24,366.0,172.24,Card
+ORD-00370,2025-07-05,CUST-0139,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,118.23,0.15,100.5,80.4,20.1,Card
+ORD-00371,2025-08-23,CUST-0123,P010,Webcam HD,Accessories,Electronics,South,Online,1,77.48,0.05,73.61,52.69,20.92,Bank Transfer
+ORD-00372,2024-08-19,CUST-0120,P009,USB-C Dock,Accessories,Electronics,North,Online,4,192.17,0.05,730.25,522.7,207.55,PayPal
+ORD-00373,2025-04-28,CUST-0052,P006,Standing Desk,Furniture,Office,South,Online,2,511.93,0.0,1023.86,696.22,327.64,Bank Transfer
+ORD-00374,2025-02-20,CUST-0244,P003,4K Monitor,Monitors,Electronics,West,Online,1,439.99,0.0,439.99,299.19,140.8,PayPal
+ORD-00375,2024-10-19,CUST-0031,P006,Standing Desk,Furniture,Office,North,Online,1,537.64,0.0,537.64,365.6,172.04,Bank Transfer
+ORD-00376,2024-02-08,CUST-0090,P012,Monitor Arm,Accessories,Office,West,Online,2,90.99,0.0,181.98,123.75,58.23,Card
+ORD-00377,2025-05-22,CUST-0096,P007,Desk Lamp,Furniture,Office,East,Online,2,62.36,0.1,112.25,84.81,27.44,Card
+ORD-00378,2025-08-04,CUST-0055,P005,Office Chair,Furniture,Office,East,Retail,1,274.21,0.15,233.08,186.46,46.62,PayPal
+ORD-00379,2025-07-10,CUST-0269,P011,Notebook Pack,Stationery,Office,West,Online,3,17.94,0.0,53.82,36.6,17.22,Bank Transfer
+ORD-00380,2024-10-06,CUST-0099,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,119.06,0.0,119.06,80.96,38.1,Card
+ORD-00381,2025-04-14,CUST-0132,P012,Monitor Arm,Accessories,Office,South,Online,1,101.58,0.1,91.42,69.07,22.35,Bank Transfer
+ORD-00382,2024-10-29,CUST-0291,P006,Standing Desk,Furniture,Office,South,Online,1,493.09,0.05,468.44,335.3,133.14,Bank Transfer
+ORD-00383,2025-02-19,CUST-0219,P011,Notebook Pack,Stationery,Office,East,Online,1,17.44,0.05,16.57,11.86,4.71,PayPal
+ORD-00384,2024-04-07,CUST-0095,P011,Notebook Pack,Stationery,Office,South,Retail,1,18.74,0.0,18.74,12.74,6.0,PayPal
+ORD-00385,2024-01-07,CUST-0134,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,100.67,0.05,95.64,68.46,27.18,PayPal
+ORD-00386,2024-12-03,CUST-0155,P005,Office Chair,Furniture,Office,North,Retail,1,290.9,0.1,261.81,197.81,64.0,Bank Transfer
+ORD-00387,2025-12-10,CUST-0121,P006,Standing Desk,Furniture,Office,North,Online,3,469.52,0.0,1408.56,957.82,450.74,PayPal
+ORD-00388,2024-06-12,CUST-0208,P005,Office Chair,Furniture,Office,East,Online,2,303.37,0.0,606.74,412.58,194.16,Bank Transfer
+ORD-00389,2025-01-11,CUST-0114,P005,Office Chair,Furniture,Office,South,Online,2,290.67,0.1,523.21,395.31,127.9,PayPal
+ORD-00390,2025-04-10,CUST-0192,P003,4K Monitor,Monitors,Electronics,West,Retail,1,423.52,0.0,423.52,287.99,135.53,Bank Transfer
+ORD-00391,2024-08-11,CUST-0127,P011,Notebook Pack,Stationery,Office,North,Retail,1,19.1,0.1,17.19,12.99,4.2,Bank Transfer
+ORD-00392,2025-01-05,CUST-0040,P012,Monitor Arm,Accessories,Office,North,Online,4,97.61,0.1,351.4,265.5,85.9,Bank Transfer
+ORD-00393,2024-07-26,CUST-0294,P009,USB-C Dock,Accessories,Electronics,South,Online,1,185.28,0.15,157.49,125.99,31.5,PayPal
+ORD-00394,2025-03-28,CUST-0060,P009,USB-C Dock,Accessories,Electronics,South,Retail,1,195.99,0.2,156.79,133.27,23.52,Card
+ORD-00395,2025-04-01,CUST-0029,P009,USB-C Dock,Accessories,Electronics,West,Online,4,183.18,0.0,732.72,498.25,234.47,Bank Transfer
+ORD-00396,2025-04-12,CUST-0289,P007,Desk Lamp,Furniture,Office,North,Retail,1,65.88,0.0,65.88,44.8,21.08,Bank Transfer
+ORD-00397,2024-01-23,CUST-0203,P005,Office Chair,Furniture,Office,East,Online,1,258.75,0.0,258.75,175.95,82.8,Bank Transfer
+ORD-00398,2025-08-15,CUST-0038,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,4,119.34,0.0,477.36,324.6,152.76,PayPal
+ORD-00399,2024-03-06,CUST-0278,P012,Monitor Arm,Accessories,Office,North,Online,1,100.61,0.0,100.61,68.41,32.2,PayPal
+ORD-00400,2024-10-20,CUST-0210,P001,Laptop Pro 14,Computers,Electronics,South,Online,4,1336.14,0.15,4542.88,3634.3,908.58,Bank Transfer
+ORD-00401,2025-10-23,CUST-0216,P012,Monitor Arm,Accessories,Office,East,Retail,1,97.75,0.05,92.86,66.47,26.39,PayPal
+ORD-00402,2025-01-19,CUST-0042,P007,Desk Lamp,Furniture,Office,South,Retail,3,61.49,0.05,175.25,125.44,49.81,Card
+ORD-00403,2025-07-04,CUST-0202,P003,4K Monitor,Monitors,Electronics,South,Online,2,452.34,0.05,859.45,615.18,244.27,Card
+ORD-00404,2024-11-01,CUST-0238,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1306.19,0.0,1306.19,888.21,417.98,Card
+ORD-00405,2025-04-16,CUST-0178,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,2,116.69,0.05,221.71,158.7,63.01,Card
+ORD-00406,2024-04-25,CUST-0017,P012,Monitor Arm,Accessories,Office,West,Online,2,91.56,0.1,164.81,124.52,40.29,Card
+ORD-00407,2024-03-09,CUST-0052,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,108.39,0.05,102.97,73.71,29.26,Bank Transfer
+ORD-00408,2025-12-21,CUST-0025,P011,Notebook Pack,Stationery,Office,South,Online,2,16.29,0.0,32.58,22.15,10.43,PayPal
+ORD-00409,2024-08-27,CUST-0277,P008,External SSD 1TB,Storage,Electronics,South,Online,1,112.51,0.2,90.01,76.51,13.5,Card
+ORD-00410,2024-10-23,CUST-0120,P009,USB-C Dock,Accessories,Electronics,East,Retail,2,195.81,0.05,372.04,266.3,105.74,Card
+ORD-00411,2024-05-26,CUST-0267,P005,Office Chair,Furniture,Office,South,Retail,1,252.53,0.0,252.53,171.72,80.81,PayPal
+ORD-00412,2024-03-03,CUST-0286,P005,Office Chair,Furniture,Office,South,Retail,2,274.51,0.1,494.12,373.33,120.79,Bank Transfer
+ORD-00413,2024-02-18,CUST-0177,P008,External SSD 1TB,Storage,Electronics,West,Retail,2,127.02,0.05,241.34,172.75,68.59,Bank Transfer
+ORD-00414,2025-02-22,CUST-0077,P007,Desk Lamp,Furniture,Office,East,Retail,2,68.49,0.2,109.58,93.15,16.43,Card
+ORD-00415,2025-04-29,CUST-0124,P009,USB-C Dock,Accessories,Electronics,South,Retail,1,180.81,0.0,180.81,122.95,57.86,Bank Transfer
+ORD-00416,2025-04-19,CUST-0030,P003,4K Monitor,Monitors,Electronics,West,Retail,1,387.28,0.0,387.28,263.35,123.93,Bank Transfer
+ORD-00417,2024-05-17,CUST-0199,P009,USB-C Dock,Accessories,Electronics,South,Retail,3,192.7,0.0,578.1,393.11,184.99,Card
+ORD-00418,2025-10-24,CUST-0041,P006,Standing Desk,Furniture,Office,West,Retail,1,463.29,0.0,463.29,315.04,148.25,Card
+ORD-00419,2024-07-14,CUST-0027,P009,USB-C Dock,Accessories,Electronics,East,Retail,1,163.62,0.15,139.08,111.26,27.82,Bank Transfer
+ORD-00420,2025-09-09,CUST-0021,P010,Webcam HD,Accessories,Electronics,North,Online,4,77.69,0.0,310.76,211.32,99.44,Bank Transfer
+ORD-00421,2025-11-18,CUST-0287,P012,Monitor Arm,Accessories,Office,South,Retail,2,100.66,0.2,161.06,136.9,24.16,Card
+ORD-00422,2024-11-06,CUST-0008,P006,Standing Desk,Furniture,Office,South,Online,2,501.59,0.0,1003.18,682.16,321.02,Bank Transfer
+ORD-00423,2025-05-05,CUST-0125,P002,Wireless Headphones,Accessories,Electronics,South,Retail,4,144.05,0.15,489.77,391.82,97.95,Card
+ORD-00424,2024-11-25,CUST-0145,P009,USB-C Dock,Accessories,Electronics,West,Retail,2,188.76,0.2,302.02,256.71,45.31,Bank Transfer
+ORD-00425,2025-01-02,CUST-0158,P011,Notebook Pack,Stationery,Office,East,Retail,2,19.59,0.0,39.18,26.64,12.54,Bank Transfer
+ORD-00426,2025-04-22,CUST-0051,P008,External SSD 1TB,Storage,Electronics,West,Retail,4,133.27,0.0,533.08,362.49,170.59,Card
+ORD-00427,2024-11-16,CUST-0212,P006,Standing Desk,Furniture,Office,North,Online,3,477.01,0.0,1431.03,973.1,457.93,Bank Transfer
+ORD-00428,2024-01-17,CUST-0134,P003,4K Monitor,Monitors,Electronics,West,Retail,1,458.41,0.0,458.41,311.72,146.69,Card
+ORD-00429,2024-12-03,CUST-0118,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,3,112.86,0.1,304.72,230.23,74.49,PayPal
+ORD-00430,2025-11-01,CUST-0173,P009,USB-C Dock,Accessories,Electronics,East,Retail,4,195.4,0.15,664.36,531.49,132.87,Bank Transfer
+ORD-00431,2025-05-17,CUST-0236,P011,Notebook Pack,Stationery,Office,South,Retail,1,17.14,0.05,16.28,11.66,4.62,Card
+ORD-00432,2025-07-13,CUST-0251,P003,4K Monitor,Monitors,Electronics,South,Online,1,436.47,0.1,392.82,296.8,96.02,Bank Transfer
+ORD-00433,2024-03-17,CUST-0025,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1181.11,0.1,1063.0,803.15,259.85,Card
+ORD-00434,2024-08-24,CUST-0035,P011,Notebook Pack,Stationery,Office,South,Online,2,18.33,0.05,34.83,24.93,9.9,Card
+ORD-00435,2025-04-11,CUST-0192,P009,USB-C Dock,Accessories,Electronics,North,Retail,3,178.47,0.15,455.1,364.08,91.02,Bank Transfer
+ORD-00436,2024-01-17,CUST-0004,P008,External SSD 1TB,Storage,Electronics,West,Online,1,124.42,0.0,124.42,84.61,39.81,Card
+ORD-00437,2024-10-08,CUST-0275,P009,USB-C Dock,Accessories,Electronics,East,Online,1,193.04,0.2,154.43,131.27,23.16,Bank Transfer
+ORD-00438,2025-11-21,CUST-0221,P012,Monitor Arm,Accessories,Office,South,Online,1,103.2,0.0,103.2,70.18,33.02,Card
+ORD-00439,2024-06-01,CUST-0124,P009,USB-C Dock,Accessories,Electronics,South,Retail,1,176.7,0.0,176.7,120.16,56.54,PayPal
+ORD-00440,2025-02-10,CUST-0041,P005,Office Chair,Furniture,Office,East,Retail,4,290.96,0.0,1163.84,791.41,372.43,PayPal
+ORD-00441,2024-09-06,CUST-0116,P010,Webcam HD,Accessories,Electronics,East,Online,1,81.93,0.05,77.83,55.71,22.12,Bank Transfer
+ORD-00442,2024-02-02,CUST-0048,P011,Notebook Pack,Stationery,Office,West,Retail,2,19.77,0.15,33.61,26.89,6.72,PayPal
+ORD-00443,2025-05-02,CUST-0029,P009,USB-C Dock,Accessories,Electronics,North,Online,1,179.3,0.05,170.34,121.92,48.42,Card
+ORD-00444,2025-03-20,CUST-0170,P008,External SSD 1TB,Storage,Electronics,North,Online,2,126.78,0.15,215.53,172.42,43.11,Card
+ORD-00445,2025-12-09,CUST-0291,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,118.02,0.05,112.12,80.25,31.87,Card
+ORD-00446,2025-12-01,CUST-0144,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,153.63,0.15,130.59,104.47,26.12,PayPal
+ORD-00447,2024-07-31,CUST-0074,P001,Laptop Pro 14,Computers,Electronics,West,Online,2,1341.82,0.15,2281.09,1824.88,456.21,PayPal
+ORD-00448,2025-07-31,CUST-0124,P003,4K Monitor,Monitors,Electronics,West,Retail,1,398.05,0.0,398.05,270.67,127.38,PayPal
+ORD-00449,2024-05-23,CUST-0041,P012,Monitor Arm,Accessories,Office,East,Online,2,97.25,0.1,175.05,132.26,42.79,Card
+ORD-00450,2024-08-25,CUST-0039,P007,Desk Lamp,Furniture,Office,East,Retail,3,69.96,0.0,209.88,142.72,67.16,PayPal
+ORD-00451,2025-10-11,CUST-0140,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1132.31,0.15,1924.93,1539.94,384.99,Card
+ORD-00452,2025-07-20,CUST-0193,P006,Standing Desk,Furniture,Office,West,Online,4,542.63,0.0,2170.52,1475.95,694.57,Bank Transfer
+ORD-00453,2025-11-07,CUST-0195,P010,Webcam HD,Accessories,Electronics,North,Retail,2,69.91,0.1,125.84,95.08,30.76,Card
+ORD-00454,2024-03-16,CUST-0043,P012,Monitor Arm,Accessories,Office,East,Online,2,99.88,0.05,189.77,135.84,53.93,PayPal
+ORD-00455,2025-10-11,CUST-0079,P012,Monitor Arm,Accessories,Office,West,Retail,2,90.95,0.0,181.9,123.69,58.21,PayPal
+ORD-00456,2024-04-03,CUST-0003,P002,Wireless Headphones,Accessories,Electronics,East,Retail,3,146.74,0.0,440.22,299.35,140.87,PayPal
+ORD-00457,2024-04-14,CUST-0068,P005,Office Chair,Furniture,Office,North,Online,4,252.51,0.0,1010.04,686.83,323.21,PayPal
+ORD-00458,2025-07-24,CUST-0285,P008,External SSD 1TB,Storage,Electronics,West,Online,2,115.17,0.1,207.31,156.63,50.68,Card
+ORD-00459,2024-12-28,CUST-0284,P002,Wireless Headphones,Accessories,Electronics,North,Retail,3,143.03,0.0,429.09,291.78,137.31,PayPal
+ORD-00460,2024-10-25,CUST-0212,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1283.16,0.0,1283.16,872.55,410.61,Bank Transfer
+ORD-00461,2024-09-05,CUST-0293,P009,USB-C Dock,Accessories,Electronics,South,Retail,3,190.4,0.1,514.08,388.42,125.66,Card
+ORD-00462,2024-10-02,CUST-0155,P003,4K Monitor,Monitors,Electronics,East,Retail,2,383.7,0.1,690.66,521.83,168.83,Card
+ORD-00463,2024-06-20,CUST-0223,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,152.86,0.0,152.86,103.94,48.92,PayPal
+ORD-00464,2024-03-19,CUST-0185,P008,External SSD 1TB,Storage,Electronics,East,Online,1,121.15,0.05,115.09,82.38,32.71,Bank Transfer
+ORD-00465,2025-05-22,CUST-0101,P011,Notebook Pack,Stationery,Office,West,Online,1,19.27,0.0,19.27,13.1,6.17,Card
+ORD-00466,2024-01-07,CUST-0203,P005,Office Chair,Furniture,Office,East,Retail,3,306.26,0.2,735.02,624.77,110.25,PayPal
+ORD-00467,2024-12-08,CUST-0221,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,127.36,0.05,241.98,173.21,68.77,PayPal
+ORD-00468,2025-12-12,CUST-0103,P010,Webcam HD,Accessories,Electronics,West,Retail,2,67.83,0.0,135.66,92.25,43.41,Card
+ORD-00469,2024-11-22,CUST-0150,P007,Desk Lamp,Furniture,Office,West,Online,3,69.14,0.0,207.42,141.05,66.37,PayPal
+ORD-00470,2024-10-14,CUST-0202,P007,Desk Lamp,Furniture,Office,East,Online,1,64.3,0.1,57.87,43.72,14.15,Bank Transfer
+ORD-00471,2025-08-29,CUST-0280,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,3,119.77,0.05,341.34,244.33,97.01,Bank Transfer
+ORD-00472,2025-12-26,CUST-0108,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,116.59,0.05,110.76,79.28,31.48,Bank Transfer
+ORD-00473,2025-02-22,CUST-0256,P002,Wireless Headphones,Accessories,Electronics,South,Retail,4,139.15,0.1,500.94,378.49,122.45,Card
+ORD-00474,2025-11-05,CUST-0079,P005,Office Chair,Furniture,Office,West,Retail,1,264.88,0.1,238.39,180.12,58.27,Card
+ORD-00475,2025-09-04,CUST-0246,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,136.27,0.0,136.27,92.66,43.61,Bank Transfer
+ORD-00476,2025-01-03,CUST-0275,P001,Laptop Pro 14,Computers,Electronics,North,Online,2,1307.82,0.0,2615.64,1778.64,837.0,Card
+ORD-00477,2025-11-11,CUST-0182,P011,Notebook Pack,Stationery,Office,South,Online,4,18.5,0.0,74.0,50.32,23.68,Bank Transfer
+ORD-00478,2025-11-24,CUST-0205,P011,Notebook Pack,Stationery,Office,East,Retail,3,17.79,0.1,48.03,36.29,11.74,Card
+ORD-00479,2024-04-10,CUST-0133,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1348.52,0.0,1348.52,916.99,431.53,PayPal
+ORD-00480,2025-02-04,CUST-0238,P006,Standing Desk,Furniture,Office,South,Retail,4,479.44,0.1,1725.98,1304.08,421.9,Card
+ORD-00481,2024-04-17,CUST-0152,P008,External SSD 1TB,Storage,Electronics,West,Online,1,121.71,0.1,109.54,82.76,26.78,Card
+ORD-00482,2024-05-25,CUST-0179,P012,Monitor Arm,Accessories,Office,East,Retail,4,95.82,0.05,364.12,260.63,103.49,PayPal
+ORD-00483,2025-06-17,CUST-0248,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,2,118.11,0.0,236.22,160.63,75.59,Card
+ORD-00484,2025-12-14,CUST-0232,P008,External SSD 1TB,Storage,Electronics,East,Online,2,123.84,0.0,247.68,168.42,79.26,PayPal
+ORD-00485,2025-12-28,CUST-0059,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1281.56,0.1,1153.4,871.46,281.94,Bank Transfer
+ORD-00486,2025-11-24,CUST-0085,P002,Wireless Headphones,Accessories,Electronics,South,Online,2,157.2,0.0,314.4,213.79,100.61,Bank Transfer
+ORD-00487,2024-12-04,CUST-0287,P003,4K Monitor,Monitors,Electronics,West,Retail,1,416.82,0.0,416.82,283.44,133.38,Card
+ORD-00488,2025-10-06,CUST-0095,P007,Desk Lamp,Furniture,Office,South,Retail,3,60.13,0.0,180.39,122.67,57.72,PayPal
+ORD-00489,2025-09-20,CUST-0102,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1264.6,0.0,2529.2,1719.86,809.34,PayPal
+ORD-00490,2025-12-22,CUST-0110,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1287.88,0.0,1287.88,875.76,412.12,Bank Transfer
+ORD-00491,2025-08-14,CUST-0053,P002,Wireless Headphones,Accessories,Electronics,South,Retail,2,153.63,0.0,307.26,208.94,98.32,PayPal
+ORD-00492,2025-04-13,CUST-0059,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,102.29,0.2,81.83,69.56,12.27,Bank Transfer
+ORD-00493,2024-11-16,CUST-0199,P011,Notebook Pack,Stationery,Office,West,Online,2,17.61,0.0,35.22,23.95,11.27,PayPal
+ORD-00494,2025-04-13,CUST-0089,P006,Standing Desk,Furniture,Office,East,Online,3,532.63,0.2,1278.31,1086.57,191.74,Bank Transfer
+ORD-00495,2024-11-16,CUST-0061,P003,4K Monitor,Monitors,Electronics,South,Retail,1,450.25,0.1,405.23,306.17,99.06,Card
+ORD-00496,2025-01-17,CUST-0073,P003,4K Monitor,Monitors,Electronics,West,Retail,3,438.84,0.15,1119.04,895.23,223.81,Bank Transfer
+ORD-00497,2025-08-11,CUST-0197,P003,4K Monitor,Monitors,Electronics,West,Online,1,398.33,0.0,398.33,270.86,127.47,PayPal
+ORD-00498,2025-07-04,CUST-0089,P011,Notebook Pack,Stationery,Office,South,Retail,1,16.27,0.05,15.46,11.06,4.4,PayPal
+ORD-00499,2024-07-10,CUST-0162,P003,4K Monitor,Monitors,Electronics,West,Online,3,437.01,0.05,1245.48,891.5,353.98,PayPal
+ORD-00500,2025-05-11,CUST-0070,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1360.31,0.1,1224.28,925.01,299.27,Bank Transfer
+ORD-00501,2025-10-30,CUST-0254,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,165.16,0.05,156.9,112.31,44.59,PayPal
+ORD-00502,2025-03-30,CUST-0251,P012,Monitor Arm,Accessories,Office,South,Online,2,101.17,0.0,202.34,137.59,64.75,Bank Transfer
+ORD-00503,2024-08-13,CUST-0150,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1158.18,0.0,1158.18,787.56,370.62,Card
+ORD-00504,2024-10-22,CUST-0087,P009,USB-C Dock,Accessories,Electronics,West,Retail,4,186.95,0.0,747.8,508.5,239.3,Bank Transfer
+ORD-00505,2024-04-25,CUST-0294,P009,USB-C Dock,Accessories,Electronics,North,Retail,4,168.03,0.0,672.12,457.04,215.08,Bank Transfer
+ORD-00506,2025-07-09,CUST-0022,P006,Standing Desk,Furniture,Office,West,Online,1,471.67,0.2,377.34,320.74,56.6,PayPal
+ORD-00507,2025-10-31,CUST-0127,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,157.65,0.0,157.65,107.2,50.45,PayPal
+ORD-00508,2024-12-22,CUST-0045,P005,Office Chair,Furniture,Office,West,Online,4,268.73,0.05,1021.17,730.95,290.22,Card
+ORD-00509,2025-08-25,CUST-0180,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,2,114.71,0.15,195.01,156.01,39.0,Bank Transfer
+ORD-00510,2024-07-30,CUST-0106,P003,4K Monitor,Monitors,Electronics,North,Retail,3,429.43,0.1,1159.46,876.04,283.42,Bank Transfer
+ORD-00511,2025-09-03,CUST-0276,P005,Office Chair,Furniture,Office,South,Retail,4,302.11,0.0,1208.44,821.74,386.7,Bank Transfer
+ORD-00512,2024-10-23,CUST-0294,P005,Office Chair,Furniture,Office,East,Online,2,295.89,0.05,562.19,402.41,159.78,Card
+ORD-00513,2024-03-01,CUST-0142,P007,Desk Lamp,Furniture,Office,South,Online,4,65.34,0.05,248.29,177.72,70.57,Card
+ORD-00514,2025-12-29,CUST-0165,P003,4K Monitor,Monitors,Electronics,South,Retail,1,438.89,0.0,438.89,298.45,140.44,PayPal
+ORD-00515,2025-08-14,CUST-0138,P003,4K Monitor,Monitors,Electronics,West,Retail,2,391.4,0.0,782.8,532.3,250.5,PayPal
+ORD-00516,2025-10-10,CUST-0048,P002,Wireless Headphones,Accessories,Electronics,West,Retail,2,140.04,0.05,266.08,190.45,75.63,Bank Transfer
+ORD-00517,2025-04-10,CUST-0250,P006,Standing Desk,Furniture,Office,East,Online,3,477.58,0.0,1432.74,974.26,458.48,Bank Transfer
+ORD-00518,2025-04-14,CUST-0184,P002,Wireless Headphones,Accessories,Electronics,North,Retail,4,131.77,0.0,527.08,358.41,168.67,Card
+ORD-00519,2024-08-04,CUST-0254,P007,Desk Lamp,Furniture,Office,East,Retail,2,67.85,0.05,128.91,92.28,36.63,PayPal
+ORD-00520,2025-07-14,CUST-0296,P006,Standing Desk,Furniture,Office,South,Retail,3,514.33,0.0,1542.99,1049.23,493.76,PayPal
+ORD-00521,2024-02-19,CUST-0024,P011,Notebook Pack,Stationery,Office,North,Retail,1,16.92,0.1,15.23,11.51,3.72,Card
+ORD-00522,2024-06-10,CUST-0226,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,142.63,0.0,142.63,96.99,45.64,PayPal
+ORD-00523,2025-12-06,CUST-0068,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,4,109.18,0.0,436.72,296.97,139.75,PayPal
+ORD-00524,2025-11-01,CUST-0185,P002,Wireless Headphones,Accessories,Electronics,East,Online,3,142.56,0.2,342.14,290.82,51.32,PayPal
+ORD-00525,2025-10-26,CUST-0085,P011,Notebook Pack,Stationery,Office,North,Retail,2,18.85,0.05,35.81,25.64,10.17,Bank Transfer
+ORD-00526,2025-12-17,CUST-0120,P005,Office Chair,Furniture,Office,West,Online,3,254.25,0.2,610.2,518.67,91.53,Bank Transfer
+ORD-00527,2024-01-02,CUST-0110,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,147.55,0.05,140.17,100.33,39.84,Card
+ORD-00528,2024-08-19,CUST-0266,P010,Webcam HD,Accessories,Electronics,West,Online,1,74.8,0.1,67.32,50.86,16.46,Card
+ORD-00529,2024-12-17,CUST-0062,P012,Monitor Arm,Accessories,Office,West,Online,1,100.57,0.05,95.54,68.39,27.15,PayPal
+ORD-00530,2024-08-22,CUST-0197,P002,Wireless Headphones,Accessories,Electronics,North,Online,4,147.68,0.0,590.72,401.69,189.03,Card
+ORD-00531,2025-01-11,CUST-0154,P006,Standing Desk,Furniture,Office,South,Retail,3,498.15,0.0,1494.45,1016.23,478.22,Card
+ORD-00532,2025-11-24,CUST-0074,P011,Notebook Pack,Stationery,Office,North,Online,1,18.84,0.05,17.9,12.81,5.09,Bank Transfer
+ORD-00533,2024-06-17,CUST-0226,P011,Notebook Pack,Stationery,Office,East,Online,1,17.66,0.1,15.89,12.01,3.88,Bank Transfer
+ORD-00534,2024-06-04,CUST-0211,P012,Monitor Arm,Accessories,Office,West,Online,3,90.01,0.0,270.03,183.62,86.41,Card
+ORD-00535,2024-05-23,CUST-0064,P002,Wireless Headphones,Accessories,Electronics,West,Retail,3,142.48,0.05,406.07,290.66,115.41,PayPal
+ORD-00536,2024-05-23,CUST-0127,P006,Standing Desk,Furniture,Office,East,Online,3,484.22,0.05,1380.03,987.81,392.22,Card
+ORD-00537,2025-09-07,CUST-0146,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,183.35,0.0,366.7,249.36,117.34,Card
+ORD-00538,2025-09-13,CUST-0261,P009,USB-C Dock,Accessories,Electronics,South,Retail,4,183.35,0.0,733.4,498.71,234.69,PayPal
+ORD-00539,2024-02-25,CUST-0123,P011,Notebook Pack,Stationery,Office,West,Retail,3,17.32,0.1,46.76,35.33,11.43,Card
+ORD-00540,2025-05-26,CUST-0037,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,2,113.45,0.0,226.9,154.29,72.61,PayPal
+ORD-00541,2025-01-31,CUST-0292,P003,4K Monitor,Monitors,Electronics,West,Retail,4,428.29,0.05,1627.5,1164.95,462.55,Bank Transfer
+ORD-00542,2024-06-25,CUST-0242,P011,Notebook Pack,Stationery,Office,North,Online,2,17.83,0.2,28.53,24.25,4.28,Bank Transfer
+ORD-00543,2024-01-15,CUST-0135,P002,Wireless Headphones,Accessories,Electronics,South,Online,1,143.32,0.15,121.82,97.46,24.36,Card
+ORD-00544,2025-06-02,CUST-0147,P007,Desk Lamp,Furniture,Office,West,Retail,1,67.2,0.0,67.2,45.7,21.5,Bank Transfer
+ORD-00545,2024-03-25,CUST-0275,P007,Desk Lamp,Furniture,Office,South,Retail,1,61.73,0.0,61.73,41.98,19.75,Card
+ORD-00546,2024-03-21,CUST-0262,P005,Office Chair,Furniture,Office,South,Online,1,266.14,0.15,226.22,180.98,45.24,Bank Transfer
+ORD-00547,2025-02-04,CUST-0034,P006,Standing Desk,Furniture,Office,East,Retail,3,462.74,0.0,1388.22,943.99,444.23,Bank Transfer
+ORD-00548,2024-02-29,CUST-0126,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,2,110.74,0.0,221.48,150.61,70.87,Card
+ORD-00549,2025-09-18,CUST-0029,P008,External SSD 1TB,Storage,Electronics,East,Online,1,132.64,0.1,119.38,90.2,29.18,Card
+ORD-00550,2025-12-25,CUST-0071,P001,Laptop Pro 14,Computers,Electronics,North,Online,2,1264.54,0.15,2149.72,1719.77,429.95,PayPal
+ORD-00551,2025-06-19,CUST-0265,P006,Standing Desk,Furniture,Office,East,Online,1,486.51,0.0,486.51,330.83,155.68,PayPal
+ORD-00552,2024-10-02,CUST-0061,P003,4K Monitor,Monitors,Electronics,North,Retail,1,397.41,0.0,397.41,270.24,127.17,PayPal
+ORD-00553,2025-06-20,CUST-0033,P005,Office Chair,Furniture,Office,East,Online,1,258.84,0.0,258.84,176.01,82.83,PayPal
+ORD-00554,2025-06-07,CUST-0185,P008,External SSD 1TB,Storage,Electronics,North,Retail,3,114.71,0.0,344.13,234.01,110.12,Bank Transfer
+ORD-00555,2025-01-11,CUST-0081,P003,4K Monitor,Monitors,Electronics,East,Online,1,381.49,0.05,362.42,259.41,103.01,Bank Transfer
+ORD-00556,2024-04-28,CUST-0117,P011,Notebook Pack,Stationery,Office,North,Online,1,17.93,0.0,17.93,12.19,5.74,Card
+ORD-00557,2024-02-17,CUST-0242,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,119.94,0.0,119.94,81.56,38.38,Card
+ORD-00558,2024-02-06,CUST-0284,P003,4K Monitor,Monitors,Electronics,West,Online,1,426.73,0.2,341.38,290.18,51.2,PayPal
+ORD-00559,2025-03-02,CUST-0164,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,4,106.54,0.05,404.85,289.79,115.06,Bank Transfer
+ORD-00560,2024-05-02,CUST-0258,P006,Standing Desk,Furniture,Office,North,Online,3,462.06,0.0,1386.18,942.6,443.58,Card
+ORD-00561,2024-02-17,CUST-0206,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,195.83,0.0,391.66,266.33,125.33,PayPal
+ORD-00562,2024-12-01,CUST-0045,P005,Office Chair,Furniture,Office,West,Online,2,306.32,0.1,551.38,416.6,134.78,PayPal
+ORD-00563,2024-10-25,CUST-0289,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,102.44,0.1,92.2,69.66,22.54,PayPal
+ORD-00564,2025-08-28,CUST-0253,P006,Standing Desk,Furniture,Office,South,Online,3,477.07,0.15,1216.53,973.22,243.31,Card
+ORD-00565,2025-02-23,CUST-0013,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1369.66,0.1,1232.69,931.37,301.32,Bank Transfer
+ORD-00566,2024-01-10,CUST-0172,P012,Monitor Arm,Accessories,Office,North,Retail,1,94.95,0.1,85.45,64.57,20.88,Bank Transfer
+ORD-00567,2024-11-10,CUST-0054,P012,Monitor Arm,Accessories,Office,South,Online,1,101.93,0.1,91.74,69.31,22.43,PayPal
+ORD-00568,2024-03-02,CUST-0073,P008,External SSD 1TB,Storage,Electronics,East,Online,1,135.77,0.0,135.77,92.32,43.45,Card
+ORD-00569,2025-06-16,CUST-0212,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,3,112.21,0.15,286.14,228.91,57.23,Bank Transfer
+ORD-00570,2025-08-17,CUST-0049,P002,Wireless Headphones,Accessories,Electronics,South,Retail,4,141.92,0.1,510.91,386.02,124.89,Card
+ORD-00571,2025-08-04,CUST-0032,P010,Webcam HD,Accessories,Electronics,West,Online,2,72.73,0.05,138.19,98.91,39.28,Card
+ORD-00572,2024-09-24,CUST-0162,P005,Office Chair,Furniture,Office,West,Retail,1,254.7,0.2,203.76,173.2,30.56,PayPal
+ORD-00573,2024-10-05,CUST-0120,P008,External SSD 1TB,Storage,Electronics,North,Online,1,137.33,0.15,116.73,93.38,23.35,Card
+ORD-00574,2024-04-21,CUST-0080,P010,Webcam HD,Accessories,Electronics,North,Online,2,76.01,0.1,136.82,103.37,33.45,PayPal
+ORD-00575,2024-11-17,CUST-0209,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,128.76,0.0,128.76,87.56,41.2,Card
+ORD-00576,2024-11-11,CUST-0238,P008,External SSD 1TB,Storage,Electronics,East,Online,3,129.19,0.0,387.57,263.55,124.02,Card
+ORD-00577,2025-12-03,CUST-0156,P003,4K Monitor,Monitors,Electronics,North,Online,3,451.74,0.15,1151.94,921.55,230.39,PayPal
+ORD-00578,2024-04-03,CUST-0128,P003,4K Monitor,Monitors,Electronics,East,Retail,4,446.7,0.0,1786.8,1215.02,571.78,Bank Transfer
+ORD-00579,2025-11-24,CUST-0154,P001,Laptop Pro 14,Computers,Electronics,East,Online,3,1126.44,0.05,3210.35,2297.94,912.41,Card
+ORD-00580,2025-04-08,CUST-0285,P007,Desk Lamp,Furniture,Office,South,Online,4,66.43,0.05,252.43,180.69,71.74,PayPal
+ORD-00581,2024-05-23,CUST-0063,P002,Wireless Headphones,Accessories,Electronics,North,Online,4,141.77,0.1,510.37,385.61,124.76,Card
+ORD-00582,2024-07-21,CUST-0206,P003,4K Monitor,Monitors,Electronics,East,Online,1,423.84,0.05,402.65,288.21,114.44,Bank Transfer
+ORD-00583,2024-09-22,CUST-0039,P010,Webcam HD,Accessories,Electronics,North,Online,1,68.6,0.0,68.6,46.65,21.95,Card
+ORD-00584,2025-03-30,CUST-0066,P011,Notebook Pack,Stationery,Office,North,Retail,1,18.51,0.0,18.51,12.59,5.92,Card
+ORD-00585,2025-04-17,CUST-0026,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1219.95,0.05,1158.95,829.57,329.38,Bank Transfer
+ORD-00586,2025-05-23,CUST-0016,P007,Desk Lamp,Furniture,Office,West,Retail,1,69.51,0.2,55.61,47.27,8.34,Card
+ORD-00587,2024-08-07,CUST-0096,P006,Standing Desk,Furniture,Office,East,Retail,2,493.81,0.0,987.62,671.58,316.04,PayPal
+ORD-00588,2024-02-05,CUST-0126,P003,4K Monitor,Monitors,Electronics,East,Retail,2,422.24,0.0,844.48,574.25,270.23,PayPal
+ORD-00589,2025-05-05,CUST-0032,P009,USB-C Dock,Accessories,Electronics,North,Retail,4,183.88,0.05,698.74,500.15,198.59,PayPal
+ORD-00590,2025-03-05,CUST-0103,P003,4K Monitor,Monitors,Electronics,South,Online,4,438.32,0.1,1577.95,1192.23,385.72,PayPal
+ORD-00591,2025-01-02,CUST-0246,P012,Monitor Arm,Accessories,Office,West,Retail,1,101.13,0.05,96.07,68.77,27.3,Bank Transfer
+ORD-00592,2024-11-25,CUST-0199,P009,USB-C Dock,Accessories,Electronics,East,Online,1,185.31,0.0,185.31,126.01,59.3,Card
+ORD-00593,2025-09-03,CUST-0113,P006,Standing Desk,Furniture,Office,North,Retail,2,525.78,0.2,841.25,715.06,126.19,Card
+ORD-00594,2025-06-26,CUST-0184,P008,External SSD 1TB,Storage,Electronics,South,Online,1,135.86,0.0,135.86,92.38,43.48,Card
+ORD-00595,2025-11-03,CUST-0124,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,3,102.66,0.0,307.98,209.43,98.55,Card
+ORD-00596,2025-02-01,CUST-0182,P010,Webcam HD,Accessories,Electronics,South,Online,2,71.77,0.0,143.54,97.61,45.93,Card
+ORD-00597,2024-11-21,CUST-0184,P010,Webcam HD,Accessories,Electronics,North,Retail,1,75.48,0.15,64.16,51.33,12.83,Bank Transfer
+ORD-00598,2024-05-25,CUST-0289,P010,Webcam HD,Accessories,Electronics,South,Retail,1,78.24,0.05,74.33,53.2,21.13,Bank Transfer
+ORD-00599,2024-06-28,CUST-0252,P005,Office Chair,Furniture,Office,North,Online,1,298.1,0.2,238.48,202.71,35.77,Card
+ORD-00600,2025-09-08,CUST-0113,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,3,113.98,0.0,341.94,232.52,109.42,Card
+ORD-00601,2025-09-20,CUST-0104,P006,Standing Desk,Furniture,Office,South,Retail,1,477.83,0.1,430.05,324.92,105.13,Bank Transfer
+ORD-00602,2024-11-27,CUST-0031,P003,4K Monitor,Monitors,Electronics,North,Online,4,425.65,0.0,1702.6,1157.77,544.83,Bank Transfer
+ORD-00603,2024-05-25,CUST-0057,P012,Monitor Arm,Accessories,Office,East,Online,1,93.57,0.15,79.53,63.63,15.9,PayPal
+ORD-00604,2025-11-09,CUST-0203,P012,Monitor Arm,Accessories,Office,North,Retail,3,95.95,0.1,259.07,195.74,63.33,PayPal
+ORD-00605,2024-05-19,CUST-0081,P006,Standing Desk,Furniture,Office,West,Retail,2,556.04,0.05,1056.48,756.21,300.27,Bank Transfer
+ORD-00606,2024-06-27,CUST-0288,P006,Standing Desk,Furniture,Office,East,Online,4,511.55,0.05,1943.89,1391.42,552.47,Bank Transfer
+ORD-00607,2024-06-28,CUST-0194,P010,Webcam HD,Accessories,Electronics,East,Retail,2,70.68,0.0,141.36,96.12,45.24,Card
+ORD-00608,2024-01-02,CUST-0294,P003,4K Monitor,Monitors,Electronics,West,Online,1,408.3,0.0,408.3,277.64,130.66,Card
+ORD-00609,2024-11-21,CUST-0114,P010,Webcam HD,Accessories,Electronics,North,Retail,1,72.8,0.15,61.88,49.5,12.38,Card
+ORD-00610,2024-03-20,CUST-0122,P006,Standing Desk,Furniture,Office,East,Retail,1,489.81,0.0,489.81,333.07,156.74,Card
+ORD-00611,2024-03-31,CUST-0172,P011,Notebook Pack,Stationery,Office,West,Online,1,18.62,0.15,15.83,12.66,3.17,PayPal
+ORD-00612,2024-09-12,CUST-0035,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,112.72,0.0,112.72,76.65,36.07,Card
+ORD-00613,2024-01-02,CUST-0025,P012,Monitor Arm,Accessories,Office,West,Retail,1,88.41,0.0,88.41,60.12,28.29,Bank Transfer
+ORD-00614,2024-06-19,CUST-0212,P007,Desk Lamp,Furniture,Office,West,Retail,1,69.72,0.1,62.75,47.41,15.34,PayPal
+ORD-00615,2025-01-19,CUST-0052,P009,USB-C Dock,Accessories,Electronics,West,Online,4,168.42,0.05,640.0,458.1,181.9,Card
+ORD-00616,2024-03-16,CUST-0018,P008,External SSD 1TB,Storage,Electronics,East,Online,2,127.68,0.05,242.59,173.64,68.95,PayPal
+ORD-00617,2024-04-17,CUST-0038,P005,Office Chair,Furniture,Office,East,Online,1,273.89,0.0,273.89,186.25,87.64,PayPal
+ORD-00618,2024-03-17,CUST-0281,P003,4K Monitor,Monitors,Electronics,North,Retail,2,389.91,0.0,779.82,530.28,249.54,Bank Transfer
+ORD-00619,2025-05-09,CUST-0016,P010,Webcam HD,Accessories,Electronics,West,Online,1,77.64,0.05,73.76,52.8,20.96,Bank Transfer
+ORD-00620,2024-06-09,CUST-0028,P007,Desk Lamp,Furniture,Office,North,Retail,1,67.83,0.0,67.83,46.12,21.71,Card
+ORD-00621,2025-02-23,CUST-0284,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,106.5,0.0,106.5,72.42,34.08,PayPal
+ORD-00622,2024-04-08,CUST-0026,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,3,114.94,0.0,344.82,234.48,110.34,Card
+ORD-00623,2025-01-04,CUST-0002,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1318.16,0.15,1120.44,896.35,224.09,PayPal
+ORD-00624,2025-10-02,CUST-0246,P011,Notebook Pack,Stationery,Office,South,Online,2,19.42,0.0,38.84,26.41,12.43,Card
+ORD-00625,2024-06-23,CUST-0150,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,107.07,0.0,107.07,72.81,34.26,Card
+ORD-00626,2025-02-11,CUST-0242,P005,Office Chair,Furniture,Office,West,Retail,3,255.89,0.0,767.67,522.02,245.65,Card
+ORD-00627,2025-07-11,CUST-0199,P011,Notebook Pack,Stationery,Office,South,Retail,1,18.61,0.1,16.75,12.65,4.1,PayPal
+ORD-00628,2024-07-10,CUST-0229,P006,Standing Desk,Furniture,Office,North,Retail,2,514.08,0.0,1028.16,699.15,329.01,PayPal
+ORD-00629,2024-09-26,CUST-0116,P008,External SSD 1TB,Storage,Electronics,East,Online,3,129.5,0.05,369.07,264.18,104.89,Card
+ORD-00630,2025-11-14,CUST-0050,P012,Monitor Arm,Accessories,Office,North,Retail,2,91.83,0.0,183.66,124.89,58.77,Bank Transfer
+ORD-00631,2025-08-26,CUST-0117,P007,Desk Lamp,Furniture,Office,North,Retail,3,63.42,0.0,190.26,129.38,60.88,Bank Transfer
+ORD-00632,2025-07-02,CUST-0244,P007,Desk Lamp,Furniture,Office,South,Retail,3,68.0,0.05,193.8,138.72,55.08,PayPal
+ORD-00633,2025-02-08,CUST-0018,P002,Wireless Headphones,Accessories,Electronics,South,Online,3,147.33,0.0,441.99,300.55,141.44,PayPal
+ORD-00634,2024-06-20,CUST-0109,P003,4K Monitor,Monitors,Electronics,South,Online,1,392.73,0.2,314.18,267.06,47.12,Card
+ORD-00635,2024-03-21,CUST-0223,P007,Desk Lamp,Furniture,Office,South,Online,4,60.72,0.1,218.59,165.16,53.43,Bank Transfer
+ORD-00636,2024-11-23,CUST-0035,P005,Office Chair,Furniture,Office,North,Retail,1,277.22,0.0,277.22,188.51,88.71,Bank Transfer
+ORD-00637,2025-07-19,CUST-0167,P007,Desk Lamp,Furniture,Office,East,Retail,2,67.14,0.0,134.28,91.31,42.97,Card
+ORD-00638,2025-09-30,CUST-0268,P012,Monitor Arm,Accessories,Office,West,Online,2,92.77,0.05,176.26,126.17,50.09,PayPal
+ORD-00639,2024-05-31,CUST-0291,P003,4K Monitor,Monitors,Electronics,North,Online,4,390.8,0.0,1563.2,1062.98,500.22,Bank Transfer
+ORD-00640,2024-10-19,CUST-0275,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,152.79,0.1,275.02,207.79,67.23,PayPal
+ORD-00641,2025-11-01,CUST-0249,P007,Desk Lamp,Furniture,Office,West,Online,1,65.27,0.1,58.74,44.38,14.36,Card
+ORD-00642,2025-02-16,CUST-0074,P005,Office Chair,Furniture,Office,West,Online,3,296.12,0.0,888.36,604.08,284.28,PayPal
+ORD-00643,2025-12-08,CUST-0122,P006,Standing Desk,Furniture,Office,North,Retail,1,510.7,0.05,485.16,347.28,137.88,PayPal
+ORD-00644,2024-01-21,CUST-0173,P006,Standing Desk,Furniture,Office,East,Retail,2,462.69,0.1,832.84,629.26,203.58,PayPal
+ORD-00645,2025-12-13,CUST-0051,P008,External SSD 1TB,Storage,Electronics,South,Online,1,121.04,0.0,121.04,82.31,38.73,PayPal
+ORD-00646,2025-03-29,CUST-0165,P012,Monitor Arm,Accessories,Office,East,Retail,1,103.3,0.0,103.3,70.24,33.06,Bank Transfer
+ORD-00647,2024-04-01,CUST-0097,P011,Notebook Pack,Stationery,Office,West,Online,1,19.17,0.05,18.21,13.04,5.17,PayPal
+ORD-00648,2025-05-11,CUST-0265,P012,Monitor Arm,Accessories,Office,East,Online,3,96.91,0.0,290.73,197.7,93.03,Bank Transfer
+ORD-00649,2024-03-08,CUST-0160,P003,4K Monitor,Monitors,Electronics,West,Online,4,444.05,0.0,1776.2,1207.82,568.38,Bank Transfer
+ORD-00650,2024-01-30,CUST-0089,P010,Webcam HD,Accessories,Electronics,South,Online,4,80.27,0.2,256.86,218.33,38.53,Card
+ORD-00651,2024-02-03,CUST-0234,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,107.74,0.05,102.35,73.26,29.09,Bank Transfer
+ORD-00652,2024-10-07,CUST-0189,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,3,107.37,0.1,289.9,219.03,70.87,Bank Transfer
+ORD-00653,2025-11-28,CUST-0016,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,153.87,0.15,130.79,104.63,26.16,PayPal
+ORD-00654,2025-04-01,CUST-0091,P010,Webcam HD,Accessories,Electronics,West,Retail,4,68.71,0.0,274.84,186.89,87.95,PayPal
+ORD-00655,2024-09-21,CUST-0047,P003,4K Monitor,Monitors,Electronics,East,Online,2,390.92,0.0,781.84,531.65,250.19,PayPal
+ORD-00656,2024-06-15,CUST-0293,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1368.9,0.0,1368.9,930.85,438.05,Bank Transfer
+ORD-00657,2025-11-24,CUST-0106,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,101.92,0.1,91.73,69.31,22.42,Bank Transfer
+ORD-00658,2025-11-29,CUST-0005,P001,Laptop Pro 14,Computers,Electronics,West,Online,3,1276.59,0.0,3829.77,2604.24,1225.53,Bank Transfer
+ORD-00659,2025-09-07,CUST-0005,P003,4K Monitor,Monitors,Electronics,South,Retail,1,442.24,0.05,420.13,300.72,119.41,Bank Transfer
+ORD-00660,2025-12-30,CUST-0141,P005,Office Chair,Furniture,Office,West,Retail,2,305.36,0.0,610.72,415.29,195.43,PayPal
+ORD-00661,2024-09-15,CUST-0112,P008,External SSD 1TB,Storage,Electronics,West,Retail,3,121.69,0.0,365.07,248.25,116.82,Bank Transfer
+ORD-00662,2025-09-30,CUST-0204,P009,USB-C Dock,Accessories,Electronics,North,Online,2,166.87,0.0,333.74,226.94,106.8,Bank Transfer
+ORD-00663,2025-01-18,CUST-0288,P011,Notebook Pack,Stationery,Office,East,Retail,2,19.0,0.0,38.0,25.84,12.16,Bank Transfer
+ORD-00664,2025-05-08,CUST-0033,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,145.18,0.0,290.36,197.44,92.92,Bank Transfer
+ORD-00665,2024-10-10,CUST-0134,P006,Standing Desk,Furniture,Office,East,Online,1,545.85,0.0,545.85,371.18,174.67,Card
+ORD-00666,2024-09-03,CUST-0030,P009,USB-C Dock,Accessories,Electronics,West,Retail,2,183.69,0.0,367.38,249.82,117.56,Bank Transfer
+ORD-00667,2024-01-27,CUST-0255,P003,4K Monitor,Monitors,Electronics,East,Retail,4,383.15,0.0,1532.6,1042.17,490.43,PayPal
+ORD-00668,2025-02-01,CUST-0019,P007,Desk Lamp,Furniture,Office,South,Retail,1,61.25,0.0,61.25,41.65,19.6,Bank Transfer
+ORD-00669,2024-08-15,CUST-0274,P012,Monitor Arm,Accessories,Office,West,Retail,3,86.6,0.2,207.84,176.66,31.18,Bank Transfer
+ORD-00670,2024-06-23,CUST-0286,P005,Office Chair,Furniture,Office,South,Retail,4,265.39,0.2,849.25,721.86,127.39,Card
+ORD-00671,2024-05-11,CUST-0133,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,132.07,0.0,132.07,89.81,42.26,Bank Transfer
+ORD-00672,2024-08-15,CUST-0182,P002,Wireless Headphones,Accessories,Electronics,South,Retail,3,150.57,0.0,451.71,307.16,144.55,PayPal
+ORD-00673,2025-01-15,CUST-0134,P006,Standing Desk,Furniture,Office,East,Retail,2,523.59,0.05,994.82,712.08,282.74,Card
+ORD-00674,2024-02-24,CUST-0299,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,118.02,0.0,118.02,80.25,37.77,Card
+ORD-00675,2024-05-02,CUST-0196,P009,USB-C Dock,Accessories,Electronics,East,Retail,2,180.97,0.05,343.84,246.12,97.72,Card
+ORD-00676,2024-05-20,CUST-0103,P003,4K Monitor,Monitors,Electronics,East,Retail,4,444.54,0.1,1600.34,1209.15,391.19,Bank Transfer
+ORD-00677,2024-05-26,CUST-0162,P008,External SSD 1TB,Storage,Electronics,South,Online,4,117.37,0.0,469.48,319.25,150.23,PayPal
+ORD-00678,2025-10-08,CUST-0091,P006,Standing Desk,Furniture,Office,East,Online,4,508.13,0.05,1930.89,1382.11,548.78,Card
+ORD-00679,2024-10-07,CUST-0108,P008,External SSD 1TB,Storage,Electronics,South,Online,4,131.73,0.1,474.23,358.31,115.92,PayPal
+ORD-00680,2024-05-12,CUST-0223,P002,Wireless Headphones,Accessories,Electronics,West,Retail,3,134.38,0.0,403.14,274.14,129.0,PayPal
+ORD-00681,2025-01-27,CUST-0003,P008,External SSD 1TB,Storage,Electronics,North,Online,2,119.0,0.0,238.0,161.84,76.16,Bank Transfer
+ORD-00682,2024-01-15,CUST-0165,P006,Standing Desk,Furniture,Office,South,Online,1,478.35,0.1,430.52,325.28,105.24,Bank Transfer
+ORD-00683,2025-10-03,CUST-0128,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1128.03,0.0,2256.06,1534.12,721.94,PayPal
+ORD-00684,2024-04-15,CUST-0197,P003,4K Monitor,Monitors,Electronics,East,Online,1,394.7,0.05,374.96,268.4,106.56,Card
+ORD-00685,2024-11-01,CUST-0149,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1246.96,0.2,1995.14,1695.87,299.27,PayPal
+ORD-00686,2024-05-17,CUST-0176,P011,Notebook Pack,Stationery,Office,West,Retail,1,18.53,0.0,18.53,12.6,5.93,Card
+ORD-00687,2025-02-17,CUST-0010,P003,4K Monitor,Monitors,Electronics,South,Online,2,386.24,0.1,695.23,525.29,169.94,Bank Transfer
+ORD-00688,2024-08-04,CUST-0012,P003,4K Monitor,Monitors,Electronics,South,Online,1,450.63,0.0,450.63,306.43,144.2,PayPal
+ORD-00689,2025-10-28,CUST-0020,P012,Monitor Arm,Accessories,Office,West,Retail,2,100.9,0.1,181.62,137.22,44.4,Bank Transfer
+ORD-00690,2024-02-19,CUST-0025,P010,Webcam HD,Accessories,Electronics,North,Online,2,74.39,0.0,148.78,101.17,47.61,Card
+ORD-00691,2024-04-28,CUST-0214,P012,Monitor Arm,Accessories,Office,West,Retail,2,88.03,0.2,140.85,119.72,21.13,Card
+ORD-00692,2024-09-15,CUST-0243,P009,USB-C Dock,Accessories,Electronics,South,Online,1,195.94,0.1,176.35,133.24,43.11,Bank Transfer
+ORD-00693,2025-10-07,CUST-0005,P011,Notebook Pack,Stationery,Office,East,Retail,1,17.12,0.0,17.12,11.64,5.48,Bank Transfer
+ORD-00694,2025-11-09,CUST-0267,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,137.84,0.15,117.16,93.73,23.43,PayPal
+ORD-00695,2025-06-07,CUST-0061,P002,Wireless Headphones,Accessories,Electronics,East,Online,2,144.87,0.1,260.77,197.02,63.75,Card
+ORD-00696,2024-07-22,CUST-0103,P008,External SSD 1TB,Storage,Electronics,East,Online,1,118.17,0.05,112.26,80.36,31.9,PayPal
+ORD-00697,2025-02-23,CUST-0152,P012,Monitor Arm,Accessories,Office,South,Online,1,95.35,0.0,95.35,64.84,30.51,Bank Transfer
+ORD-00698,2024-07-31,CUST-0247,P008,External SSD 1TB,Storage,Electronics,East,Online,1,137.21,0.0,137.21,93.3,43.91,Card
+ORD-00699,2025-11-18,CUST-0046,P001,Laptop Pro 14,Computers,Electronics,North,Retail,4,1135.42,0.1,4087.51,3088.34,999.17,Card
+ORD-00700,2025-06-07,CUST-0039,P002,Wireless Headphones,Accessories,Electronics,North,Retail,1,149.61,0.1,134.65,101.73,32.92,Bank Transfer
+ORD-00701,2025-04-12,CUST-0152,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,99.27,0.0,99.27,67.5,31.77,Card
+ORD-00702,2024-06-27,CUST-0021,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,141.74,0.05,269.31,192.77,76.54,Bank Transfer
+ORD-00703,2025-03-12,CUST-0060,P006,Standing Desk,Furniture,Office,North,Online,4,494.67,0.0,1978.68,1345.5,633.18,Card
+ORD-00704,2025-11-10,CUST-0088,P003,4K Monitor,Monitors,Electronics,East,Retail,4,443.84,0.15,1509.06,1207.24,301.82,PayPal
+ORD-00705,2024-10-01,CUST-0048,P010,Webcam HD,Accessories,Electronics,East,Retail,1,68.98,0.0,68.98,46.91,22.07,Card
+ORD-00706,2025-02-14,CUST-0205,P002,Wireless Headphones,Accessories,Electronics,West,Retail,3,132.49,0.1,357.72,270.28,87.44,PayPal
+ORD-00707,2025-05-04,CUST-0216,P012,Monitor Arm,Accessories,Office,South,Online,1,87.06,0.0,87.06,59.2,27.86,Card
+ORD-00708,2024-03-01,CUST-0082,P012,Monitor Arm,Accessories,Office,North,Retail,2,100.37,0.15,170.63,136.5,34.13,Bank Transfer
+ORD-00709,2025-08-05,CUST-0225,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,129.18,0.2,103.34,87.84,15.5,PayPal
+ORD-00710,2024-01-30,CUST-0067,P010,Webcam HD,Accessories,Electronics,West,Retail,1,76.73,0.0,76.73,52.18,24.55,Card
+ORD-00711,2025-03-27,CUST-0024,P007,Desk Lamp,Furniture,Office,North,Retail,3,70.98,0.0,212.94,144.8,68.14,Bank Transfer
+ORD-00712,2024-01-13,CUST-0269,P006,Standing Desk,Furniture,Office,South,Retail,4,557.79,0.0,2231.16,1517.19,713.97,Bank Transfer
+ORD-00713,2025-12-05,CUST-0049,P009,USB-C Dock,Accessories,Electronics,West,Online,2,179.08,0.0,358.16,243.55,114.61,PayPal
+ORD-00714,2025-11-10,CUST-0198,P006,Standing Desk,Furniture,Office,South,Online,1,518.41,0.05,492.49,352.52,139.97,Card
+ORD-00715,2024-06-09,CUST-0259,P011,Notebook Pack,Stationery,Office,West,Retail,4,18.42,0.05,70.0,50.1,19.9,Card
+ORD-00716,2025-05-18,CUST-0165,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,140.31,0.0,140.31,95.41,44.9,PayPal
+ORD-00717,2025-06-03,CUST-0115,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1218.04,0.0,1218.04,828.27,389.77,Card
+ORD-00718,2025-04-15,CUST-0228,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,141.77,0.05,134.68,96.4,38.28,PayPal
+ORD-00719,2024-11-19,CUST-0061,P008,External SSD 1TB,Storage,Electronics,West,Online,1,118.52,0.15,100.74,80.59,20.15,Card
+ORD-00720,2025-02-26,CUST-0019,P007,Desk Lamp,Furniture,Office,North,Online,2,64.95,0.1,116.91,88.33,28.58,Bank Transfer
+ORD-00721,2025-10-14,CUST-0156,P010,Webcam HD,Accessories,Electronics,South,Retail,1,71.79,0.05,68.2,48.82,19.38,PayPal
+ORD-00722,2024-02-25,CUST-0115,P006,Standing Desk,Furniture,Office,West,Retail,3,545.34,0.15,1390.62,1112.49,278.13,Bank Transfer
+ORD-00723,2025-09-06,CUST-0243,P010,Webcam HD,Accessories,Electronics,East,Retail,1,77.04,0.05,73.19,52.39,20.8,Card
+ORD-00724,2025-11-05,CUST-0114,P002,Wireless Headphones,Accessories,Electronics,North,Retail,3,154.92,0.05,441.52,316.04,125.48,PayPal
+ORD-00725,2024-10-25,CUST-0281,P011,Notebook Pack,Stationery,Office,East,Online,3,18.56,0.1,50.11,37.86,12.25,Card
+ORD-00726,2025-05-19,CUST-0072,P003,4K Monitor,Monitors,Electronics,West,Online,1,441.27,0.0,441.27,300.06,141.21,PayPal
+ORD-00727,2024-07-19,CUST-0097,P010,Webcam HD,Accessories,Electronics,North,Retail,1,68.15,0.15,57.93,46.34,11.59,Card
+ORD-00728,2024-07-14,CUST-0174,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,129.63,0.0,129.63,88.15,41.48,Card
+ORD-00729,2025-11-19,CUST-0064,P011,Notebook Pack,Stationery,Office,West,Retail,2,16.97,0.1,30.55,23.08,7.47,Bank Transfer
+ORD-00730,2025-05-31,CUST-0069,P010,Webcam HD,Accessories,Electronics,West,Online,1,72.64,0.0,72.64,49.4,23.24,Bank Transfer
+ORD-00731,2024-02-19,CUST-0284,P012,Monitor Arm,Accessories,Office,West,Retail,3,96.72,0.05,275.65,197.31,78.34,Bank Transfer
+ORD-00732,2025-12-09,CUST-0297,P003,4K Monitor,Monitors,Electronics,South,Online,1,425.46,0.0,425.46,289.31,136.15,Card
+ORD-00733,2025-11-04,CUST-0165,P007,Desk Lamp,Furniture,Office,West,Retail,2,66.0,0.0,132.0,89.76,42.24,Bank Transfer
+ORD-00734,2024-09-11,CUST-0141,P012,Monitor Arm,Accessories,Office,West,Retail,1,88.54,0.1,79.69,60.21,19.48,PayPal
+ORD-00735,2024-05-16,CUST-0071,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,132.79,0.05,126.15,90.3,35.85,Bank Transfer
+ORD-00736,2024-11-17,CUST-0284,P009,USB-C Dock,Accessories,Electronics,South,Online,2,197.71,0.1,355.88,268.89,86.99,Card
+ORD-00737,2024-10-24,CUST-0177,P010,Webcam HD,Accessories,Electronics,South,Online,1,79.5,0.0,79.5,54.06,25.44,Bank Transfer
+ORD-00738,2025-12-11,CUST-0166,P009,USB-C Dock,Accessories,Electronics,North,Retail,1,188.72,0.0,188.72,128.33,60.39,Bank Transfer
+ORD-00739,2025-08-19,CUST-0293,P008,External SSD 1TB,Storage,Electronics,West,Retail,3,117.2,0.05,334.02,239.09,94.93,PayPal
+ORD-00740,2025-06-19,CUST-0055,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1259.67,0.0,1259.67,856.58,403.09,Card
+ORD-00741,2025-11-17,CUST-0029,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1315.25,0.0,2630.5,1788.74,841.76,Card
+ORD-00742,2025-11-30,CUST-0129,P005,Office Chair,Furniture,Office,South,Online,3,252.62,0.1,682.07,515.34,166.73,Bank Transfer
+ORD-00743,2024-07-27,CUST-0278,P005,Office Chair,Furniture,Office,North,Retail,1,272.6,0.2,218.08,185.37,32.71,PayPal
+ORD-00744,2025-09-22,CUST-0288,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,154.92,0.1,139.43,105.35,34.08,Card
+ORD-00745,2025-12-13,CUST-0148,P009,USB-C Dock,Accessories,Electronics,North,Retail,3,197.87,0.15,504.57,403.65,100.92,PayPal
+ORD-00746,2025-12-02,CUST-0161,P007,Desk Lamp,Furniture,Office,North,Online,2,66.86,0.0,133.72,90.93,42.79,Bank Transfer
+ORD-00747,2024-07-26,CUST-0227,P005,Office Chair,Furniture,Office,South,Retail,1,285.21,0.15,242.43,193.94,48.49,Bank Transfer
+ORD-00748,2025-09-09,CUST-0101,P009,USB-C Dock,Accessories,Electronics,South,Retail,2,162.07,0.1,291.73,220.42,71.31,PayPal
+ORD-00749,2025-11-30,CUST-0039,P003,4K Monitor,Monitors,Electronics,South,Online,4,430.05,0.0,1720.2,1169.74,550.46,Bank Transfer
+ORD-00750,2024-05-02,CUST-0194,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,175.96,0.0,351.92,239.31,112.61,PayPal
+ORD-00751,2024-09-27,CUST-0067,P009,USB-C Dock,Accessories,Electronics,South,Retail,1,179.32,0.05,170.35,121.94,48.41,Card
+ORD-00752,2025-04-22,CUST-0080,P006,Standing Desk,Furniture,Office,North,Online,3,469.62,0.1,1267.97,958.02,309.95,PayPal
+ORD-00753,2024-02-22,CUST-0155,P010,Webcam HD,Accessories,Electronics,West,Retail,1,75.91,0.05,72.11,51.62,20.49,Card
+ORD-00754,2024-11-21,CUST-0270,P012,Monitor Arm,Accessories,Office,South,Online,3,96.89,0.05,276.14,197.66,78.48,Bank Transfer
+ORD-00755,2025-06-01,CUST-0082,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,154.43,0.0,154.43,105.01,49.42,Card
+ORD-00756,2024-08-14,CUST-0110,P006,Standing Desk,Furniture,Office,East,Retail,1,474.2,0.05,450.49,322.46,128.03,PayPal
+ORD-00757,2024-08-11,CUST-0272,P005,Office Chair,Furniture,Office,West,Online,2,306.99,0.1,552.58,417.51,135.07,Card
+ORD-00758,2024-12-20,CUST-0229,P011,Notebook Pack,Stationery,Office,South,Online,2,18.06,0.1,32.51,24.56,7.95,Card
+ORD-00759,2024-11-24,CUST-0196,P011,Notebook Pack,Stationery,Office,North,Retail,2,17.38,0.0,34.76,23.64,11.12,PayPal
+ORD-00760,2024-10-16,CUST-0013,P009,USB-C Dock,Accessories,Electronics,East,Retail,4,175.37,0.0,701.48,477.01,224.47,PayPal
+ORD-00761,2024-10-30,CUST-0099,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1308.92,0.05,1243.47,890.07,353.4,Card
+ORD-00762,2025-07-04,CUST-0274,P003,4K Monitor,Monitors,Electronics,North,Online,1,403.15,0.1,362.83,274.14,88.69,Card
+ORD-00763,2025-10-06,CUST-0110,P011,Notebook Pack,Stationery,Office,West,Online,1,18.49,0.0,18.49,12.57,5.92,Card
+ORD-00764,2025-12-20,CUST-0223,P009,USB-C Dock,Accessories,Electronics,North,Online,4,176.76,0.0,707.04,480.79,226.25,Card
+ORD-00765,2024-12-05,CUST-0020,P008,External SSD 1TB,Storage,Electronics,North,Online,3,131.0,0.1,353.7,267.24,86.46,Card
+ORD-00766,2024-09-14,CUST-0286,P003,4K Monitor,Monitors,Electronics,North,Online,1,393.5,0.05,373.82,267.58,106.24,PayPal
+ORD-00767,2025-02-01,CUST-0231,P007,Desk Lamp,Furniture,Office,West,Retail,2,60.65,0.2,97.04,82.48,14.56,PayPal
+ORD-00768,2025-02-02,CUST-0061,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1332.92,0.0,1332.92,906.39,426.53,Bank Transfer
+ORD-00769,2024-02-16,CUST-0038,P010,Webcam HD,Accessories,Electronics,East,Online,2,81.44,0.1,146.59,110.76,35.83,PayPal
+ORD-00770,2024-11-04,CUST-0045,P011,Notebook Pack,Stationery,Office,East,Retail,1,17.13,0.15,14.56,11.65,2.91,PayPal
+ORD-00771,2025-11-07,CUST-0016,P007,Desk Lamp,Furniture,Office,West,Online,3,63.4,0.0,190.2,129.34,60.86,Bank Transfer
+ORD-00772,2024-05-19,CUST-0201,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,108.57,0.05,206.28,147.66,58.62,PayPal
+ORD-00773,2025-10-25,CUST-0192,P011,Notebook Pack,Stationery,Office,North,Online,2,18.47,0.1,33.25,25.12,8.13,Card
+ORD-00774,2024-01-06,CUST-0294,P001,Laptop Pro 14,Computers,Electronics,West,Online,3,1249.12,0.1,3372.62,2548.2,824.42,PayPal
+ORD-00775,2024-12-18,CUST-0109,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,99.15,0.1,89.24,67.42,21.82,Card
+ORD-00776,2024-08-14,CUST-0130,P003,4K Monitor,Monitors,Electronics,South,Online,1,429.26,0.0,429.26,291.9,137.36,Card
+ORD-00777,2025-08-03,CUST-0028,P011,Notebook Pack,Stationery,Office,West,Online,2,19.52,0.0,39.04,26.55,12.49,PayPal
+ORD-00778,2024-03-09,CUST-0129,P011,Notebook Pack,Stationery,Office,North,Online,1,16.45,0.2,13.16,11.19,1.97,Bank Transfer
+ORD-00779,2025-05-13,CUST-0170,P010,Webcam HD,Accessories,Electronics,East,Online,2,68.04,0.0,136.08,92.53,43.55,Bank Transfer
+ORD-00780,2024-08-28,CUST-0052,P011,Notebook Pack,Stationery,Office,East,Online,4,19.46,0.0,77.84,52.93,24.91,Card
+ORD-00781,2025-05-12,CUST-0231,P006,Standing Desk,Furniture,Office,East,Retail,1,536.46,0.0,536.46,364.79,171.67,Bank Transfer
+ORD-00782,2024-06-05,CUST-0290,P010,Webcam HD,Accessories,Electronics,East,Retail,1,71.52,0.1,64.37,48.63,15.74,PayPal
+ORD-00783,2024-01-05,CUST-0161,P003,4K Monitor,Monitors,Electronics,South,Online,1,380.82,0.05,361.78,258.96,102.82,Bank Transfer
+ORD-00784,2025-10-18,CUST-0224,P012,Monitor Arm,Accessories,Office,East,Retail,2,96.18,0.05,182.74,130.8,51.94,Card
+ORD-00785,2024-12-05,CUST-0246,P011,Notebook Pack,Stationery,Office,West,Retail,2,17.68,0.05,33.59,24.04,9.55,PayPal
+ORD-00786,2025-05-13,CUST-0283,P005,Office Chair,Furniture,Office,North,Online,4,265.26,0.0,1061.04,721.51,339.53,Bank Transfer
+ORD-00787,2024-03-24,CUST-0144,P010,Webcam HD,Accessories,Electronics,South,Online,1,75.9,0.2,60.72,51.61,9.11,PayPal
+ORD-00788,2025-10-03,CUST-0040,P012,Monitor Arm,Accessories,Office,North,Online,4,101.23,0.0,404.92,275.35,129.57,Bank Transfer
+ORD-00789,2024-02-01,CUST-0298,P011,Notebook Pack,Stationery,Office,West,Online,3,19.73,0.1,53.27,40.25,13.02,Card
+ORD-00790,2024-09-23,CUST-0279,P009,USB-C Dock,Accessories,Electronics,West,Online,1,188.11,0.0,188.11,127.91,60.2,PayPal
+ORD-00791,2024-08-16,CUST-0149,P007,Desk Lamp,Furniture,Office,South,Retail,2,64.53,0.05,122.61,87.76,34.85,Bank Transfer
+ORD-00792,2024-04-02,CUST-0204,P009,USB-C Dock,Accessories,Electronics,East,Online,1,196.82,0.15,167.3,133.84,33.46,Bank Transfer
+ORD-00793,2025-09-20,CUST-0085,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,2,102.33,0.0,204.66,139.17,65.49,Card
+ORD-00794,2025-08-02,CUST-0290,P003,4K Monitor,Monitors,Electronics,South,Retail,2,385.46,0.0,770.92,524.23,246.69,PayPal
+ORD-00795,2024-08-12,CUST-0250,P001,Laptop Pro 14,Computers,Electronics,South,Online,3,1255.85,0.05,3579.17,2561.93,1017.24,PayPal
+ORD-00796,2024-08-27,CUST-0022,P006,Standing Desk,Furniture,Office,South,Retail,2,500.21,0.0,1000.42,680.29,320.13,PayPal
+ORD-00797,2025-04-10,CUST-0024,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,130.2,0.0,130.2,88.54,41.66,Card
+ORD-00798,2025-06-17,CUST-0141,P012,Monitor Arm,Accessories,Office,East,Online,1,89.8,0.05,85.31,61.06,24.25,PayPal
+ORD-00799,2025-01-22,CUST-0188,P011,Notebook Pack,Stationery,Office,North,Retail,1,16.8,0.05,15.96,11.42,4.54,PayPal
+ORD-00800,2025-06-12,CUST-0208,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,103.75,0.1,93.38,70.55,22.83,PayPal
+ORD-00801,2025-09-10,CUST-0004,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,122.79,0.05,116.65,83.5,33.15,Card
+ORD-00802,2024-03-19,CUST-0264,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,105.39,0.1,189.7,143.33,46.37,Card
+ORD-00803,2024-06-10,CUST-0186,P003,4K Monitor,Monitors,Electronics,North,Online,4,445.74,0.05,1693.81,1212.41,481.4,PayPal
+ORD-00804,2024-04-26,CUST-0247,P006,Standing Desk,Furniture,Office,West,Retail,1,539.99,0.2,431.99,367.19,64.8,Card
+ORD-00805,2024-06-14,CUST-0211,P010,Webcam HD,Accessories,Electronics,North,Online,1,71.38,0.0,71.38,48.54,22.84,Card
+ORD-00806,2025-08-10,CUST-0083,P003,4K Monitor,Monitors,Electronics,South,Online,2,441.71,0.05,839.25,600.73,238.52,Bank Transfer
+ORD-00807,2024-02-27,CUST-0086,P003,4K Monitor,Monitors,Electronics,East,Online,2,395.21,0.05,750.9,537.49,213.41,Bank Transfer
+ORD-00808,2025-09-05,CUST-0289,P007,Desk Lamp,Furniture,Office,North,Retail,2,60.6,0.1,109.08,82.42,26.66,Card
+ORD-00809,2025-04-04,CUST-0242,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,3,108.93,0.0,326.79,222.22,104.57,Card
+ORD-00810,2025-09-07,CUST-0074,P007,Desk Lamp,Furniture,Office,South,Retail,1,65.75,0.1,59.18,44.71,14.47,Card
+ORD-00811,2025-12-03,CUST-0176,P012,Monitor Arm,Accessories,Office,West,Online,1,94.31,0.0,94.31,64.13,30.18,Card
+ORD-00812,2025-01-29,CUST-0068,P007,Desk Lamp,Furniture,Office,North,Online,2,64.97,0.05,123.44,88.36,35.08,Card
+ORD-00813,2025-05-31,CUST-0215,P009,USB-C Dock,Accessories,Electronics,South,Online,3,178.26,0.0,534.78,363.65,171.13,Card
+ORD-00814,2025-09-21,CUST-0020,P008,External SSD 1TB,Storage,Electronics,North,Online,1,131.89,0.0,131.89,89.69,42.2,PayPal
+ORD-00815,2024-05-13,CUST-0277,P011,Notebook Pack,Stationery,Office,North,Retail,1,16.87,0.0,16.87,11.47,5.4,Bank Transfer
+ORD-00816,2025-01-14,CUST-0023,P007,Desk Lamp,Furniture,Office,West,Online,2,66.01,0.1,118.82,89.77,29.05,PayPal
+ORD-00817,2024-12-24,CUST-0295,P007,Desk Lamp,Furniture,Office,North,Retail,2,66.85,0.0,133.7,90.92,42.78,Card
+ORD-00818,2025-05-03,CUST-0120,P005,Office Chair,Furniture,Office,North,Retail,4,281.85,0.15,958.29,766.63,191.66,Bank Transfer
+ORD-00819,2025-02-22,CUST-0132,P009,USB-C Dock,Accessories,Electronics,South,Online,1,182.08,0.0,182.08,123.81,58.27,Bank Transfer
+ORD-00820,2024-01-08,CUST-0296,P012,Monitor Arm,Accessories,Office,North,Online,1,101.79,0.0,101.79,69.22,32.57,PayPal
+ORD-00821,2024-07-29,CUST-0162,P011,Notebook Pack,Stationery,Office,West,Retail,1,16.81,0.15,14.29,11.43,2.86,Card
+ORD-00822,2025-03-12,CUST-0300,P003,4K Monitor,Monitors,Electronics,East,Retail,3,394.97,0.0,1184.91,805.74,379.17,Bank Transfer
+ORD-00823,2025-08-01,CUST-0188,P007,Desk Lamp,Furniture,Office,East,Retail,2,69.16,0.1,124.49,94.06,30.43,Card
+ORD-00824,2025-07-19,CUST-0286,P007,Desk Lamp,Furniture,Office,West,Online,2,66.5,0.0,133.0,90.44,42.56,PayPal
+ORD-00825,2025-07-22,CUST-0248,P009,USB-C Dock,Accessories,Electronics,East,Retail,3,166.24,0.15,423.91,339.13,84.78,Bank Transfer
+ORD-00826,2025-12-23,CUST-0204,P006,Standing Desk,Furniture,Office,South,Online,1,557.65,0.05,529.77,379.2,150.57,Bank Transfer
+ORD-00827,2025-04-02,CUST-0083,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,4,101.69,0.05,386.42,276.6,109.82,Bank Transfer
+ORD-00828,2024-12-12,CUST-0282,P007,Desk Lamp,Furniture,Office,North,Online,3,60.66,0.05,172.88,123.75,49.13,PayPal
+ORD-00829,2024-01-06,CUST-0047,P011,Notebook Pack,Stationery,Office,South,Retail,3,18.56,0.2,44.54,37.86,6.68,Bank Transfer
+ORD-00830,2024-03-31,CUST-0033,P007,Desk Lamp,Furniture,Office,East,Online,1,59.71,0.1,53.74,40.6,13.14,PayPal
+ORD-00831,2025-09-15,CUST-0020,P002,Wireless Headphones,Accessories,Electronics,West,Retail,2,156.32,0.1,281.38,212.6,68.78,Bank Transfer
+ORD-00832,2025-06-17,CUST-0147,P011,Notebook Pack,Stationery,Office,North,Online,3,19.7,0.0,59.1,40.19,18.91,Bank Transfer
+ORD-00833,2025-03-25,CUST-0006,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,132.98,0.15,226.07,180.85,45.22,Card
+ORD-00834,2025-09-05,CUST-0262,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1314.9,0.0,1314.9,894.13,420.77,Bank Transfer
+ORD-00835,2025-01-03,CUST-0123,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1330.41,0.05,1263.89,904.68,359.21,Card
+ORD-00836,2025-02-13,CUST-0181,P005,Office Chair,Furniture,Office,West,Retail,2,266.24,0.0,532.48,362.09,170.39,Bank Transfer
+ORD-00837,2025-06-14,CUST-0008,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,3,106.37,0.1,287.2,216.99,70.21,Bank Transfer
+ORD-00838,2025-07-26,CUST-0299,P005,Office Chair,Furniture,Office,East,Retail,1,258.32,0.0,258.32,175.66,82.66,PayPal
+ORD-00839,2025-09-12,CUST-0100,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,104.28,0.0,104.28,70.91,33.37,Bank Transfer
+ORD-00840,2024-09-24,CUST-0090,P001,Laptop Pro 14,Computers,Electronics,West,Online,2,1309.92,0.15,2226.86,1781.49,445.37,Bank Transfer
+ORD-00841,2025-05-30,CUST-0151,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,149.38,0.1,134.44,101.58,32.86,Bank Transfer
+ORD-00842,2025-07-04,CUST-0295,P005,Office Chair,Furniture,Office,East,Retail,3,297.15,0.1,802.3,606.19,196.11,PayPal
+ORD-00843,2025-05-10,CUST-0125,P010,Webcam HD,Accessories,Electronics,East,Retail,3,77.01,0.2,184.82,157.1,27.72,Bank Transfer
+ORD-00844,2025-08-23,CUST-0015,P008,External SSD 1TB,Storage,Electronics,West,Online,2,115.16,0.1,207.29,156.62,50.67,PayPal
+ORD-00845,2025-01-26,CUST-0113,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,132.52,0.1,119.27,90.11,29.16,PayPal
+ORD-00846,2025-06-12,CUST-0275,P006,Standing Desk,Furniture,Office,North,Retail,4,525.84,0.0,2103.36,1430.28,673.08,Card
+ORD-00847,2024-04-05,CUST-0205,P005,Office Chair,Furniture,Office,East,Online,1,267.64,0.1,240.88,182.0,58.88,Bank Transfer
+ORD-00848,2025-05-02,CUST-0161,P003,4K Monitor,Monitors,Electronics,East,Online,4,450.78,0.0,1803.12,1226.12,577.0,Bank Transfer
+ORD-00849,2024-07-06,CUST-0098,P005,Office Chair,Furniture,Office,West,Online,4,263.91,0.0,1055.64,717.84,337.8,Card
+ORD-00850,2024-09-04,CUST-0136,P012,Monitor Arm,Accessories,Office,South,Online,1,93.26,0.1,83.93,63.42,20.51,Card
+ORD-00851,2025-09-25,CUST-0183,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,2,118.17,0.15,200.89,160.71,40.18,Card
+ORD-00852,2025-11-23,CUST-0253,P002,Wireless Headphones,Accessories,Electronics,North,Online,4,132.21,0.1,475.96,359.61,116.35,PayPal
+ORD-00853,2025-09-27,CUST-0162,P006,Standing Desk,Furniture,Office,West,Retail,4,551.53,0.0,2206.12,1500.16,705.96,PayPal
+ORD-00854,2025-06-07,CUST-0144,P003,4K Monitor,Monitors,Electronics,West,Online,1,392.2,0.0,392.2,266.7,125.5,Bank Transfer
+ORD-00855,2024-02-25,CUST-0270,P003,4K Monitor,Monitors,Electronics,West,Retail,1,416.67,0.0,416.67,283.34,133.33,Bank Transfer
+ORD-00856,2025-05-29,CUST-0178,P001,Laptop Pro 14,Computers,Electronics,West,Online,2,1157.21,0.0,2314.42,1573.81,740.61,PayPal
+ORD-00857,2025-12-16,CUST-0266,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,133.71,0.2,106.97,90.92,16.05,Bank Transfer
+ORD-00858,2024-01-13,CUST-0108,P001,Laptop Pro 14,Computers,Electronics,West,Online,2,1230.36,0.0,2460.72,1673.29,787.43,PayPal
+ORD-00859,2025-09-19,CUST-0133,P006,Standing Desk,Furniture,Office,South,Retail,3,487.56,0.15,1243.28,994.62,248.66,Card
+ORD-00860,2025-04-27,CUST-0176,P005,Office Chair,Furniture,Office,East,Online,1,303.0,0.0,303.0,206.04,96.96,PayPal
+ORD-00861,2024-08-03,CUST-0215,P007,Desk Lamp,Furniture,Office,East,Retail,1,69.41,0.1,62.47,47.2,15.27,PayPal
+ORD-00862,2025-04-06,CUST-0093,P005,Office Chair,Furniture,Office,South,Online,2,292.69,0.2,468.3,398.06,70.24,Card
+ORD-00863,2024-10-03,CUST-0121,P012,Monitor Arm,Accessories,Office,West,Retail,1,95.62,0.05,90.84,65.02,25.82,Card
+ORD-00864,2024-06-02,CUST-0243,P003,4K Monitor,Monitors,Electronics,North,Online,1,387.46,0.15,329.34,263.47,65.87,PayPal
+ORD-00865,2024-05-17,CUST-0265,P008,External SSD 1TB,Storage,Electronics,East,Retail,3,114.21,0.0,342.63,232.99,109.64,PayPal
+ORD-00866,2025-07-29,CUST-0291,P005,Office Chair,Furniture,Office,North,Retail,1,252.69,0.0,252.69,171.83,80.86,Card
+ORD-00867,2024-06-16,CUST-0031,P012,Monitor Arm,Accessories,Office,South,Retail,2,96.87,0.0,193.74,131.74,62.0,PayPal
+ORD-00868,2024-04-08,CUST-0231,P011,Notebook Pack,Stationery,Office,East,Retail,1,18.83,0.0,18.83,12.8,6.03,PayPal
+ORD-00869,2025-07-27,CUST-0286,P006,Standing Desk,Furniture,Office,East,Retail,1,551.1,0.0,551.1,374.75,176.35,Card
+ORD-00870,2024-05-04,CUST-0180,P007,Desk Lamp,Furniture,Office,South,Online,1,66.21,0.1,59.59,45.02,14.57,PayPal
+ORD-00871,2024-11-28,CUST-0262,P006,Standing Desk,Furniture,Office,West,Retail,1,522.87,0.2,418.3,355.55,62.75,Card
+ORD-00872,2025-09-20,CUST-0147,P007,Desk Lamp,Furniture,Office,West,Online,2,62.21,0.1,111.98,84.61,27.37,Card
+ORD-00873,2024-12-11,CUST-0216,P011,Notebook Pack,Stationery,Office,West,Online,2,19.78,0.05,37.58,26.9,10.68,Card
+ORD-00874,2024-12-17,CUST-0117,P003,4K Monitor,Monitors,Electronics,East,Retail,1,433.34,0.05,411.67,294.67,117.0,Bank Transfer
+ORD-00875,2025-12-28,CUST-0137,P005,Office Chair,Furniture,Office,West,Retail,2,279.35,0.0,558.7,379.92,178.78,PayPal
+ORD-00876,2025-08-24,CUST-0267,P006,Standing Desk,Furniture,Office,West,Retail,2,551.78,0.0,1103.56,750.42,353.14,Card
+ORD-00877,2024-01-24,CUST-0065,P003,4K Monitor,Monitors,Electronics,South,Retail,2,383.43,0.15,651.83,521.46,130.37,Bank Transfer
+ORD-00878,2024-03-22,CUST-0108,P012,Monitor Arm,Accessories,Office,South,Retail,1,98.69,0.0,98.69,67.11,31.58,Card
+ORD-00879,2024-03-06,CUST-0243,P002,Wireless Headphones,Accessories,Electronics,North,Online,2,143.97,0.15,244.75,195.8,48.95,PayPal
+ORD-00880,2024-03-26,CUST-0054,P009,USB-C Dock,Accessories,Electronics,East,Online,4,194.13,0.05,737.69,528.03,209.66,Card
+ORD-00881,2025-02-03,CUST-0159,P011,Notebook Pack,Stationery,Office,South,Online,2,19.61,0.0,39.22,26.67,12.55,Bank Transfer
+ORD-00882,2025-03-29,CUST-0065,P005,Office Chair,Furniture,Office,South,Online,3,291.35,0.05,830.35,594.35,236.0,Card
+ORD-00883,2025-11-10,CUST-0183,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1157.92,0.1,2084.26,1574.77,509.49,PayPal
+ORD-00884,2024-10-05,CUST-0281,P009,USB-C Dock,Accessories,Electronics,West,Online,2,179.56,0.0,359.12,244.2,114.92,Bank Transfer
+ORD-00885,2024-06-30,CUST-0234,P009,USB-C Dock,Accessories,Electronics,West,Retail,3,171.78,0.0,515.34,350.43,164.91,PayPal
+ORD-00886,2025-07-06,CUST-0117,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,125.16,0.1,112.64,85.11,27.53,PayPal
+ORD-00887,2025-02-26,CUST-0134,P006,Standing Desk,Furniture,Office,South,Retail,4,549.93,0.0,2199.72,1495.81,703.91,Card
+ORD-00888,2025-06-19,CUST-0070,P001,Laptop Pro 14,Computers,Electronics,East,Retail,1,1243.12,0.0,1243.12,845.32,397.8,PayPal
+ORD-00889,2024-01-09,CUST-0252,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,170.6,0.15,145.01,116.01,29.0,Card
+ORD-00890,2024-10-26,CUST-0119,P007,Desk Lamp,Furniture,Office,North,Retail,1,62.81,0.2,50.25,42.71,7.54,Card
+ORD-00891,2025-07-28,CUST-0224,P007,Desk Lamp,Furniture,Office,West,Online,1,64.61,0.05,61.38,43.93,17.45,Card
+ORD-00892,2025-10-23,CUST-0200,P012,Monitor Arm,Accessories,Office,West,Online,2,96.73,0.05,183.79,131.55,52.24,PayPal
+ORD-00893,2025-03-08,CUST-0123,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,130.72,0.0,261.44,177.78,83.66,Bank Transfer
+ORD-00894,2025-06-28,CUST-0138,P012,Monitor Arm,Accessories,Office,West,Online,3,101.53,0.1,274.13,207.12,67.01,Card
+ORD-00895,2024-05-19,CUST-0149,P003,4K Monitor,Monitors,Electronics,North,Retail,1,445.42,0.0,445.42,302.89,142.53,Bank Transfer
+ORD-00896,2024-10-05,CUST-0252,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,122.42,0.0,122.42,83.25,39.17,Card
+ORD-00897,2024-02-20,CUST-0274,P003,4K Monitor,Monitors,Electronics,North,Online,3,411.35,0.15,1048.94,839.15,209.79,Card
+ORD-00898,2024-10-02,CUST-0065,P005,Office Chair,Furniture,Office,West,Online,2,297.82,0.0,595.64,405.04,190.6,Card
+ORD-00899,2024-06-03,CUST-0008,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,145.21,0.0,290.42,197.49,92.93,PayPal
+ORD-00900,2024-11-15,CUST-0256,P007,Desk Lamp,Furniture,Office,East,Retail,1,67.28,0.0,67.28,45.75,21.53,Bank Transfer
+ORD-00901,2024-12-04,CUST-0042,P001,Laptop Pro 14,Computers,Electronics,South,Online,3,1157.87,0.2,2778.89,2362.05,416.84,PayPal
+ORD-00902,2024-03-14,CUST-0279,P007,Desk Lamp,Furniture,Office,West,Online,3,63.57,0.0,190.71,129.68,61.03,Card
+ORD-00903,2025-01-25,CUST-0007,P005,Office Chair,Furniture,Office,North,Online,1,302.83,0.0,302.83,205.92,96.91,PayPal
+ORD-00904,2024-09-10,CUST-0018,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,129.37,0.0,258.74,175.94,82.8,Bank Transfer
+ORD-00905,2025-06-17,CUST-0107,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,158.2,0.1,142.38,107.58,34.8,Bank Transfer
+ORD-00906,2024-11-26,CUST-0082,P005,Office Chair,Furniture,Office,North,Online,1,300.32,0.1,270.29,204.22,66.07,PayPal
+ORD-00907,2025-10-15,CUST-0153,P008,External SSD 1TB,Storage,Electronics,South,Retail,3,118.94,0.0,356.82,242.64,114.18,Card
+ORD-00908,2024-08-11,CUST-0058,P011,Notebook Pack,Stationery,Office,South,Retail,4,19.34,0.0,77.36,52.6,24.76,PayPal
+ORD-00909,2024-06-20,CUST-0142,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1220.96,0.0,1220.96,830.25,390.71,Card
+ORD-00910,2024-02-13,CUST-0298,P001,Laptop Pro 14,Computers,Electronics,West,Online,4,1148.07,0.1,4133.05,3122.75,1010.3,PayPal
+ORD-00911,2024-09-11,CUST-0081,P002,Wireless Headphones,Accessories,Electronics,West,Online,4,152.28,0.0,609.12,414.2,194.92,Bank Transfer
+ORD-00912,2024-12-12,CUST-0031,P010,Webcam HD,Accessories,Electronics,North,Retail,1,72.32,0.0,72.32,49.18,23.14,Bank Transfer
+ORD-00913,2025-12-19,CUST-0275,P003,4K Monitor,Monitors,Electronics,North,Online,1,434.16,0.15,369.04,295.23,73.81,PayPal
+ORD-00914,2024-11-20,CUST-0286,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,118.54,0.05,112.61,80.61,32.0,Bank Transfer
+ORD-00915,2024-01-22,CUST-0194,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,112.99,0.0,225.98,153.67,72.31,PayPal
+ORD-00916,2025-05-11,CUST-0225,P001,Laptop Pro 14,Computers,Electronics,East,Retail,3,1163.58,0.0,3490.74,2373.7,1117.04,Card
+ORD-00917,2024-07-10,CUST-0279,P010,Webcam HD,Accessories,Electronics,East,Retail,1,69.31,0.1,62.38,47.13,15.25,Bank Transfer
+ORD-00918,2024-10-08,CUST-0284,P008,External SSD 1TB,Storage,Electronics,South,Online,1,133.23,0.05,126.57,90.6,35.97,Bank Transfer
+ORD-00919,2025-04-05,CUST-0152,P003,4K Monitor,Monitors,Electronics,East,Retail,3,378.98,0.0,1136.94,773.12,363.82,PayPal
+ORD-00920,2025-10-15,CUST-0260,P001,Laptop Pro 14,Computers,Electronics,West,Online,3,1237.21,0.05,3526.05,2523.91,1002.14,Card
+ORD-00921,2025-01-07,CUST-0123,P010,Webcam HD,Accessories,Electronics,East,Online,4,68.16,0.05,259.01,185.4,73.61,Bank Transfer
+ORD-00922,2025-01-31,CUST-0098,P009,USB-C Dock,Accessories,Electronics,West,Online,2,169.78,0.1,305.6,230.9,74.7,Bank Transfer
+ORD-00923,2024-11-26,CUST-0210,P005,Office Chair,Furniture,Office,East,Online,1,288.53,0.1,259.68,196.2,63.48,Card
+ORD-00924,2025-11-05,CUST-0035,P009,USB-C Dock,Accessories,Electronics,North,Online,2,192.67,0.0,385.34,262.03,123.31,Card
+ORD-00925,2024-07-25,CUST-0055,P001,Laptop Pro 14,Computers,Electronics,West,Online,2,1193.85,0.1,2148.93,1623.64,525.29,Card
+ORD-00926,2025-08-07,CUST-0199,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1272.57,0.15,2163.37,1730.7,432.67,Card
+ORD-00927,2024-08-14,CUST-0037,P006,Standing Desk,Furniture,Office,North,Online,2,542.89,0.1,977.2,738.33,238.87,Bank Transfer
+ORD-00928,2024-03-22,CUST-0240,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,131.48,0.05,249.81,178.81,71.0,Bank Transfer
+ORD-00929,2025-03-01,CUST-0189,P012,Monitor Arm,Accessories,Office,North,Retail,4,96.56,0.0,386.24,262.64,123.6,Bank Transfer
+ORD-00930,2024-03-13,CUST-0156,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1131.86,0.0,1131.86,769.66,362.2,Bank Transfer
+ORD-00931,2024-04-13,CUST-0119,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,141.36,0.1,254.45,192.25,62.2,Card
+ORD-00932,2025-11-03,CUST-0128,P009,USB-C Dock,Accessories,Electronics,South,Retail,2,167.13,0.0,334.26,227.3,106.96,Bank Transfer
+ORD-00933,2025-10-15,CUST-0296,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,134.98,0.0,134.98,91.79,43.19,Bank Transfer
+ORD-00934,2025-03-13,CUST-0054,P011,Notebook Pack,Stationery,Office,South,Online,2,17.56,0.05,33.36,23.88,9.48,Bank Transfer
+ORD-00935,2025-05-31,CUST-0173,P007,Desk Lamp,Furniture,Office,South,Retail,1,59.43,0.0,59.43,40.41,19.02,PayPal
+ORD-00936,2025-07-17,CUST-0167,P006,Standing Desk,Furniture,Office,East,Retail,3,469.33,0.05,1337.59,957.43,380.16,Bank Transfer
+ORD-00937,2024-11-27,CUST-0124,P007,Desk Lamp,Furniture,Office,South,Retail,2,69.44,0.05,131.94,94.44,37.5,Bank Transfer
+ORD-00938,2024-09-17,CUST-0185,P012,Monitor Arm,Accessories,Office,West,Retail,2,87.5,0.05,166.25,119.0,47.25,PayPal
+ORD-00939,2024-02-05,CUST-0146,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1246.4,0.0,1246.4,847.55,398.85,PayPal
+ORD-00940,2024-11-03,CUST-0114,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1158.95,0.05,1101.0,788.09,312.91,Card
+ORD-00941,2024-10-09,CUST-0284,P012,Monitor Arm,Accessories,Office,South,Online,1,86.09,0.0,86.09,58.54,27.55,Card
+ORD-00942,2024-12-30,CUST-0080,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,113.08,0.0,113.08,76.89,36.19,PayPal
+ORD-00943,2024-09-12,CUST-0120,P010,Webcam HD,Accessories,Electronics,East,Retail,1,74.82,0.0,74.82,50.88,23.94,Card
+ORD-00944,2025-02-13,CUST-0292,P010,Webcam HD,Accessories,Electronics,South,Online,1,69.24,0.15,58.85,47.08,11.77,Bank Transfer
+ORD-00945,2025-05-09,CUST-0089,P006,Standing Desk,Furniture,Office,West,Online,1,507.35,0.0,507.35,345.0,162.35,Bank Transfer
+ORD-00946,2024-11-03,CUST-0020,P011,Notebook Pack,Stationery,Office,West,Online,3,19.18,0.05,54.66,39.13,15.53,Card
+ORD-00947,2024-12-22,CUST-0223,P006,Standing Desk,Furniture,Office,West,Online,1,520.9,0.0,520.9,354.21,166.69,Card
+ORD-00948,2025-10-30,CUST-0006,P012,Monitor Arm,Accessories,Office,West,Online,3,92.82,0.0,278.46,189.35,89.11,PayPal
+ORD-00949,2024-02-12,CUST-0164,P009,USB-C Dock,Accessories,Electronics,South,Retail,3,167.55,0.05,477.52,341.8,135.72,Bank Transfer
+ORD-00950,2024-08-14,CUST-0079,P012,Monitor Arm,Accessories,Office,North,Retail,1,88.7,0.05,84.27,60.32,23.95,PayPal
+ORD-00951,2025-08-12,CUST-0259,P010,Webcam HD,Accessories,Electronics,North,Online,2,74.11,0.1,133.4,100.79,32.61,PayPal
+ORD-00952,2025-02-07,CUST-0076,P005,Office Chair,Furniture,Office,South,Retail,1,291.7,0.1,262.53,198.36,64.17,Card
+ORD-00953,2025-08-08,CUST-0026,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,121.06,0.0,121.06,82.32,38.74,Card
+ORD-00954,2025-05-28,CUST-0223,P007,Desk Lamp,Furniture,Office,South,Online,2,69.3,0.0,138.6,94.25,44.35,PayPal
+ORD-00955,2024-07-21,CUST-0250,P009,USB-C Dock,Accessories,Electronics,West,Online,2,182.9,0.0,365.8,248.74,117.06,Bank Transfer
+ORD-00956,2025-06-20,CUST-0127,P010,Webcam HD,Accessories,Electronics,South,Online,2,76.89,0.0,153.78,104.57,49.21,PayPal
+ORD-00957,2024-11-27,CUST-0295,P007,Desk Lamp,Furniture,Office,North,Online,1,68.67,0.0,68.67,46.7,21.97,Bank Transfer
+ORD-00958,2025-03-09,CUST-0188,P007,Desk Lamp,Furniture,Office,East,Online,1,66.6,0.15,56.61,45.29,11.32,PayPal
+ORD-00959,2025-08-31,CUST-0013,P006,Standing Desk,Furniture,Office,East,Online,1,506.07,0.1,455.46,344.13,111.33,PayPal
+ORD-00960,2025-03-28,CUST-0075,P010,Webcam HD,Accessories,Electronics,West,Online,4,68.09,0.0,272.36,185.2,87.16,Card
+ORD-00961,2025-12-02,CUST-0192,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,1,118.95,0.1,107.06,80.89,26.17,Card
+ORD-00962,2024-02-25,CUST-0125,P012,Monitor Arm,Accessories,Office,South,Retail,4,102.78,0.2,328.9,279.56,49.34,Card
+ORD-00963,2025-12-11,CUST-0057,P006,Standing Desk,Furniture,Office,East,Retail,1,505.76,0.0,505.76,343.92,161.84,PayPal
+ORD-00964,2024-12-05,CUST-0108,P001,Laptop Pro 14,Computers,Electronics,South,Online,3,1322.63,0.0,3967.89,2698.17,1269.72,Bank Transfer
+ORD-00965,2024-09-21,CUST-0281,P009,USB-C Dock,Accessories,Electronics,West,Online,2,186.51,0.0,373.02,253.65,119.37,Bank Transfer
+ORD-00966,2025-11-15,CUST-0010,P012,Monitor Arm,Accessories,Office,West,Online,1,103.44,0.15,87.92,70.34,17.58,PayPal
+ORD-00967,2024-03-02,CUST-0146,P003,4K Monitor,Monitors,Electronics,South,Retail,1,421.08,0.15,357.92,286.33,71.59,Card
+ORD-00968,2025-11-01,CUST-0005,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,134.09,0.05,254.77,182.36,72.41,Bank Transfer
+ORD-00969,2025-11-09,CUST-0185,P005,Office Chair,Furniture,Office,North,Online,4,279.52,0.0,1118.08,760.29,357.79,PayPal
+ORD-00970,2025-01-30,CUST-0119,P011,Notebook Pack,Stationery,Office,West,Online,1,18.94,0.0,18.94,12.88,6.06,PayPal
+ORD-00971,2025-09-03,CUST-0273,P008,External SSD 1TB,Storage,Electronics,North,Online,4,135.47,0.05,514.79,368.48,146.31,Card
+ORD-00972,2025-04-13,CUST-0288,P009,USB-C Dock,Accessories,Electronics,North,Online,1,193.16,0.05,183.5,131.35,52.15,Card
+ORD-00973,2024-11-08,CUST-0171,P009,USB-C Dock,Accessories,Electronics,West,Retail,3,177.96,0.05,507.19,363.04,144.15,Bank Transfer
+ORD-00974,2024-01-19,CUST-0178,P003,4K Monitor,Monitors,Electronics,East,Retail,4,426.18,0.1,1534.25,1159.21,375.04,Bank Transfer
+ORD-00975,2024-08-29,CUST-0257,P005,Office Chair,Furniture,Office,East,Online,2,307.78,0.05,584.78,418.58,166.2,Bank Transfer
+ORD-00976,2025-01-31,CUST-0016,P005,Office Chair,Furniture,Office,East,Online,2,287.85,0.0,575.7,391.48,184.22,Card
+ORD-00977,2025-02-06,CUST-0071,P006,Standing Desk,Furniture,Office,North,Retail,1,465.37,0.15,395.56,316.45,79.11,Bank Transfer
+ORD-00978,2025-09-19,CUST-0117,P011,Notebook Pack,Stationery,Office,West,Online,3,16.31,0.0,48.93,33.27,15.66,Bank Transfer
+ORD-00979,2025-03-12,CUST-0160,P003,4K Monitor,Monitors,Electronics,East,Retail,4,455.82,0.05,1732.12,1239.83,492.29,Bank Transfer
+ORD-00980,2024-07-30,CUST-0071,P003,4K Monitor,Monitors,Electronics,South,Online,1,435.77,0.05,413.98,296.32,117.66,PayPal
+ORD-00981,2025-12-23,CUST-0269,P012,Monitor Arm,Accessories,Office,South,Retail,1,95.52,0.15,81.19,64.95,16.24,Card
+ORD-00982,2025-08-01,CUST-0081,P011,Notebook Pack,Stationery,Office,East,Online,3,19.15,0.05,54.58,39.07,15.51,Bank Transfer
+ORD-00983,2024-05-01,CUST-0095,P009,USB-C Dock,Accessories,Electronics,East,Online,1,169.59,0.0,169.59,115.32,54.27,Bank Transfer
+ORD-00984,2024-11-22,CUST-0212,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1372.64,0.1,1235.38,933.4,301.98,PayPal
+ORD-00985,2025-10-14,CUST-0141,P012,Monitor Arm,Accessories,Office,South,Online,1,101.24,0.1,91.12,68.84,22.28,Card
+ORD-00986,2024-07-08,CUST-0014,P003,4K Monitor,Monitors,Electronics,East,Online,4,381.71,0.0,1526.84,1038.25,488.59,Bank Transfer
+ORD-00987,2024-08-24,CUST-0014,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,115.29,0.1,207.52,156.79,50.73,Bank Transfer
+ORD-00988,2024-05-17,CUST-0258,P008,External SSD 1TB,Storage,Electronics,West,Retail,2,135.93,0.0,271.86,184.86,87.0,Card
+ORD-00989,2025-05-18,CUST-0243,P007,Desk Lamp,Furniture,Office,South,Online,2,68.46,0.1,123.23,93.11,30.12,Card
+ORD-00990,2024-02-03,CUST-0210,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,2,101.3,0.1,182.34,137.77,44.57,PayPal
+ORD-00991,2025-11-18,CUST-0104,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,4,100.71,0.05,382.7,273.93,108.77,Card
+ORD-00992,2025-09-23,CUST-0251,P008,External SSD 1TB,Storage,Electronics,East,Retail,2,114.15,0.0,228.3,155.24,73.06,Card
+ORD-00993,2025-02-18,CUST-0022,P007,Desk Lamp,Furniture,Office,West,Retail,1,66.72,0.05,63.38,45.37,18.01,PayPal
+ORD-00994,2025-08-08,CUST-0275,P010,Webcam HD,Accessories,Electronics,North,Online,2,68.58,0.15,116.59,93.27,23.32,PayPal
+ORD-00995,2024-02-13,CUST-0126,P008,External SSD 1TB,Storage,Electronics,West,Online,2,134.22,0.0,268.44,182.54,85.9,Bank Transfer
+ORD-00996,2025-06-12,CUST-0026,P007,Desk Lamp,Furniture,Office,South,Retail,1,65.01,0.0,65.01,44.21,20.8,PayPal
+ORD-00997,2024-11-07,CUST-0147,P007,Desk Lamp,Furniture,Office,West,Online,1,64.72,0.0,64.72,44.01,20.71,PayPal
+ORD-00998,2025-09-19,CUST-0028,P005,Office Chair,Furniture,Office,South,Retail,1,274.56,0.0,274.56,186.7,87.86,Bank Transfer
+ORD-00999,2024-04-02,CUST-0257,P008,External SSD 1TB,Storage,Electronics,North,Online,4,134.09,0.0,536.36,364.72,171.64,Bank Transfer
+ORD-01000,2025-07-13,CUST-0070,P012,Monitor Arm,Accessories,Office,West,Retail,1,103.16,0.1,92.84,70.15,22.69,PayPal
+ORD-01001,2024-01-26,CUST-0092,P008,External SSD 1TB,Storage,Electronics,West,Online,3,113.05,0.0,339.15,230.62,108.53,PayPal
+ORD-01002,2024-09-13,CUST-0166,P002,Wireless Headphones,Accessories,Electronics,South,Online,4,137.05,0.05,520.79,372.78,148.01,Card
+ORD-01003,2025-12-24,CUST-0231,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,131.48,0.0,131.48,89.41,42.07,Bank Transfer
+ORD-01004,2025-01-28,CUST-0262,P012,Monitor Arm,Accessories,Office,South,Retail,1,97.81,0.0,97.81,66.51,31.3,Bank Transfer
+ORD-01005,2024-02-14,CUST-0088,P007,Desk Lamp,Furniture,Office,East,Online,3,67.86,0.0,203.58,138.43,65.15,Card
+ORD-01006,2024-07-02,CUST-0027,P003,4K Monitor,Monitors,Electronics,West,Retail,3,447.0,0.05,1273.95,911.88,362.07,PayPal
+ORD-01007,2025-04-01,CUST-0148,P012,Monitor Arm,Accessories,Office,South,Online,3,98.47,0.0,295.41,200.88,94.53,Card
+ORD-01008,2024-01-04,CUST-0130,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,3,104.16,0.05,296.86,212.49,84.37,PayPal
+ORD-01009,2025-07-10,CUST-0003,P008,External SSD 1TB,Storage,Electronics,West,Online,2,126.31,0.1,227.36,171.78,55.58,Card
+ORD-01010,2025-11-06,CUST-0244,P010,Webcam HD,Accessories,Electronics,West,Retail,4,81.25,0.0,325.0,221.0,104.0,PayPal
+ORD-01011,2025-09-07,CUST-0004,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,135.1,0.0,135.1,91.87,43.23,Bank Transfer
+ORD-01012,2025-07-24,CUST-0107,P011,Notebook Pack,Stationery,Office,North,Online,1,18.47,0.0,18.47,12.56,5.91,Card
+ORD-01013,2025-10-30,CUST-0179,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1225.61,0.0,1225.61,833.41,392.2,Card
+ORD-01014,2025-08-14,CUST-0153,P011,Notebook Pack,Stationery,Office,East,Online,1,18.04,0.0,18.04,12.27,5.77,Card
+ORD-01015,2025-03-02,CUST-0092,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,147.71,0.1,132.94,100.44,32.5,Bank Transfer
+ORD-01016,2025-12-09,CUST-0294,P011,Notebook Pack,Stationery,Office,South,Retail,1,19.22,0.0,19.22,13.07,6.15,Bank Transfer
+ORD-01017,2025-01-03,CUST-0019,P010,Webcam HD,Accessories,Electronics,North,Retail,1,81.61,0.0,81.61,55.49,26.12,PayPal
+ORD-01018,2025-01-23,CUST-0035,P006,Standing Desk,Furniture,Office,West,Online,2,543.32,0.15,923.64,738.92,184.72,PayPal
+ORD-01019,2024-05-17,CUST-0063,P008,External SSD 1TB,Storage,Electronics,East,Retail,1,133.57,0.0,133.57,90.83,42.74,Bank Transfer
+ORD-01020,2025-06-21,CUST-0108,P007,Desk Lamp,Furniture,Office,South,Online,2,70.29,0.05,133.55,95.59,37.96,Card
+ORD-01021,2025-10-06,CUST-0271,P010,Webcam HD,Accessories,Electronics,North,Retail,1,81.15,0.0,81.15,55.18,25.97,Bank Transfer
+ORD-01022,2025-09-11,CUST-0148,P012,Monitor Arm,Accessories,Office,West,Retail,2,87.7,0.1,157.86,119.27,38.59,PayPal
+ORD-01023,2025-08-11,CUST-0182,P009,USB-C Dock,Accessories,Electronics,South,Retail,4,175.96,0.05,668.65,478.61,190.04,Bank Transfer
+ORD-01024,2025-10-09,CUST-0255,P012,Monitor Arm,Accessories,Office,West,Online,1,98.34,0.1,88.51,66.87,21.64,Bank Transfer
+ORD-01025,2025-12-26,CUST-0149,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,4,114.69,0.0,458.76,311.96,146.8,Card
+ORD-01026,2025-04-21,CUST-0061,P001,Laptop Pro 14,Computers,Electronics,South,Retail,2,1194.61,0.0,2389.22,1624.67,764.55,PayPal
+ORD-01027,2024-12-07,CUST-0180,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1300.64,0.2,1040.51,884.44,156.07,Bank Transfer
+ORD-01028,2025-12-07,CUST-0145,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,3,109.46,0.0,328.38,223.3,105.08,PayPal
+ORD-01029,2025-06-02,CUST-0282,P005,Office Chair,Furniture,Office,East,Online,1,254.7,0.05,241.96,173.2,68.76,Card
+ORD-01030,2024-12-07,CUST-0175,P011,Notebook Pack,Stationery,Office,West,Online,2,17.59,0.05,33.42,23.92,9.5,Card
+ORD-01031,2024-12-04,CUST-0174,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,1,101.44,0.05,96.37,68.98,27.39,Card
+ORD-01032,2024-05-19,CUST-0247,P011,Notebook Pack,Stationery,Office,South,Retail,3,16.21,0.1,43.77,33.07,10.7,Bank Transfer
+ORD-01033,2025-04-18,CUST-0212,P006,Standing Desk,Furniture,Office,North,Retail,4,501.48,0.1,1805.33,1364.03,441.3,Bank Transfer
+ORD-01034,2025-11-25,CUST-0162,P012,Monitor Arm,Accessories,Office,North,Online,2,99.17,0.0,198.34,134.87,63.47,Bank Transfer
+ORD-01035,2024-12-05,CUST-0182,P011,Notebook Pack,Stationery,Office,North,Online,1,17.9,0.1,16.11,12.17,3.94,PayPal
+ORD-01036,2024-12-13,CUST-0193,P001,Laptop Pro 14,Computers,Electronics,South,Retail,3,1294.45,0.0,3883.35,2640.68,1242.67,Card
+ORD-01037,2024-04-29,CUST-0158,P010,Webcam HD,Accessories,Electronics,East,Online,2,73.42,0.0,146.84,99.85,46.99,PayPal
+ORD-01038,2024-03-29,CUST-0255,P007,Desk Lamp,Furniture,Office,South,Retail,4,68.08,0.0,272.32,185.18,87.14,PayPal
+ORD-01039,2024-08-09,CUST-0269,P005,Office Chair,Furniture,Office,East,Online,3,274.13,0.05,781.27,559.23,222.04,Card
+ORD-01040,2024-02-08,CUST-0104,P006,Standing Desk,Furniture,Office,North,Retail,3,549.8,0.0,1649.4,1121.59,527.81,Bank Transfer
+ORD-01041,2025-05-09,CUST-0257,P001,Laptop Pro 14,Computers,Electronics,South,Online,2,1291.72,0.0,2583.44,1756.74,826.7,PayPal
+ORD-01042,2025-06-20,CUST-0159,P008,External SSD 1TB,Storage,Electronics,East,Online,1,125.4,0.0,125.4,85.27,40.13,Card
+ORD-01043,2025-11-23,CUST-0068,P009,USB-C Dock,Accessories,Electronics,South,Online,2,186.77,0.0,373.54,254.01,119.53,PayPal
+ORD-01044,2025-12-31,CUST-0268,P007,Desk Lamp,Furniture,Office,North,Online,2,62.89,0.0,125.78,85.53,40.25,PayPal
+ORD-01045,2025-12-04,CUST-0045,P001,Laptop Pro 14,Computers,Electronics,East,Retail,3,1362.21,0.1,3677.97,2778.91,899.06,Card
+ORD-01046,2025-06-17,CUST-0160,P002,Wireless Headphones,Accessories,Electronics,North,Retail,1,142.22,0.05,135.11,96.71,38.4,Bank Transfer
+ORD-01047,2024-11-24,CUST-0103,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,1,104.87,0.15,89.14,71.31,17.83,PayPal
+ORD-01048,2024-11-22,CUST-0226,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,196.69,0.05,373.71,267.5,106.21,Card
+ORD-01049,2024-10-07,CUST-0059,P003,4K Monitor,Monitors,Electronics,North,Online,2,442.03,0.0,884.06,601.16,282.9,Card
+ORD-01050,2024-12-24,CUST-0282,P009,USB-C Dock,Accessories,Electronics,East,Retail,4,189.83,0.1,683.39,516.34,167.05,Card
+ORD-01051,2024-10-17,CUST-0294,P012,Monitor Arm,Accessories,Office,South,Online,2,87.89,0.2,140.62,119.53,21.09,Card
+ORD-01052,2025-09-19,CUST-0174,P005,Office Chair,Furniture,Office,West,Online,2,273.42,0.0,546.84,371.85,174.99,Card
+ORD-01053,2025-04-27,CUST-0026,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1191.4,0.0,1191.4,810.15,381.25,Card
+ORD-01054,2025-03-12,CUST-0201,P002,Wireless Headphones,Accessories,Electronics,South,Retail,2,151.93,0.0,303.86,206.62,97.24,Bank Transfer
+ORD-01055,2024-11-15,CUST-0171,P006,Standing Desk,Furniture,Office,South,Online,4,496.92,0.0,1987.68,1351.62,636.06,PayPal
+ORD-01056,2024-05-14,CUST-0048,P010,Webcam HD,Accessories,Electronics,West,Online,1,75.73,0.1,68.16,51.5,16.66,PayPal
+ORD-01057,2025-12-01,CUST-0239,P005,Office Chair,Furniture,Office,West,Online,2,253.32,0.1,455.98,344.52,111.46,Card
+ORD-01058,2025-09-23,CUST-0133,P003,4K Monitor,Monitors,Electronics,East,Retail,1,428.92,0.1,386.03,291.67,94.36,Card
+ORD-01059,2025-11-12,CUST-0170,P012,Monitor Arm,Accessories,Office,East,Retail,2,91.26,0.0,182.52,124.11,58.41,PayPal
+ORD-01060,2024-03-07,CUST-0244,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1359.34,0.1,1223.41,924.35,299.06,PayPal
+ORD-01061,2024-06-23,CUST-0145,P008,External SSD 1TB,Storage,Electronics,East,Online,1,131.19,0.05,124.63,89.21,35.42,Bank Transfer
+ORD-01062,2025-02-19,CUST-0055,P002,Wireless Headphones,Accessories,Electronics,East,Online,4,147.38,0.1,530.57,400.87,129.7,PayPal
+ORD-01063,2025-04-17,CUST-0206,P009,USB-C Dock,Accessories,Electronics,West,Online,1,181.11,0.0,181.11,123.15,57.96,Bank Transfer
+ORD-01064,2025-07-15,CUST-0082,P004,Mechanical Keyboard,Accessories,Electronics,West,Retail,2,120.18,0.05,228.34,163.44,64.9,Card
+ORD-01065,2024-08-01,CUST-0221,P006,Standing Desk,Furniture,Office,West,Retail,2,479.91,0.1,863.84,652.68,211.16,Bank Transfer
+ORD-01066,2024-08-29,CUST-0089,P012,Monitor Arm,Accessories,Office,North,Retail,1,88.18,0.0,88.18,59.96,28.22,Card
+ORD-01067,2025-09-02,CUST-0238,P010,Webcam HD,Accessories,Electronics,East,Online,1,72.23,0.1,65.01,49.12,15.89,PayPal
+ORD-01068,2024-11-11,CUST-0208,P003,4K Monitor,Monitors,Electronics,North,Online,1,446.13,0.0,446.13,303.37,142.76,Bank Transfer
+ORD-01069,2025-01-23,CUST-0168,P010,Webcam HD,Accessories,Electronics,West,Online,2,77.61,0.0,155.22,105.55,49.67,Card
+ORD-01070,2024-05-22,CUST-0298,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,1,119.84,0.1,107.86,81.49,26.37,Bank Transfer
+ORD-01071,2025-04-08,CUST-0273,P003,4K Monitor,Monitors,Electronics,East,Retail,3,417.48,0.0,1252.44,851.66,400.78,Bank Transfer
+ORD-01072,2025-04-02,CUST-0101,P010,Webcam HD,Accessories,Electronics,South,Retail,4,77.85,0.0,311.4,211.75,99.65,PayPal
+ORD-01073,2025-11-26,CUST-0156,P010,Webcam HD,Accessories,Electronics,West,Retail,1,67.62,0.0,67.62,45.98,21.64,Card
+ORD-01074,2024-01-09,CUST-0262,P010,Webcam HD,Accessories,Electronics,West,Online,2,68.17,0.0,136.34,92.71,43.63,PayPal
+ORD-01075,2025-01-13,CUST-0282,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1257.41,0.2,1005.93,855.04,150.89,Bank Transfer
+ORD-01076,2025-01-02,CUST-0057,P009,USB-C Dock,Accessories,Electronics,East,Online,4,196.17,0.0,784.68,533.58,251.1,Card
+ORD-01077,2025-12-20,CUST-0202,P007,Desk Lamp,Furniture,Office,East,Retail,3,62.07,0.0,186.21,126.62,59.59,PayPal
+ORD-01078,2025-03-21,CUST-0280,P007,Desk Lamp,Furniture,Office,South,Online,3,65.61,0.1,177.15,133.84,43.31,PayPal
+ORD-01079,2024-07-11,CUST-0285,P003,4K Monitor,Monitors,Electronics,West,Retail,3,381.69,0.0,1145.07,778.65,366.42,PayPal
+ORD-01080,2024-10-22,CUST-0065,P003,4K Monitor,Monitors,Electronics,South,Online,3,418.43,0.15,1067.0,853.6,213.4,Card
+ORD-01081,2024-01-17,CUST-0074,P011,Notebook Pack,Stationery,Office,West,Retail,2,19.24,0.0,38.48,26.17,12.31,Card
+ORD-01082,2024-05-20,CUST-0213,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,155.26,0.1,139.73,105.58,34.15,Bank Transfer
+ORD-01083,2025-04-10,CUST-0261,P003,4K Monitor,Monitors,Electronics,West,Retail,2,387.15,0.1,696.87,526.52,170.35,PayPal
+ORD-01084,2024-08-19,CUST-0096,P006,Standing Desk,Furniture,Office,West,Online,2,560.47,0.2,896.75,762.24,134.51,Bank Transfer
+ORD-01085,2024-08-30,CUST-0257,P008,External SSD 1TB,Storage,Electronics,East,Retail,1,126.74,0.2,101.39,86.18,15.21,Bank Transfer
+ORD-01086,2025-01-10,CUST-0018,P010,Webcam HD,Accessories,Electronics,North,Retail,1,81.29,0.05,77.23,55.28,21.95,Bank Transfer
+ORD-01087,2024-04-25,CUST-0298,P006,Standing Desk,Furniture,Office,West,Online,4,522.48,0.0,2089.92,1421.15,668.77,Card
+ORD-01088,2025-06-23,CUST-0144,P012,Monitor Arm,Accessories,Office,West,Online,1,101.26,0.0,101.26,68.86,32.4,Bank Transfer
+ORD-01089,2024-03-31,CUST-0126,P010,Webcam HD,Accessories,Electronics,West,Online,2,81.66,0.15,138.82,111.06,27.76,Bank Transfer
+ORD-01090,2025-07-06,CUST-0297,P011,Notebook Pack,Stationery,Office,East,Online,1,19.63,0.0,19.63,13.35,6.28,PayPal
+ORD-01091,2024-01-12,CUST-0241,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,167.82,0.1,151.04,114.12,36.92,Bank Transfer
+ORD-01092,2024-12-05,CUST-0216,P012,Monitor Arm,Accessories,Office,East,Retail,3,90.2,0.1,243.54,184.01,59.53,PayPal
+ORD-01093,2024-02-06,CUST-0156,P003,4K Monitor,Monitors,Electronics,East,Online,1,443.63,0.05,421.45,301.67,119.78,Bank Transfer
+ORD-01094,2025-08-15,CUST-0087,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,131.79,0.05,250.4,179.23,71.17,Bank Transfer
+ORD-01095,2024-01-28,CUST-0147,P010,Webcam HD,Accessories,Electronics,West,Online,3,80.03,0.05,228.09,163.26,64.83,Card
+ORD-01096,2024-03-19,CUST-0143,P009,USB-C Dock,Accessories,Electronics,East,Online,2,195.34,0.0,390.68,265.66,125.02,Bank Transfer
+ORD-01097,2024-10-08,CUST-0132,P005,Office Chair,Furniture,Office,North,Online,1,254.58,0.1,229.12,173.11,56.01,Bank Transfer
+ORD-01098,2025-08-28,CUST-0078,P003,4K Monitor,Monitors,Electronics,West,Retail,1,449.24,0.0,449.24,305.48,143.76,Card
+ORD-01099,2025-12-18,CUST-0121,P005,Office Chair,Furniture,Office,West,Online,1,265.77,0.0,265.77,180.72,85.05,Bank Transfer
+ORD-01100,2024-12-17,CUST-0044,P001,Laptop Pro 14,Computers,Electronics,South,Online,2,1290.61,0.05,2452.16,1755.23,696.93,PayPal
+ORD-01101,2025-01-27,CUST-0122,P007,Desk Lamp,Furniture,Office,West,Online,1,60.5,0.15,51.42,41.14,10.28,Card
+ORD-01102,2024-12-19,CUST-0028,P010,Webcam HD,Accessories,Electronics,East,Online,4,82.4,0.15,280.16,224.13,56.03,Card
+ORD-01103,2025-04-20,CUST-0205,P003,4K Monitor,Monitors,Electronics,West,Retail,1,409.22,0.1,368.3,278.27,90.03,PayPal
+ORD-01104,2025-06-29,CUST-0120,P012,Monitor Arm,Accessories,Office,West,Retail,2,86.12,0.0,172.24,117.12,55.12,PayPal
+ORD-01105,2024-05-28,CUST-0272,P005,Office Chair,Furniture,Office,West,Online,1,284.32,0.2,227.46,193.34,34.12,PayPal
+ORD-01106,2025-01-26,CUST-0162,P008,External SSD 1TB,Storage,Electronics,North,Online,3,137.31,0.05,391.33,280.11,111.22,Bank Transfer
+ORD-01107,2024-12-28,CUST-0222,P011,Notebook Pack,Stationery,Office,East,Retail,2,17.49,0.05,33.23,23.79,9.44,PayPal
+ORD-01108,2024-04-10,CUST-0131,P005,Office Chair,Furniture,Office,West,Retail,2,302.53,0.1,544.55,411.44,133.11,Bank Transfer
+ORD-01109,2024-09-04,CUST-0100,P012,Monitor Arm,Accessories,Office,East,Online,1,87.43,0.15,74.32,59.45,14.87,PayPal
+ORD-01110,2024-01-11,CUST-0005,P009,USB-C Dock,Accessories,Electronics,North,Online,1,189.06,0.1,170.15,128.56,41.59,PayPal
+ORD-01111,2025-06-21,CUST-0054,P002,Wireless Headphones,Accessories,Electronics,West,Retail,2,135.58,0.0,271.16,184.39,86.77,Card
+ORD-01112,2024-10-17,CUST-0129,P012,Monitor Arm,Accessories,Office,South,Online,1,89.77,0.1,80.79,61.04,19.75,Card
+ORD-01113,2024-04-04,CUST-0030,P010,Webcam HD,Accessories,Electronics,South,Online,2,74.05,0.05,140.69,100.71,39.98,Bank Transfer
+ORD-01114,2024-03-29,CUST-0067,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,139.96,0.0,139.96,95.17,44.79,Card
+ORD-01115,2024-07-07,CUST-0130,P012,Monitor Arm,Accessories,Office,East,Retail,1,92.21,0.0,92.21,62.7,29.51,Bank Transfer
+ORD-01116,2025-10-16,CUST-0233,P002,Wireless Headphones,Accessories,Electronics,East,Retail,4,155.03,0.15,527.1,421.68,105.42,Bank Transfer
+ORD-01117,2024-11-27,CUST-0132,P011,Notebook Pack,Stationery,Office,South,Online,2,19.01,0.0,38.02,25.85,12.17,PayPal
+ORD-01118,2025-01-26,CUST-0199,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1261.13,0.15,1071.96,857.57,214.39,PayPal
+ORD-01119,2024-07-01,CUST-0226,P005,Office Chair,Furniture,Office,North,Retail,2,262.42,0.05,498.6,356.89,141.71,Card
+ORD-01120,2025-02-06,CUST-0092,P010,Webcam HD,Accessories,Electronics,West,Online,1,67.99,0.05,64.59,46.23,18.36,Card
+ORD-01121,2025-03-17,CUST-0112,P009,USB-C Dock,Accessories,Electronics,North,Retail,3,164.48,0.0,493.44,335.54,157.9,Bank Transfer
+ORD-01122,2024-04-15,CUST-0018,P005,Office Chair,Furniture,Office,North,Online,4,277.76,0.15,944.38,755.51,188.87,Bank Transfer
+ORD-01123,2024-09-13,CUST-0229,P012,Monitor Arm,Accessories,Office,North,Retail,4,101.38,0.1,364.97,275.75,89.22,Card
+ORD-01124,2025-10-17,CUST-0001,P011,Notebook Pack,Stationery,Office,North,Retail,2,18.99,0.1,34.18,25.83,8.35,PayPal
+ORD-01125,2025-12-17,CUST-0169,P003,4K Monitor,Monitors,Electronics,West,Online,1,421.32,0.1,379.19,286.5,92.69,Bank Transfer
+ORD-01126,2025-05-17,CUST-0245,P012,Monitor Arm,Accessories,Office,West,Retail,1,90.87,0.05,86.33,61.79,24.54,Bank Transfer
+ORD-01127,2025-07-07,CUST-0116,P002,Wireless Headphones,Accessories,Electronics,North,Retail,4,141.86,0.15,482.32,385.86,96.46,Bank Transfer
+ORD-01128,2024-05-04,CUST-0291,P008,External SSD 1TB,Storage,Electronics,East,Retail,2,112.5,0.1,202.5,153.0,49.5,Bank Transfer
+ORD-01129,2025-02-14,CUST-0029,P005,Office Chair,Furniture,Office,North,Retail,1,272.28,0.0,272.28,185.15,87.13,Bank Transfer
+ORD-01130,2024-03-23,CUST-0236,P006,Standing Desk,Furniture,Office,East,Online,1,482.06,0.2,385.65,327.8,57.85,Card
+ORD-01131,2024-02-10,CUST-0197,P009,USB-C Dock,Accessories,Electronics,South,Retail,3,177.75,0.0,533.25,362.61,170.64,Bank Transfer
+ORD-01132,2024-04-19,CUST-0184,P007,Desk Lamp,Furniture,Office,West,Online,1,60.98,0.0,60.98,41.47,19.51,Bank Transfer
+ORD-01133,2024-07-13,CUST-0072,P008,External SSD 1TB,Storage,Electronics,North,Online,2,129.08,0.0,258.16,175.55,82.61,Card
+ORD-01134,2025-08-30,CUST-0123,P012,Monitor Arm,Accessories,Office,West,Retail,4,99.92,0.0,399.68,271.78,127.9,Card
+ORD-01135,2025-10-20,CUST-0158,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,173.71,0.0,173.71,118.12,55.59,Card
+ORD-01136,2024-12-13,CUST-0029,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1192.86,0.0,1192.86,811.14,381.72,PayPal
+ORD-01137,2024-08-04,CUST-0268,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,156.66,0.0,156.66,106.53,50.13,Bank Transfer
+ORD-01138,2024-08-26,CUST-0037,P010,Webcam HD,Accessories,Electronics,North,Online,3,70.81,0.0,212.43,144.45,67.98,PayPal
+ORD-01139,2024-01-20,CUST-0242,P011,Notebook Pack,Stationery,Office,North,Online,3,18.33,0.0,54.99,37.39,17.6,Bank Transfer
+ORD-01140,2024-05-13,CUST-0008,P011,Notebook Pack,Stationery,Office,South,Online,1,17.69,0.0,17.69,12.03,5.66,PayPal
+ORD-01141,2025-04-12,CUST-0088,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,135.35,0.1,121.81,92.04,29.77,Card
+ORD-01142,2025-09-01,CUST-0113,P008,External SSD 1TB,Storage,Electronics,North,Online,4,119.22,0.05,453.04,324.28,128.76,PayPal
+ORD-01143,2025-11-25,CUST-0206,P006,Standing Desk,Furniture,Office,East,Online,1,495.89,0.05,471.1,337.21,133.89,Bank Transfer
+ORD-01144,2025-07-12,CUST-0071,P010,Webcam HD,Accessories,Electronics,East,Online,2,69.45,0.05,131.96,94.45,37.51,Card
+ORD-01145,2024-06-26,CUST-0172,P010,Webcam HD,Accessories,Electronics,North,Online,2,75.21,0.0,150.42,102.29,48.13,PayPal
+ORD-01146,2025-03-01,CUST-0087,P003,4K Monitor,Monitors,Electronics,East,Online,1,459.68,0.0,459.68,312.58,147.1,PayPal
+ORD-01147,2025-08-18,CUST-0021,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,4,114.34,0.1,411.62,311.0,100.62,Bank Transfer
+ORD-01148,2025-01-20,CUST-0081,P010,Webcam HD,Accessories,Electronics,North,Retail,4,81.31,0.05,308.98,221.16,87.82,Card
+ORD-01149,2024-01-08,CUST-0092,P001,Laptop Pro 14,Computers,Electronics,North,Retail,4,1337.62,0.0,5350.48,3638.33,1712.15,PayPal
+ORD-01150,2025-05-02,CUST-0065,P012,Monitor Arm,Accessories,Office,South,Online,1,100.83,0.0,100.83,68.56,32.27,Bank Transfer
+ORD-01151,2025-06-19,CUST-0231,P005,Office Chair,Furniture,Office,West,Online,2,263.95,0.0,527.9,358.97,168.93,Card
+ORD-01152,2025-12-09,CUST-0020,P010,Webcam HD,Accessories,Electronics,South,Retail,2,80.35,0.2,128.56,109.28,19.28,Bank Transfer
+ORD-01153,2025-10-04,CUST-0155,P002,Wireless Headphones,Accessories,Electronics,East,Retail,4,149.96,0.1,539.86,407.89,131.97,Card
+ORD-01154,2024-08-29,CUST-0099,P009,USB-C Dock,Accessories,Electronics,North,Online,2,179.87,0.15,305.78,244.62,61.16,Bank Transfer
+ORD-01155,2025-07-06,CUST-0260,P006,Standing Desk,Furniture,Office,South,Retail,1,510.68,0.05,485.15,347.26,137.89,Bank Transfer
+ORD-01156,2024-08-01,CUST-0142,P011,Notebook Pack,Stationery,Office,North,Online,2,16.29,0.0,32.58,22.15,10.43,Card
+ORD-01157,2025-12-02,CUST-0243,P003,4K Monitor,Monitors,Electronics,West,Online,2,444.99,0.0,889.98,605.19,284.79,Card
+ORD-01158,2024-02-14,CUST-0028,P011,Notebook Pack,Stationery,Office,East,Retail,1,17.78,0.2,14.22,12.09,2.13,Card
+ORD-01159,2024-09-14,CUST-0172,P007,Desk Lamp,Furniture,Office,West,Online,2,65.01,0.05,123.52,88.41,35.11,Card
+ORD-01160,2024-02-23,CUST-0276,P012,Monitor Arm,Accessories,Office,South,Online,3,103.87,0.05,296.03,211.89,84.14,Card
+ORD-01161,2025-06-11,CUST-0060,P008,External SSD 1TB,Storage,Electronics,North,Online,1,120.22,0.0,120.22,81.75,38.47,Bank Transfer
+ORD-01162,2025-08-29,CUST-0297,P008,External SSD 1TB,Storage,Electronics,East,Retail,3,136.54,0.0,409.62,278.54,131.08,Card
+ORD-01163,2025-11-24,CUST-0167,P012,Monitor Arm,Accessories,Office,South,Online,3,93.03,0.05,265.14,189.78,75.36,PayPal
+ORD-01164,2024-04-10,CUST-0122,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,116.79,0.15,99.27,79.42,19.85,PayPal
+ORD-01165,2024-03-16,CUST-0242,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,4,105.38,0.0,421.52,286.63,134.89,PayPal
+ORD-01166,2024-08-09,CUST-0233,P003,4K Monitor,Monitors,Electronics,South,Retail,3,444.92,0.1,1201.28,907.64,293.64,PayPal
+ORD-01167,2025-04-13,CUST-0100,P003,4K Monitor,Monitors,Electronics,East,Retail,4,456.56,0.0,1826.24,1241.84,584.4,Card
+ORD-01168,2024-05-10,CUST-0017,P006,Standing Desk,Furniture,Office,North,Retail,1,551.42,0.1,496.28,374.97,121.31,Card
+ORD-01169,2025-04-21,CUST-0235,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,135.22,0.0,135.22,91.95,43.27,PayPal
+ORD-01170,2024-10-29,CUST-0081,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,1,105.33,0.05,100.06,71.62,28.44,Card
+ORD-01171,2025-06-18,CUST-0251,P007,Desk Lamp,Furniture,Office,South,Retail,1,63.85,0.0,63.85,43.42,20.43,PayPal
+ORD-01172,2024-01-15,CUST-0220,P005,Office Chair,Furniture,Office,South,Online,3,293.03,0.0,879.09,597.78,281.31,PayPal
+ORD-01173,2025-08-16,CUST-0114,P007,Desk Lamp,Furniture,Office,South,Online,3,61.71,0.05,175.87,125.89,49.98,PayPal
+ORD-01174,2024-02-11,CUST-0241,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1233.19,0.0,1233.19,838.57,394.62,Bank Transfer
+ORD-01175,2025-05-05,CUST-0051,P007,Desk Lamp,Furniture,Office,West,Retail,1,59.44,0.1,53.5,40.42,13.08,Card
+ORD-01176,2025-07-25,CUST-0007,P002,Wireless Headphones,Accessories,Electronics,West,Online,3,157.89,0.0,473.67,322.1,151.57,Card
+ORD-01177,2024-10-29,CUST-0123,P006,Standing Desk,Furniture,Office,North,Online,2,533.82,0.1,960.88,726.0,234.88,PayPal
+ORD-01178,2024-11-08,CUST-0083,P011,Notebook Pack,Stationery,Office,West,Online,4,17.71,0.0,70.84,48.17,22.67,PayPal
+ORD-01179,2024-05-21,CUST-0208,P008,External SSD 1TB,Storage,Electronics,South,Retail,3,137.26,0.05,391.19,280.01,111.18,Bank Transfer
+ORD-01180,2025-12-21,CUST-0001,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,135.37,0.15,115.06,92.05,23.01,Bank Transfer
+ORD-01181,2025-06-27,CUST-0017,P006,Standing Desk,Furniture,Office,East,Retail,1,558.66,0.05,530.73,379.89,150.84,PayPal
+ORD-01182,2025-09-19,CUST-0278,P012,Monitor Arm,Accessories,Office,South,Online,1,87.65,0.2,70.12,59.6,10.52,Bank Transfer
+ORD-01183,2024-02-26,CUST-0264,P006,Standing Desk,Furniture,Office,East,Online,3,478.36,0.05,1363.33,975.85,387.48,Card
+ORD-01184,2025-01-09,CUST-0239,P007,Desk Lamp,Furniture,Office,North,Retail,2,63.0,0.0,126.0,85.68,40.32,PayPal
+ORD-01185,2025-10-25,CUST-0287,P003,4K Monitor,Monitors,Electronics,North,Online,2,428.86,0.0,857.72,583.25,274.47,Card
+ORD-01186,2024-09-01,CUST-0277,P006,Standing Desk,Furniture,Office,North,Retail,1,486.39,0.05,462.07,330.75,131.32,Bank Transfer
+ORD-01187,2025-12-20,CUST-0108,P010,Webcam HD,Accessories,Electronics,South,Retail,2,77.85,0.05,147.91,105.88,42.03,PayPal
+ORD-01188,2025-05-30,CUST-0217,P005,Office Chair,Furniture,Office,East,Online,1,256.31,0.05,243.49,174.29,69.2,Card
+ORD-01189,2024-12-19,CUST-0232,P006,Standing Desk,Furniture,Office,West,Online,2,465.97,0.15,792.15,633.72,158.43,PayPal
+ORD-01190,2025-06-28,CUST-0273,P012,Monitor Arm,Accessories,Office,East,Retail,1,96.88,0.0,96.88,65.88,31.0,Bank Transfer
+ORD-01191,2025-11-20,CUST-0034,P006,Standing Desk,Furniture,Office,South,Retail,2,515.44,0.0,1030.88,701.0,329.88,Card
+ORD-01192,2025-02-04,CUST-0092,P002,Wireless Headphones,Accessories,Electronics,East,Online,2,158.49,0.0,316.98,215.55,101.43,Card
+ORD-01193,2024-10-09,CUST-0058,P003,4K Monitor,Monitors,Electronics,South,Retail,4,415.86,0.05,1580.27,1131.14,449.13,Card
+ORD-01194,2025-06-17,CUST-0012,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,3,104.96,0.0,314.88,214.12,100.76,Bank Transfer
+ORD-01195,2024-05-15,CUST-0243,P009,USB-C Dock,Accessories,Electronics,East,Retail,2,168.27,0.0,336.54,228.85,107.69,PayPal
+ORD-01196,2025-10-22,CUST-0011,P012,Monitor Arm,Accessories,Office,East,Online,1,88.44,0.0,88.44,60.14,28.3,Card
+ORD-01197,2024-08-25,CUST-0267,P001,Laptop Pro 14,Computers,Electronics,East,Retail,4,1359.76,0.0,5439.04,3698.55,1740.49,Bank Transfer
+ORD-01198,2025-11-02,CUST-0168,P006,Standing Desk,Furniture,Office,West,Retail,2,518.93,0.0,1037.86,705.74,332.12,PayPal
+ORD-01199,2025-08-03,CUST-0068,P005,Office Chair,Furniture,Office,East,Online,1,254.83,0.0,254.83,173.28,81.55,PayPal
+ORD-01200,2025-05-10,CUST-0191,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,111.82,0.0,111.82,76.04,35.78,Card
+ORD-01201,2024-10-18,CUST-0234,P006,Standing Desk,Furniture,Office,South,Online,1,554.84,0.05,527.1,377.29,149.81,Bank Transfer
+ORD-01202,2024-10-19,CUST-0094,P009,USB-C Dock,Accessories,Electronics,South,Online,1,192.23,0.0,192.23,130.72,61.51,Card
+ORD-01203,2024-04-29,CUST-0022,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,103.72,0.1,93.35,70.53,22.82,PayPal
+ORD-01204,2025-01-13,CUST-0095,P005,Office Chair,Furniture,Office,South,Online,3,252.47,0.0,757.41,515.04,242.37,Bank Transfer
+ORD-01205,2024-12-18,CUST-0076,P006,Standing Desk,Furniture,Office,East,Retail,3,549.79,0.0,1649.37,1121.57,527.8,Bank Transfer
+ORD-01206,2025-06-30,CUST-0155,P003,4K Monitor,Monitors,Electronics,North,Online,2,414.46,0.15,704.58,563.67,140.91,PayPal
+ORD-01207,2024-05-28,CUST-0235,P008,External SSD 1TB,Storage,Electronics,East,Online,4,125.32,0.1,451.15,340.87,110.28,Card
+ORD-01208,2025-07-13,CUST-0260,P012,Monitor Arm,Accessories,Office,East,Retail,1,96.7,0.0,96.7,65.76,30.94,PayPal
+ORD-01209,2025-08-10,CUST-0076,P005,Office Chair,Furniture,Office,West,Retail,1,289.56,0.05,275.08,196.9,78.18,Bank Transfer
+ORD-01210,2025-05-05,CUST-0021,P002,Wireless Headphones,Accessories,Electronics,South,Online,1,133.15,0.1,119.84,90.54,29.3,PayPal
+ORD-01211,2025-02-15,CUST-0113,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1137.5,0.1,1023.75,773.5,250.25,Card
+ORD-01212,2024-02-26,CUST-0100,P006,Standing Desk,Furniture,Office,South,Retail,2,484.33,0.0,968.66,658.69,309.97,Card
+ORD-01213,2024-03-26,CUST-0276,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1144.29,0.0,1144.29,778.12,366.17,Bank Transfer
+ORD-01214,2024-07-18,CUST-0252,P007,Desk Lamp,Furniture,Office,East,Online,1,64.47,0.0,64.47,43.84,20.63,Bank Transfer
+ORD-01215,2025-02-11,CUST-0076,P006,Standing Desk,Furniture,Office,West,Retail,1,519.9,0.0,519.9,353.53,166.37,PayPal
+ORD-01216,2024-01-13,CUST-0146,P006,Standing Desk,Furniture,Office,East,Retail,1,492.97,0.0,492.97,335.22,157.75,PayPal
+ORD-01217,2025-07-28,CUST-0045,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,133.07,0.1,119.76,90.49,29.27,Bank Transfer
+ORD-01218,2025-03-29,CUST-0148,P007,Desk Lamp,Furniture,Office,South,Retail,1,68.73,0.0,68.73,46.74,21.99,Bank Transfer
+ORD-01219,2024-05-22,CUST-0045,P007,Desk Lamp,Furniture,Office,South,Online,1,68.16,0.05,64.75,46.35,18.4,PayPal
+ORD-01220,2025-06-21,CUST-0172,P008,External SSD 1TB,Storage,Electronics,North,Retail,1,114.21,0.05,108.5,77.66,30.84,Card
+ORD-01221,2025-02-23,CUST-0140,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1176.55,0.0,1176.55,800.05,376.5,Bank Transfer
+ORD-01222,2025-12-28,CUST-0291,P008,External SSD 1TB,Storage,Electronics,South,Online,1,119.22,0.05,113.26,81.07,32.19,Card
+ORD-01223,2024-10-23,CUST-0284,P007,Desk Lamp,Furniture,Office,West,Online,2,69.68,0.15,118.46,94.76,23.7,PayPal
+ORD-01224,2024-11-07,CUST-0253,P010,Webcam HD,Accessories,Electronics,West,Online,1,74.32,0.1,66.89,50.54,16.35,Card
+ORD-01225,2024-06-06,CUST-0135,P001,Laptop Pro 14,Computers,Electronics,East,Retail,2,1284.49,0.15,2183.63,1746.91,436.72,Card
+ORD-01226,2025-11-12,CUST-0148,P011,Notebook Pack,Stationery,Office,West,Online,3,17.79,0.0,53.37,36.29,17.08,PayPal
+ORD-01227,2025-10-22,CUST-0126,P012,Monitor Arm,Accessories,Office,North,Online,2,100.4,0.0,200.8,136.54,64.26,PayPal
+ORD-01228,2024-03-09,CUST-0186,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,119.81,0.1,107.83,81.47,26.36,PayPal
+ORD-01229,2025-12-03,CUST-0244,P011,Notebook Pack,Stationery,Office,North,Retail,1,16.92,0.05,16.07,11.51,4.56,Bank Transfer
+ORD-01230,2025-08-12,CUST-0009,P012,Monitor Arm,Accessories,Office,East,Online,3,86.57,0.05,246.72,176.6,70.12,Bank Transfer
+ORD-01231,2024-05-29,CUST-0164,P001,Laptop Pro 14,Computers,Electronics,West,Online,3,1177.51,0.0,3532.53,2402.12,1130.41,PayPal
+ORD-01232,2024-02-24,CUST-0140,P003,4K Monitor,Monitors,Electronics,East,Retail,1,412.41,0.1,371.17,280.44,90.73,Bank Transfer
+ORD-01233,2024-02-19,CUST-0149,P006,Standing Desk,Furniture,Office,East,Online,1,553.25,0.0,553.25,376.21,177.04,Bank Transfer
+ORD-01234,2025-10-05,CUST-0094,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,2,100.55,0.0,201.1,136.75,64.35,Bank Transfer
+ORD-01235,2024-11-19,CUST-0155,P006,Standing Desk,Furniture,Office,East,Retail,1,535.17,0.15,454.89,363.92,90.97,Card
+ORD-01236,2025-08-16,CUST-0181,P009,USB-C Dock,Accessories,Electronics,South,Online,1,186.66,0.1,167.99,126.93,41.06,Card
+ORD-01237,2024-10-15,CUST-0191,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,162.29,0.1,146.06,110.36,35.7,PayPal
+ORD-01238,2024-04-14,CUST-0112,P003,4K Monitor,Monitors,Electronics,South,Online,2,421.26,0.0,842.52,572.91,269.61,Card
+ORD-01239,2025-09-20,CUST-0270,P009,USB-C Dock,Accessories,Electronics,North,Retail,4,188.73,0.0,754.92,513.35,241.57,PayPal
+ORD-01240,2024-04-29,CUST-0068,P002,Wireless Headphones,Accessories,Electronics,North,Retail,1,153.39,0.1,138.05,104.31,33.74,PayPal
+ORD-01241,2025-12-08,CUST-0186,P005,Office Chair,Furniture,Office,South,Retail,4,297.32,0.0,1189.28,808.71,380.57,Bank Transfer
+ORD-01242,2024-12-16,CUST-0089,P009,USB-C Dock,Accessories,Electronics,East,Online,2,174.76,0.0,349.52,237.67,111.85,Bank Transfer
+ORD-01243,2024-08-15,CUST-0066,P002,Wireless Headphones,Accessories,Electronics,South,Online,1,137.22,0.0,137.22,93.31,43.91,PayPal
+ORD-01244,2024-08-02,CUST-0067,P003,4K Monitor,Monitors,Electronics,North,Retail,1,410.99,0.0,410.99,279.47,131.52,Bank Transfer
+ORD-01245,2024-03-20,CUST-0010,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,140.62,0.1,126.56,95.62,30.94,Card
+ORD-01246,2024-04-20,CUST-0017,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,113.89,0.15,96.81,77.45,19.36,Card
+ORD-01247,2024-02-14,CUST-0034,P005,Office Chair,Furniture,Office,East,Online,1,277.86,0.0,277.86,188.94,88.92,Card
+ORD-01248,2025-09-08,CUST-0106,P002,Wireless Headphones,Accessories,Electronics,South,Online,3,148.21,0.0,444.63,302.35,142.28,Bank Transfer
+ORD-01249,2024-01-30,CUST-0047,P006,Standing Desk,Furniture,Office,South,Retail,2,500.93,0.05,951.77,681.26,270.51,Bank Transfer
+ORD-01250,2024-12-26,CUST-0083,P006,Standing Desk,Furniture,Office,South,Online,3,508.92,0.0,1526.76,1038.2,488.56,Card
+ORD-01251,2024-01-15,CUST-0271,P010,Webcam HD,Accessories,Electronics,South,Online,2,67.53,0.0,135.06,91.84,43.22,PayPal
+ORD-01252,2025-07-04,CUST-0003,P003,4K Monitor,Monitors,Electronics,North,Online,1,444.31,0.05,422.09,302.13,119.96,Bank Transfer
+ORD-01253,2025-05-01,CUST-0188,P012,Monitor Arm,Accessories,Office,South,Retail,3,87.09,0.0,261.27,177.66,83.61,Bank Transfer
+ORD-01254,2024-07-04,CUST-0182,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,151.74,0.0,151.74,103.18,48.56,Card
+ORD-01255,2024-08-21,CUST-0209,P009,USB-C Dock,Accessories,Electronics,North,Retail,1,174.75,0.0,174.75,118.83,55.92,Card
+ORD-01256,2024-04-22,CUST-0267,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,115.46,0.05,219.37,157.03,62.34,PayPal
+ORD-01257,2024-10-22,CUST-0286,P012,Monitor Arm,Accessories,Office,North,Online,1,90.16,0.05,85.65,61.31,24.34,PayPal
+ORD-01258,2024-04-28,CUST-0198,P008,External SSD 1TB,Storage,Electronics,East,Retail,4,119.19,0.0,476.76,324.2,152.56,Bank Transfer
+ORD-01259,2024-11-15,CUST-0228,P012,Monitor Arm,Accessories,Office,South,Retail,3,103.74,0.0,311.22,211.63,99.59,PayPal
+ORD-01260,2024-07-12,CUST-0036,P007,Desk Lamp,Furniture,Office,West,Retail,1,63.91,0.05,60.71,43.46,17.25,Card
+ORD-01261,2025-11-21,CUST-0252,P001,Laptop Pro 14,Computers,Electronics,North,Retail,3,1294.74,0.15,3301.59,2641.27,660.32,PayPal
+ORD-01262,2025-11-05,CUST-0044,P009,USB-C Dock,Accessories,Electronics,North,Online,4,169.33,0.1,609.59,460.58,149.01,PayPal
+ORD-01263,2025-12-12,CUST-0053,P007,Desk Lamp,Furniture,Office,South,Online,1,69.82,0.0,69.82,47.48,22.34,PayPal
+ORD-01264,2024-12-12,CUST-0103,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,1,119.79,0.0,119.79,81.46,38.33,Card
+ORD-01265,2025-05-26,CUST-0143,P007,Desk Lamp,Furniture,Office,East,Retail,1,70.63,0.05,67.1,48.03,19.07,PayPal
+ORD-01266,2025-11-13,CUST-0208,P008,External SSD 1TB,Storage,Electronics,West,Retail,4,129.8,0.0,519.2,353.06,166.14,Card
+ORD-01267,2024-04-20,CUST-0063,P008,External SSD 1TB,Storage,Electronics,East,Retail,4,131.62,0.0,526.48,358.01,168.47,PayPal
+ORD-01268,2025-10-05,CUST-0069,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,1,110.17,0.0,110.17,74.92,35.25,Bank Transfer
+ORD-01269,2024-03-10,CUST-0256,P001,Laptop Pro 14,Computers,Electronics,North,Online,2,1277.83,0.1,2300.09,1737.85,562.24,PayPal
+ORD-01270,2025-11-26,CUST-0168,P010,Webcam HD,Accessories,Electronics,South,Retail,1,74.61,0.0,74.61,50.73,23.88,Bank Transfer
+ORD-01271,2024-04-08,CUST-0040,P010,Webcam HD,Accessories,Electronics,West,Retail,4,70.83,0.15,240.82,192.66,48.16,Card
+ORD-01272,2025-11-08,CUST-0255,P005,Office Chair,Furniture,Office,West,Retail,1,252.56,0.0,252.56,171.74,80.82,Bank Transfer
+ORD-01273,2025-07-07,CUST-0280,P006,Standing Desk,Furniture,Office,North,Online,2,535.77,0.1,964.39,728.65,235.74,PayPal
+ORD-01274,2025-01-27,CUST-0231,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,154.96,0.1,278.93,210.75,68.18,PayPal
+ORD-01275,2024-02-06,CUST-0017,P008,External SSD 1TB,Storage,Electronics,South,Retail,1,119.64,0.0,119.64,81.36,38.28,Bank Transfer
+ORD-01276,2025-05-18,CUST-0221,P003,4K Monitor,Monitors,Electronics,South,Retail,4,393.41,0.05,1494.96,1070.08,424.88,Bank Transfer
+ORD-01277,2025-05-14,CUST-0057,P007,Desk Lamp,Furniture,Office,West,Retail,1,64.8,0.0,64.8,44.06,20.74,PayPal
+ORD-01278,2024-06-09,CUST-0260,P009,USB-C Dock,Accessories,Electronics,North,Retail,1,175.96,0.0,175.96,119.65,56.31,PayPal
+ORD-01279,2025-08-28,CUST-0194,P008,External SSD 1TB,Storage,Electronics,East,Retail,1,117.59,0.15,99.95,79.96,19.99,PayPal
+ORD-01280,2024-01-29,CUST-0024,P001,Laptop Pro 14,Computers,Electronics,South,Retail,3,1170.43,0.05,3335.73,2387.68,948.05,PayPal
+ORD-01281,2025-08-20,CUST-0014,P012,Monitor Arm,Accessories,Office,East,Retail,2,95.87,0.1,172.57,130.38,42.19,Card
+ORD-01282,2024-12-19,CUST-0183,P007,Desk Lamp,Furniture,Office,West,Retail,1,63.38,0.0,63.38,43.1,20.28,Card
+ORD-01283,2024-09-07,CUST-0127,P011,Notebook Pack,Stationery,Office,South,Retail,2,17.03,0.2,27.25,23.16,4.09,Bank Transfer
+ORD-01284,2025-12-05,CUST-0034,P002,Wireless Headphones,Accessories,Electronics,East,Online,2,139.81,0.05,265.64,190.14,75.5,PayPal
+ORD-01285,2024-01-21,CUST-0276,P003,4K Monitor,Monitors,Electronics,East,Online,1,439.26,0.0,439.26,298.7,140.56,PayPal
+ORD-01286,2025-03-08,CUST-0291,P011,Notebook Pack,Stationery,Office,West,Retail,1,17.55,0.1,15.8,11.93,3.87,Card
+ORD-01287,2025-04-25,CUST-0012,P012,Monitor Arm,Accessories,Office,East,Retail,2,97.98,0.1,176.36,133.25,43.11,Bank Transfer
+ORD-01288,2024-11-26,CUST-0294,P007,Desk Lamp,Furniture,Office,North,Retail,1,63.43,0.15,53.92,43.13,10.79,Card
+ORD-01289,2025-11-22,CUST-0106,P012,Monitor Arm,Accessories,Office,East,Retail,1,94.7,0.1,85.23,64.4,20.83,Bank Transfer
+ORD-01290,2024-12-13,CUST-0086,P011,Notebook Pack,Stationery,Office,East,Retail,2,16.54,0.05,31.43,22.49,8.94,PayPal
+ORD-01291,2025-05-23,CUST-0039,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,4,111.78,0.0,447.12,304.04,143.08,PayPal
+ORD-01292,2024-10-31,CUST-0294,P001,Laptop Pro 14,Computers,Electronics,West,Online,1,1320.49,0.05,1254.47,897.93,356.54,Bank Transfer
+ORD-01293,2024-04-04,CUST-0297,P012,Monitor Arm,Accessories,Office,North,Retail,2,98.37,0.0,196.74,133.78,62.96,PayPal
+ORD-01294,2025-08-03,CUST-0272,P002,Wireless Headphones,Accessories,Electronics,West,Retail,2,149.96,0.0,299.92,203.95,95.97,Card
+ORD-01295,2024-03-19,CUST-0155,P006,Standing Desk,Furniture,Office,East,Retail,2,476.33,0.1,857.39,647.81,209.58,Bank Transfer
+ORD-01296,2024-11-16,CUST-0103,P009,USB-C Dock,Accessories,Electronics,West,Retail,1,176.07,0.0,176.07,119.73,56.34,PayPal
+ORD-01297,2025-06-11,CUST-0233,P010,Webcam HD,Accessories,Electronics,South,Online,1,78.88,0.15,67.05,53.64,13.41,Bank Transfer
+ORD-01298,2025-06-12,CUST-0096,P012,Monitor Arm,Accessories,Office,West,Online,1,100.21,0.0,100.21,68.14,32.07,Bank Transfer
+ORD-01299,2025-04-23,CUST-0138,P012,Monitor Arm,Accessories,Office,West,Online,1,97.52,0.05,92.64,66.31,26.33,Bank Transfer
+ORD-01300,2025-01-08,CUST-0237,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,1,108.13,0.0,108.13,73.53,34.6,Card
+ORD-01301,2025-12-02,CUST-0154,P012,Monitor Arm,Accessories,Office,West,Retail,1,89.34,0.0,89.34,60.75,28.59,PayPal
+ORD-01302,2025-10-11,CUST-0105,P002,Wireless Headphones,Accessories,Electronics,West,Retail,1,147.89,0.0,147.89,100.57,47.32,PayPal
+ORD-01303,2024-06-13,CUST-0132,P011,Notebook Pack,Stationery,Office,South,Retail,1,19.47,0.0,19.47,13.24,6.23,Card
+ORD-01304,2024-06-02,CUST-0099,P002,Wireless Headphones,Accessories,Electronics,North,Online,2,146.68,0.1,264.02,199.48,64.54,PayPal
+ORD-01305,2025-05-12,CUST-0287,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,122.07,0.1,109.86,83.01,26.85,Bank Transfer
+ORD-01306,2024-07-25,CUST-0082,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1364.62,0.05,1296.39,927.94,368.45,Card
+ORD-01307,2024-10-11,CUST-0282,P005,Office Chair,Furniture,Office,South,Online,1,290.77,0.0,290.77,197.72,93.05,Bank Transfer
+ORD-01308,2024-01-21,CUST-0029,P008,External SSD 1TB,Storage,Electronics,North,Retail,4,131.21,0.05,498.6,356.89,141.71,Bank Transfer
+ORD-01309,2024-03-06,CUST-0209,P005,Office Chair,Furniture,Office,East,Online,2,267.09,0.0,534.18,363.24,170.94,PayPal
+ORD-01310,2024-05-23,CUST-0121,P012,Monitor Arm,Accessories,Office,North,Online,2,90.79,0.05,172.5,123.47,49.03,Bank Transfer
+ORD-01311,2025-08-17,CUST-0269,P011,Notebook Pack,Stationery,Office,East,Retail,1,17.15,0.05,16.29,11.66,4.63,Card
+ORD-01312,2025-09-06,CUST-0063,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,4,117.08,0.1,421.49,318.46,103.03,Bank Transfer
+ORD-01313,2025-02-03,CUST-0121,P012,Monitor Arm,Accessories,Office,West,Online,4,100.45,0.2,321.44,273.22,48.22,Card
+ORD-01314,2024-06-28,CUST-0110,P002,Wireless Headphones,Accessories,Electronics,East,Retail,1,141.18,0.1,127.06,96.0,31.06,PayPal
+ORD-01315,2025-08-26,CUST-0029,P005,Office Chair,Furniture,Office,West,Retail,2,277.98,0.0,555.96,378.05,177.91,Bank Transfer
+ORD-01316,2024-11-20,CUST-0280,P002,Wireless Headphones,Accessories,Electronics,West,Retail,3,156.0,0.0,468.0,318.24,149.76,Bank Transfer
+ORD-01317,2024-10-11,CUST-0075,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,112.86,0.1,101.57,76.74,24.83,Bank Transfer
+ORD-01318,2024-11-11,CUST-0011,P006,Standing Desk,Furniture,Office,North,Online,3,491.95,0.1,1328.26,1003.58,324.68,Bank Transfer
+ORD-01319,2024-09-02,CUST-0130,P011,Notebook Pack,Stationery,Office,West,Retail,3,17.37,0.15,44.29,35.43,8.86,Bank Transfer
+ORD-01320,2025-01-06,CUST-0063,P012,Monitor Arm,Accessories,Office,South,Retail,2,98.17,0.0,196.34,133.51,62.83,PayPal
+ORD-01321,2025-02-06,CUST-0131,P001,Laptop Pro 14,Computers,Electronics,East,Online,1,1187.25,0.1,1068.53,807.33,261.2,Card
+ORD-01322,2024-08-03,CUST-0083,P005,Office Chair,Furniture,Office,West,Retail,3,306.17,0.1,826.66,624.59,202.07,Bank Transfer
+ORD-01323,2024-02-04,CUST-0141,P007,Desk Lamp,Furniture,Office,North,Retail,1,62.75,0.2,50.2,42.67,7.53,PayPal
+ORD-01324,2025-02-26,CUST-0171,P012,Monitor Arm,Accessories,Office,West,Online,4,98.31,0.1,353.92,267.4,86.52,Card
+ORD-01325,2024-09-24,CUST-0260,P012,Monitor Arm,Accessories,Office,North,Retail,1,90.09,0.2,72.07,61.26,10.81,PayPal
+ORD-01326,2025-07-14,CUST-0168,P010,Webcam HD,Accessories,Electronics,West,Online,4,72.27,0.0,289.08,196.57,92.51,Card
+ORD-01327,2025-10-18,CUST-0095,P011,Notebook Pack,Stationery,Office,West,Online,1,17.5,0.0,17.5,11.9,5.6,Card
+ORD-01328,2024-07-23,CUST-0157,P007,Desk Lamp,Furniture,Office,East,Online,1,58.68,0.0,58.68,39.9,18.78,Card
+ORD-01329,2024-09-12,CUST-0265,P003,4K Monitor,Monitors,Electronics,South,Retail,2,397.49,0.1,715.48,540.59,174.89,PayPal
+ORD-01330,2025-05-04,CUST-0069,P008,External SSD 1TB,Storage,Electronics,East,Online,3,135.42,0.0,406.26,276.26,130.0,Bank Transfer
+ORD-01331,2024-12-01,CUST-0145,P010,Webcam HD,Accessories,Electronics,South,Online,1,68.08,0.1,61.27,46.29,14.98,PayPal
+ORD-01332,2024-07-05,CUST-0202,P006,Standing Desk,Furniture,Office,West,Online,4,459.55,0.05,1746.29,1249.98,496.31,Card
+ORD-01333,2025-07-25,CUST-0118,P001,Laptop Pro 14,Computers,Electronics,North,Retail,1,1341.11,0.05,1274.05,911.95,362.1,Card
+ORD-01334,2025-12-19,CUST-0087,P005,Office Chair,Furniture,Office,North,Retail,1,255.88,0.0,255.88,174.0,81.88,Bank Transfer
+ORD-01335,2025-09-06,CUST-0134,P007,Desk Lamp,Furniture,Office,South,Online,2,64.25,0.1,115.65,87.38,28.27,PayPal
+ORD-01336,2025-08-03,CUST-0061,P003,4K Monitor,Monitors,Electronics,North,Retail,1,426.62,0.0,426.62,290.1,136.52,PayPal
+ORD-01337,2025-05-21,CUST-0061,P011,Notebook Pack,Stationery,Office,South,Online,1,17.56,0.15,14.93,11.94,2.99,Card
+ORD-01338,2024-10-21,CUST-0254,P005,Office Chair,Furniture,Office,West,Online,1,281.55,0.0,281.55,191.45,90.1,PayPal
+ORD-01339,2025-09-06,CUST-0111,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,108.75,0.05,103.31,73.95,29.36,PayPal
+ORD-01340,2025-02-22,CUST-0075,P003,4K Monitor,Monitors,Electronics,North,Retail,1,445.57,0.05,423.29,302.99,120.3,PayPal
+ORD-01341,2025-09-24,CUST-0231,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,2,110.09,0.15,187.15,149.72,37.43,Bank Transfer
+ORD-01342,2025-10-24,CUST-0235,P011,Notebook Pack,Stationery,Office,North,Online,1,17.5,0.1,15.75,11.9,3.85,PayPal
+ORD-01343,2024-11-27,CUST-0204,P003,4K Monitor,Monitors,Electronics,South,Retail,3,457.1,0.0,1371.3,932.48,438.82,Bank Transfer
+ORD-01344,2025-09-03,CUST-0132,P007,Desk Lamp,Furniture,Office,North,Online,2,59.21,0.05,112.5,80.53,31.97,Bank Transfer
+ORD-01345,2024-02-23,CUST-0171,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1287.16,0.1,1158.44,875.27,283.17,PayPal
+ORD-01346,2025-11-17,CUST-0024,P010,Webcam HD,Accessories,Electronics,North,Retail,1,78.72,0.05,74.78,53.53,21.25,Bank Transfer
+ORD-01347,2025-01-25,CUST-0155,P010,Webcam HD,Accessories,Electronics,West,Retail,4,70.19,0.05,266.72,190.92,75.8,Card
+ORD-01348,2024-02-12,CUST-0298,P009,USB-C Dock,Accessories,Electronics,South,Retail,2,182.87,0.0,365.74,248.7,117.04,Card
+ORD-01349,2025-05-19,CUST-0174,P009,USB-C Dock,Accessories,Electronics,West,Online,1,168.11,0.1,151.3,114.31,36.99,Card
+ORD-01350,2025-12-28,CUST-0272,P006,Standing Desk,Furniture,Office,West,Online,2,461.55,0.1,830.79,627.71,203.08,PayPal
+ORD-01351,2024-11-16,CUST-0023,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,154.81,0.1,139.33,105.27,34.06,PayPal
+ORD-01352,2025-01-04,CUST-0221,P012,Monitor Arm,Accessories,Office,East,Retail,3,102.79,0.1,277.53,209.69,67.84,Bank Transfer
+ORD-01353,2025-06-13,CUST-0161,P005,Office Chair,Furniture,Office,West,Online,2,274.51,0.05,521.57,373.33,148.24,PayPal
+ORD-01354,2025-05-18,CUST-0078,P012,Monitor Arm,Accessories,Office,West,Online,2,101.34,0.05,192.55,137.82,54.73,Card
+ORD-01355,2024-02-25,CUST-0118,P003,4K Monitor,Monitors,Electronics,South,Online,1,426.99,0.15,362.94,290.35,72.59,PayPal
+ORD-01356,2024-06-16,CUST-0240,P005,Office Chair,Furniture,Office,West,Online,2,254.91,0.0,509.82,346.68,163.14,PayPal
+ORD-01357,2025-03-28,CUST-0183,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1146.14,0.0,2292.28,1558.75,733.53,PayPal
+ORD-01358,2024-05-31,CUST-0064,P002,Wireless Headphones,Accessories,Electronics,East,Online,2,156.1,0.15,265.37,212.3,53.07,Card
+ORD-01359,2024-07-03,CUST-0087,P005,Office Chair,Furniture,Office,East,Online,3,280.09,0.05,798.26,571.38,226.88,Bank Transfer
+ORD-01360,2025-06-22,CUST-0293,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1174.16,0.15,998.04,798.43,199.61,Card
+ORD-01361,2025-05-25,CUST-0049,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,2,118.46,0.1,213.23,161.11,52.12,PayPal
+ORD-01362,2025-11-27,CUST-0063,P011,Notebook Pack,Stationery,Office,West,Retail,1,16.31,0.2,13.05,11.09,1.96,Bank Transfer
+ORD-01363,2024-11-27,CUST-0079,P002,Wireless Headphones,Accessories,Electronics,North,Online,1,147.99,0.1,133.19,100.63,32.56,PayPal
+ORD-01364,2025-11-06,CUST-0246,P012,Monitor Arm,Accessories,Office,West,Retail,1,101.6,0.05,96.52,69.09,27.43,Bank Transfer
+ORD-01365,2024-01-06,CUST-0169,P011,Notebook Pack,Stationery,Office,North,Retail,3,17.45,0.0,52.35,35.6,16.75,PayPal
+ORD-01366,2025-08-05,CUST-0067,P012,Monitor Arm,Accessories,Office,South,Online,2,101.02,0.2,161.63,137.39,24.24,Bank Transfer
+ORD-01367,2024-11-26,CUST-0029,P005,Office Chair,Furniture,Office,North,Retail,1,256.77,0.15,218.25,174.6,43.65,Card
+ORD-01368,2024-09-18,CUST-0092,P007,Desk Lamp,Furniture,Office,South,Retail,1,63.91,0.1,57.52,43.46,14.06,Card
+ORD-01369,2024-08-01,CUST-0084,P001,Laptop Pro 14,Computers,Electronics,West,Retail,1,1242.28,0.0,1242.28,844.75,397.53,PayPal
+ORD-01370,2025-10-31,CUST-0079,P011,Notebook Pack,Stationery,Office,North,Retail,3,16.47,0.15,42.0,33.6,8.4,PayPal
+ORD-01371,2024-11-13,CUST-0068,P007,Desk Lamp,Furniture,Office,East,Online,4,71.15,0.0,284.6,193.53,91.07,PayPal
+ORD-01372,2024-07-23,CUST-0251,P009,USB-C Dock,Accessories,Electronics,West,Retail,3,166.12,0.0,498.36,338.88,159.48,PayPal
+ORD-01373,2025-07-30,CUST-0217,P005,Office Chair,Furniture,Office,North,Retail,2,296.7,0.0,593.4,403.51,189.89,PayPal
+ORD-01374,2024-07-09,CUST-0223,P010,Webcam HD,Accessories,Electronics,West,Online,3,70.8,0.05,201.78,144.43,57.35,Card
+ORD-01375,2024-12-15,CUST-0238,P009,USB-C Dock,Accessories,Electronics,South,Online,2,175.16,0.1,315.29,238.22,77.07,PayPal
+ORD-01376,2025-10-06,CUST-0269,P009,USB-C Dock,Accessories,Electronics,North,Retail,2,164.25,0.1,295.65,223.38,72.27,PayPal
+ORD-01377,2024-03-22,CUST-0245,P007,Desk Lamp,Furniture,Office,East,Online,2,70.18,0.0,140.36,95.44,44.92,Card
+ORD-01378,2024-11-03,CUST-0128,P011,Notebook Pack,Stationery,Office,West,Retail,1,19.31,0.0,19.31,13.13,6.18,Bank Transfer
+ORD-01379,2025-07-18,CUST-0040,P001,Laptop Pro 14,Computers,Electronics,North,Online,4,1149.65,0.0,4598.6,3127.05,1471.55,Bank Transfer
+ORD-01380,2025-02-26,CUST-0049,P007,Desk Lamp,Furniture,Office,West,Retail,4,65.82,0.0,263.28,179.03,84.25,PayPal
+ORD-01381,2025-08-22,CUST-0042,P005,Office Chair,Furniture,Office,North,Online,3,284.52,0.0,853.56,580.42,273.14,Bank Transfer
+ORD-01382,2025-04-18,CUST-0092,P011,Notebook Pack,Stationery,Office,South,Retail,3,16.21,0.0,48.63,33.07,15.56,Card
+ORD-01383,2025-03-02,CUST-0153,P002,Wireless Headphones,Accessories,Electronics,East,Retail,2,132.89,0.05,252.49,180.73,71.76,Bank Transfer
+ORD-01384,2025-09-30,CUST-0136,P008,External SSD 1TB,Storage,Electronics,East,Online,4,122.39,0.2,391.65,332.9,58.75,Card
+ORD-01385,2024-03-21,CUST-0133,P003,4K Monitor,Monitors,Electronics,North,Retail,4,413.16,0.0,1652.64,1123.8,528.84,Bank Transfer
+ORD-01386,2024-01-06,CUST-0203,P001,Laptop Pro 14,Computers,Electronics,North,Online,1,1211.77,0.0,1211.77,824.0,387.77,Card
+ORD-01387,2025-05-03,CUST-0236,P011,Notebook Pack,Stationery,Office,West,Retail,1,19.0,0.1,17.1,12.92,4.18,PayPal
+ORD-01388,2025-09-23,CUST-0185,P010,Webcam HD,Accessories,Electronics,West,Retail,4,68.17,0.0,272.68,185.42,87.26,Card
+ORD-01389,2024-05-18,CUST-0008,P003,4K Monitor,Monitors,Electronics,South,Online,4,461.11,0.1,1660.0,1254.22,405.78,Card
+ORD-01390,2024-07-11,CUST-0014,P012,Monitor Arm,Accessories,Office,South,Retail,1,85.8,0.15,72.93,58.34,14.59,Bank Transfer
+ORD-01391,2025-10-27,CUST-0124,P003,4K Monitor,Monitors,Electronics,West,Online,2,440.3,0.05,836.57,598.81,237.76,Card
+ORD-01392,2025-04-19,CUST-0076,P005,Office Chair,Furniture,Office,West,Retail,4,290.47,0.05,1103.79,790.08,313.71,Card
+ORD-01393,2024-06-19,CUST-0079,P002,Wireless Headphones,Accessories,Electronics,West,Retail,2,155.43,0.0,310.86,211.38,99.48,PayPal
+ORD-01394,2025-04-05,CUST-0300,P001,Laptop Pro 14,Computers,Electronics,South,Online,1,1299.63,0.0,1299.63,883.75,415.88,PayPal
+ORD-01395,2025-02-05,CUST-0027,P010,Webcam HD,Accessories,Electronics,East,Online,1,69.39,0.1,62.45,47.19,15.26,Card
+ORD-01396,2025-12-31,CUST-0222,P011,Notebook Pack,Stationery,Office,West,Retail,2,19.14,0.15,32.54,26.03,6.51,Bank Transfer
+ORD-01397,2025-09-02,CUST-0284,P010,Webcam HD,Accessories,Electronics,East,Online,3,76.19,0.05,217.14,155.43,61.71,PayPal
+ORD-01398,2025-05-12,CUST-0263,P007,Desk Lamp,Furniture,Office,West,Online,1,63.74,0.15,54.18,43.34,10.84,Bank Transfer
+ORD-01399,2025-06-24,CUST-0010,P001,Laptop Pro 14,Computers,Electronics,West,Retail,2,1218.04,0.05,2314.28,1656.53,657.75,Bank Transfer
+ORD-01400,2024-10-01,CUST-0214,P002,Wireless Headphones,Accessories,Electronics,West,Online,1,147.06,0.0,147.06,100.0,47.06,PayPal
+ORD-01401,2025-10-23,CUST-0178,P010,Webcam HD,Accessories,Electronics,West,Retail,2,80.31,0.0,160.62,109.22,51.4,Card
+ORD-01402,2024-10-21,CUST-0099,P003,4K Monitor,Monitors,Electronics,West,Retail,1,447.36,0.0,447.36,304.2,143.16,PayPal
+ORD-01403,2025-06-03,CUST-0113,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,3,111.69,0.05,318.32,227.85,90.47,Card
+ORD-01404,2025-12-29,CUST-0200,P005,Office Chair,Furniture,Office,West,Retail,4,260.01,0.05,988.04,707.23,280.81,PayPal
+ORD-01405,2025-09-28,CUST-0107,P003,4K Monitor,Monitors,Electronics,East,Online,3,456.87,0.0,1370.61,932.01,438.6,Bank Transfer
+ORD-01406,2024-05-12,CUST-0089,P008,External SSD 1TB,Storage,Electronics,South,Online,1,130.74,0.0,130.74,88.9,41.84,Bank Transfer
+ORD-01407,2024-04-13,CUST-0213,P008,External SSD 1TB,Storage,Electronics,West,Retail,2,116.88,0.1,210.38,158.96,51.42,Card
+ORD-01408,2025-07-24,CUST-0025,P004,Mechanical Keyboard,Accessories,Electronics,North,Retail,1,104.56,0.0,104.56,71.1,33.46,PayPal
+ORD-01409,2025-11-24,CUST-0082,P006,Standing Desk,Furniture,Office,South,Online,2,484.47,0.15,823.6,658.88,164.72,Card
+ORD-01410,2025-03-16,CUST-0059,P006,Standing Desk,Furniture,Office,South,Online,3,522.59,0.1,1410.99,1066.08,344.91,Bank Transfer
+ORD-01411,2025-05-13,CUST-0133,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,112.8,0.1,101.52,76.7,24.82,Card
+ORD-01412,2024-09-30,CUST-0078,P009,USB-C Dock,Accessories,Electronics,North,Online,2,171.55,0.0,343.1,233.31,109.79,PayPal
+ORD-01413,2024-04-23,CUST-0055,P008,External SSD 1TB,Storage,Electronics,North,Online,1,114.84,0.0,114.84,78.09,36.75,Bank Transfer
+ORD-01414,2024-06-20,CUST-0061,P002,Wireless Headphones,Accessories,Electronics,South,Retail,1,158.01,0.0,158.01,107.45,50.56,Card
+ORD-01415,2024-10-26,CUST-0227,P012,Monitor Arm,Accessories,Office,West,Online,4,89.44,0.0,357.76,243.28,114.48,Card
+ORD-01416,2025-01-07,CUST-0172,P011,Notebook Pack,Stationery,Office,South,Online,1,18.32,0.1,16.49,12.46,4.03,Card
+ORD-01417,2025-03-01,CUST-0004,P008,External SSD 1TB,Storage,Electronics,South,Retail,2,131.51,0.05,249.87,178.85,71.02,PayPal
+ORD-01418,2025-06-01,CUST-0088,P005,Office Chair,Furniture,Office,North,Retail,4,276.08,0.05,1049.1,750.94,298.16,PayPal
+ORD-01419,2025-02-28,CUST-0185,P012,Monitor Arm,Accessories,Office,South,Online,1,103.27,0.1,92.94,70.22,22.72,Bank Transfer
+ORD-01420,2024-08-21,CUST-0071,P007,Desk Lamp,Furniture,Office,West,Retail,1,69.26,0.0,69.26,47.1,22.16,PayPal
+ORD-01421,2025-06-12,CUST-0186,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,131.57,0.1,236.83,178.94,57.89,Card
+ORD-01422,2025-06-13,CUST-0036,P001,Laptop Pro 14,Computers,Electronics,North,Retail,4,1181.69,0.05,4490.42,3214.2,1276.22,PayPal
+ORD-01423,2024-06-17,CUST-0223,P007,Desk Lamp,Furniture,Office,North,Retail,4,65.13,0.15,221.44,177.15,44.29,Card
+ORD-01424,2025-10-18,CUST-0078,P011,Notebook Pack,Stationery,Office,North,Retail,4,18.45,0.0,73.8,50.18,23.62,PayPal
+ORD-01425,2025-11-28,CUST-0284,P007,Desk Lamp,Furniture,Office,East,Retail,3,64.2,0.05,182.97,130.97,52.0,PayPal
+ORD-01426,2024-10-13,CUST-0271,P001,Laptop Pro 14,Computers,Electronics,South,Retail,3,1324.0,0.2,3177.6,2700.96,476.64,PayPal
+ORD-01427,2024-07-29,CUST-0279,P011,Notebook Pack,Stationery,Office,West,Retail,1,17.05,0.0,17.05,11.59,5.46,Bank Transfer
+ORD-01428,2024-07-21,CUST-0155,P007,Desk Lamp,Furniture,Office,North,Online,4,68.55,0.05,260.49,186.46,74.03,Bank Transfer
+ORD-01429,2025-02-03,CUST-0065,P006,Standing Desk,Furniture,Office,East,Online,1,487.67,0.05,463.29,331.62,131.67,Card
+ORD-01430,2025-07-19,CUST-0160,P009,USB-C Dock,Accessories,Electronics,East,Online,3,183.99,0.1,496.77,375.34,121.43,Card
+ORD-01431,2025-07-06,CUST-0133,P001,Laptop Pro 14,Computers,Electronics,South,Retail,1,1312.69,0.0,1312.69,892.63,420.06,Bank Transfer
+ORD-01432,2025-06-01,CUST-0057,P007,Desk Lamp,Furniture,Office,North,Retail,1,61.24,0.1,55.12,41.64,13.48,PayPal
+ORD-01433,2025-06-03,CUST-0182,P011,Notebook Pack,Stationery,Office,North,Online,1,18.24,0.1,16.42,12.4,4.02,Bank Transfer
+ORD-01434,2025-04-04,CUST-0153,P002,Wireless Headphones,Accessories,Electronics,North,Retail,4,141.11,0.15,479.77,383.82,95.95,PayPal
+ORD-01435,2025-08-18,CUST-0290,P004,Mechanical Keyboard,Accessories,Electronics,South,Retail,3,117.19,0.0,351.57,239.07,112.5,PayPal
+ORD-01436,2025-11-13,CUST-0294,P005,Office Chair,Furniture,Office,South,Retail,3,267.84,0.0,803.52,546.39,257.13,Bank Transfer
+ORD-01437,2024-09-10,CUST-0054,P012,Monitor Arm,Accessories,Office,East,Online,1,86.07,0.0,86.07,58.53,27.54,PayPal
+ORD-01438,2024-04-10,CUST-0076,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,113.54,0.0,113.54,77.21,36.33,Card
+ORD-01439,2024-03-04,CUST-0218,P002,Wireless Headphones,Accessories,Electronics,South,Retail,4,148.23,0.0,592.92,403.19,189.73,Card
+ORD-01440,2024-03-20,CUST-0190,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,119.89,0.0,119.89,81.53,38.36,PayPal
+ORD-01441,2025-05-25,CUST-0217,P010,Webcam HD,Accessories,Electronics,West,Retail,3,80.77,0.15,205.96,164.77,41.19,Bank Transfer
+ORD-01442,2024-06-15,CUST-0074,P007,Desk Lamp,Furniture,Office,South,Retail,2,70.37,0.0,140.74,95.7,45.04,Bank Transfer
+ORD-01443,2024-05-12,CUST-0263,P008,External SSD 1TB,Storage,Electronics,North,Online,2,112.76,0.2,180.42,153.35,27.07,PayPal
+ORD-01444,2024-02-03,CUST-0081,P008,External SSD 1TB,Storage,Electronics,East,Online,1,128.07,0.1,115.26,87.09,28.17,Bank Transfer
+ORD-01445,2024-04-22,CUST-0062,P007,Desk Lamp,Furniture,Office,East,Retail,3,62.12,0.1,167.72,126.72,41.0,Card
+ORD-01446,2024-06-05,CUST-0061,P009,USB-C Dock,Accessories,Electronics,East,Retail,3,177.94,0.0,533.82,363.0,170.82,PayPal
+ORD-01447,2024-10-28,CUST-0249,P005,Office Chair,Furniture,Office,North,Online,1,307.53,0.0,307.53,209.12,98.41,Card
+ORD-01448,2025-03-07,CUST-0025,P010,Webcam HD,Accessories,Electronics,East,Retail,1,70.29,0.15,59.75,47.8,11.95,Card
+ORD-01449,2025-05-15,CUST-0002,P003,4K Monitor,Monitors,Electronics,North,Retail,1,383.19,0.15,325.71,260.57,65.14,Card
+ORD-01450,2025-03-03,CUST-0247,P001,Laptop Pro 14,Computers,Electronics,East,Retail,1,1302.53,0.0,1302.53,885.72,416.81,PayPal
+ORD-01451,2025-05-01,CUST-0068,P007,Desk Lamp,Furniture,Office,South,Retail,4,71.08,0.0,284.32,193.34,90.98,PayPal
+ORD-01452,2025-04-04,CUST-0077,P011,Notebook Pack,Stationery,Office,East,Online,1,16.88,0.15,14.35,11.48,2.87,Bank Transfer
+ORD-01453,2025-09-30,CUST-0210,P011,Notebook Pack,Stationery,Office,West,Online,3,19.46,0.0,58.38,39.7,18.68,PayPal
+ORD-01454,2025-07-07,CUST-0024,P006,Standing Desk,Furniture,Office,West,Retail,2,517.94,0.1,932.29,704.4,227.89,Bank Transfer
+ORD-01455,2024-06-18,CUST-0013,P002,Wireless Headphones,Accessories,Electronics,East,Online,1,133.83,0.0,133.83,91.0,42.83,Bank Transfer
+ORD-01456,2024-03-28,CUST-0099,P009,USB-C Dock,Accessories,Electronics,North,Online,1,162.25,0.0,162.25,110.33,51.92,PayPal
+ORD-01457,2024-01-20,CUST-0062,P009,USB-C Dock,Accessories,Electronics,South,Online,2,170.98,0.15,290.67,232.53,58.14,PayPal
+ORD-01458,2024-09-08,CUST-0297,P004,Mechanical Keyboard,Accessories,Electronics,West,Online,4,118.46,0.0,473.84,322.21,151.63,Bank Transfer
+ORD-01459,2024-11-24,CUST-0206,P010,Webcam HD,Accessories,Electronics,North,Retail,2,71.93,0.1,129.47,97.82,31.65,Card
+ORD-01460,2025-03-23,CUST-0093,P006,Standing Desk,Furniture,Office,West,Online,4,503.89,0.0,2015.56,1370.58,644.98,Bank Transfer
+ORD-01461,2025-01-26,CUST-0132,P006,Standing Desk,Furniture,Office,North,Online,1,493.89,0.0,493.89,335.85,158.04,Card
+ORD-01462,2024-06-21,CUST-0147,P009,USB-C Dock,Accessories,Electronics,South,Online,1,191.61,0.15,162.87,130.29,32.58,PayPal
+ORD-01463,2024-06-06,CUST-0158,P002,Wireless Headphones,Accessories,Electronics,West,Online,2,145.91,0.1,262.64,198.44,64.2,Card
+ORD-01464,2024-11-29,CUST-0093,P010,Webcam HD,Accessories,Electronics,North,Online,3,81.75,0.1,220.72,166.77,53.95,PayPal
+ORD-01465,2024-04-11,CUST-0164,P007,Desk Lamp,Furniture,Office,South,Retail,3,64.14,0.05,182.8,130.85,51.95,PayPal
+ORD-01466,2025-01-19,CUST-0062,P005,Office Chair,Furniture,Office,North,Online,2,273.85,0.05,520.32,372.44,147.88,Card
+ORD-01467,2025-08-23,CUST-0122,P010,Webcam HD,Accessories,Electronics,West,Retail,3,72.66,0.15,185.28,148.23,37.05,Card
+ORD-01468,2024-03-03,CUST-0163,P005,Office Chair,Furniture,Office,West,Retail,4,284.56,0.0,1138.24,774.0,364.24,Card
+ORD-01469,2024-01-30,CUST-0209,P008,External SSD 1TB,Storage,Electronics,South,Online,2,126.67,0.1,228.01,172.27,55.74,PayPal
+ORD-01470,2025-08-23,CUST-0052,P009,USB-C Dock,Accessories,Electronics,South,Online,4,176.79,0.1,636.44,480.87,155.57,PayPal
+ORD-01471,2025-02-20,CUST-0229,P010,Webcam HD,Accessories,Electronics,North,Online,1,67.66,0.0,67.66,46.01,21.65,Card
+ORD-01472,2025-07-07,CUST-0087,P006,Standing Desk,Furniture,Office,South,Retail,4,538.56,0.0,2154.24,1464.88,689.36,Bank Transfer
+ORD-01473,2024-02-12,CUST-0001,P008,External SSD 1TB,Storage,Electronics,West,Retail,1,124.1,0.05,117.89,84.39,33.5,Bank Transfer
+ORD-01474,2024-01-01,CUST-0031,P003,4K Monitor,Monitors,Electronics,West,Retail,1,396.03,0.2,316.82,269.3,47.52,Bank Transfer
+ORD-01475,2025-11-27,CUST-0195,P005,Office Chair,Furniture,Office,East,Online,1,295.88,0.15,251.5,201.2,50.3,Bank Transfer
+ORD-01476,2024-10-15,CUST-0024,P009,USB-C Dock,Accessories,Electronics,South,Online,2,193.08,0.05,366.85,262.59,104.26,PayPal
+ORD-01477,2025-02-08,CUST-0063,P002,Wireless Headphones,Accessories,Electronics,South,Retail,2,135.5,0.0,271.0,184.28,86.72,PayPal
+ORD-01478,2025-09-17,CUST-0259,P004,Mechanical Keyboard,Accessories,Electronics,East,Retail,1,111.35,0.1,100.22,75.72,24.5,Bank Transfer
+ORD-01479,2025-12-25,CUST-0232,P005,Office Chair,Furniture,Office,East,Online,2,307.08,0.1,552.74,417.63,135.11,Bank Transfer
+ORD-01480,2024-12-15,CUST-0108,P006,Standing Desk,Furniture,Office,West,Retail,1,538.77,0.0,538.77,366.36,172.41,Card
+ORD-01481,2024-05-16,CUST-0002,P012,Monitor Arm,Accessories,Office,West,Online,4,87.7,0.0,350.8,238.54,112.26,Card
+ORD-01482,2024-06-26,CUST-0212,P011,Notebook Pack,Stationery,Office,West,Retail,1,17.85,0.1,16.07,12.14,3.93,Bank Transfer
+ORD-01483,2025-10-26,CUST-0040,P002,Wireless Headphones,Accessories,Electronics,North,Retail,2,137.83,0.05,261.88,187.45,74.43,Bank Transfer
+ORD-01484,2024-12-27,CUST-0193,P002,Wireless Headphones,Accessories,Electronics,East,Retail,4,156.53,0.1,563.51,425.76,137.75,Card
+ORD-01485,2024-01-09,CUST-0064,P012,Monitor Arm,Accessories,Office,West,Retail,4,94.57,0.1,340.45,257.23,83.22,Card
+ORD-01486,2024-01-10,CUST-0114,P008,External SSD 1TB,Storage,Electronics,North,Retail,2,116.46,0.1,209.63,158.39,51.24,Bank Transfer
+ORD-01487,2025-01-01,CUST-0099,P012,Monitor Arm,Accessories,Office,North,Retail,1,89.47,0.0,89.47,60.84,28.63,Bank Transfer
+ORD-01488,2024-08-27,CUST-0253,P004,Mechanical Keyboard,Accessories,Electronics,East,Online,1,106.88,0.1,96.19,72.68,23.51,PayPal
+ORD-01489,2025-12-21,CUST-0108,P008,External SSD 1TB,Storage,Electronics,North,Online,2,118.03,0.1,212.45,160.52,51.93,Bank Transfer
+ORD-01490,2024-04-23,CUST-0143,P007,Desk Lamp,Furniture,Office,West,Online,4,65.99,0.0,263.96,179.49,84.47,Bank Transfer
+ORD-01491,2025-11-06,CUST-0290,P004,Mechanical Keyboard,Accessories,Electronics,South,Online,2,109.1,0.0,218.2,148.38,69.82,Bank Transfer
+ORD-01492,2024-03-07,CUST-0066,P003,4K Monitor,Monitors,Electronics,East,Online,2,379.41,0.0,758.82,516.0,242.82,Bank Transfer
+ORD-01493,2024-10-07,CUST-0099,P012,Monitor Arm,Accessories,Office,North,Retail,2,98.49,0.15,167.43,133.95,33.48,Bank Transfer
+ORD-01494,2025-04-09,CUST-0002,P009,USB-C Dock,Accessories,Electronics,West,Online,1,195.74,0.05,185.95,133.1,52.85,PayPal
+ORD-01495,2025-02-20,CUST-0141,P007,Desk Lamp,Furniture,Office,North,Retail,1,60.6,0.0,60.6,41.21,19.39,PayPal
+ORD-01496,2025-06-13,CUST-0023,P006,Standing Desk,Furniture,Office,South,Online,1,516.34,0.2,413.07,351.11,61.96,PayPal
+ORD-01497,2025-06-29,CUST-0230,P007,Desk Lamp,Furniture,Office,East,Online,3,61.41,0.1,165.81,125.28,40.53,PayPal
+ORD-01498,2024-12-08,CUST-0042,P004,Mechanical Keyboard,Accessories,Electronics,North,Online,2,112.48,0.0,224.96,152.97,71.99,Bank Transfer
+ORD-01499,2024-03-17,CUST-0128,P007,Desk Lamp,Furniture,Office,South,Online,1,67.51,0.0,67.51,45.91,21.6,PayPal
+ORD-01500,2024-03-05,CUST-0050,P005,Office Chair,Furniture,Office,North,Retail,1,282.84,0.0,282.84,192.33,90.51,PayPal
