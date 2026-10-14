@@ -1,4 +1,4 @@
-# Retail Sales Analytics — Excel, SQL & Power BI
+# Retail Sales Analytics  Excel, SQL & Power BI
 
 ## Overview
 
@@ -192,4 +192,4 @@ This project is relevant to:
 
 MIT License
 
-**Thanks for visiting! 📊**
+
